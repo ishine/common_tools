@@ -80,5 +80,3 @@ for line in open(lexicon_file,'r'):
 
 map_lexicon_file.close()
 nomap_lexicon_file.close()
-
-
