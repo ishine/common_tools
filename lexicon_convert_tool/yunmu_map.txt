@@ -1,0 +1,38 @@
+a A
+ai AA I
+an AA N
+ang A NG
+ao A U
+e E
+ei EE I
+en  EEN N
+eng EENG NG
+er ER
+i I
+ia I A
+ian I EA N
+iang I A NG
+iao I A U
+ie I EA
+ii IZ
+iii IZH
+in I N
+ing I NG
+iong I U NG
+iou I OO U
+o O
+ong U NG
+ou OO U
+u U
+ua  U A
+uai U AA I
+uan U AA N
+uang U A NG
+uei U EE I
+uen U EEN N
+ueng U EENG NG
+uo U O
+v  V
+van V EA N
+ve V EA
+vn V N
