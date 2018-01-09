@@ -1,3 +1,5 @@
+!SIL	SIL
+<UNK>	SIL
 丼	J I_3 NG_3
 亼	J I_2
 伈	X I_3 N_3
@@ -207,14 +209,1590 @@
 １	YH I_1 A_1 U_1
 ２	EH ER_4
 ３	S AA_1 N_1
+３ｄ	S AA_1 N_1 D I_1
+３ｄ	S AA_1 N_1 D I_4
+３ｄ２ｙ	S AA_1 N_1 D I_1 EH ER_4 WH U_1 AA_1 I_1
 ４	S IZ_4
 ４７影视	S IZ_4 Q I_1 YH I_3 NG_3 SH IZH_4
+４ｓ	S IZ_4 AH AA_2 I_2 S
+４ｓ	S IZ_4 AH AA_2 I_2 S IZ_1
 ５	WH U_3
 ５５度杯	WH U_3 WH U_3 D U_4 B EE_1 I_1
 ６	L I_4 OO_4 U_4
 ７	Q I_1
 ８	B A_1
 ９	J I_3 OO_3 U_3
+ａ	EH EE_1 I_1
+ａ	EH EE_4 I_4
+ａａ	EH EE_1 I_1 EH EE_1 I_1
+ａｂ	EH EE_1 I_1 B I_1
+ａｂ	EH EE_1 I_1 B I_4
+ａｂｃ	EH EE_1 I_1 B I_1 S EE_1 I_1
+ａｂｃ	EH EE_1 I_1 B I_4 S EE_1 I_1
+ａｂｏｕｔ	EH E_1 B A_4 U_4 T
+ａｃ	EH EE_1 I_1 S EE_1 I_1
+ａｃ	EH EE_1 I_1 S EE_4 I_4
+ａｃｅ	EH EE_4 I_4 S IZ_3
+ａｃｅｒ	EH EE_1 I_1 S ER_1
+ａｃｅｒ	EH EE_1 I_1 S ER_3
+ａｄ	EH EE_1 I_1 D I_1
+ａｄ	EH EE_1 I_4 D I_4
+ａｄｄ	AH AA_4 I_4 D
+ａｄｄ	AH AA_4 I_4 D E_3
+ａｄｄ	EH I_4 EA_4 D
+ａｄｉｄａｓ	AH A_1 D I_3 D A_3 S IZ_3
+ａｄｉｄａｓ	AH A_3 D I_1 D A_3 S IZ_3
+ａｄｍｉｎ	EH E_1 D E_1 M I_4 NG_4
+ａｄｍｉｎ	EH E_1 D E_1 M I_4 N_4
+ａｄｏｂｅ	EH E_1 D OO_1 U_1 B I_3
+ａｄｏｂｅ	EH E_1 D U_1 B I_3
+ａｄｓｌ	EH EE_1 I_1 D I_1 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH A_1 U_1
+ａｄｓｌ	EH EE_1 I_1 D I_1 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH OH OO_1 U_1
+ａｄｓｌ	EH EE_1 I_1 D I_4 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH A_1 U_1
+ａｄｓｌ	EH EE_1 I_1 D I_4 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH OH OO_1 U_1
+ａｇａｉｎ	N OO_4 U_4
+ａｉｒ	AH AA_1 I_1 EH ER_3
+ａｉｒ	AH AA_4 I_4 EH ER_3
+ａｉｒ	EH EE_1 I_1 EH ER_3
+ａｉｒ	EH I_1 EA_1 EH ER_3
+ａｋ	EH EE_1 I_1 K EE_1 I_1
+ａｋ	EH EE_1 I_1 K EE_4 I_4
+ａｌｅｘ	AA_1 I_1 L EE_3 I_3 K S IZ_3
+ａｌｅｘ	AA_1 I_1 L I_3 K S
+ａｌｅｘ	AA_1 I_1 L I_3 K S IZ_3
+ａｌｅｘ	EH I_1 EA_1 L I_3 K S
+ａｌｅｘ	EH I_1 EA_1 L I_3 K S IZ_3
+ａｌｌ	OH O_1
+ａｌｌ	OH O_2
+ａｌｌ	OH O_4
+ａｌｔ	EH EE_1 I_1 AH AA_2 I_2 AH A_1 U_1 T I_4
+ａｍ	EH EE_1 I_1 AH AA_2 I_2 M U_3
+ａｍｄ	EH EE_1 I_1 AH AA_2 I_2 M U_1 D I_1
+ａｍｄ	EH EE_1 I_1 AH AA_2 I_2 M U_1 D I_4
+ａｍｙ	EH EE_1 I_1 M I_3
+ａｍｙ	EH I_1 EA_1 M I_3
+ａｎｄ	AH AA_1 N_1 D E_1
+ａｎｄ	AH AA_4 N_4 D
+ａｎｄ	AH AA_4 N_4 D E_3
+ａｎｄ	EH I_4 EA_4 D
+ａｎｄ	EH I_4 EA_4 D E_3
+ａｎｄｒｏｉｄ	AH AA_1 N_1 ZH U_4 AA_4 I_4 D
+ａｎｄｒｏｉｄ	AH AA_1 N_1 ZH U_4 AA_4 I_4 D E_3
+ａｎｄｒｏｉｄ	AH AA_3 N_3 ZH U_4 AA_4 I_4 D
+ａｎｄｒｏｉｄ	EH I_1 EA_1 N_1 ZH U_4 AA_4 I_4 D E_3
+ａｎｄｙ	AH AA_1 N_1 D I_3
+ａｎｄｙ	EH I_1 EA_1 N_1 D I_3
+ａｎｇｅｌ	AH AA_1 N_1 J I_3 OO_3 U_3
+ａｎｇｅｌ	AH AA_1 N_1 ZH E_3 OH OO_3 U_3
+ａｎｇｅｌ	EH EE_1 I_1 N_1 J I_3 OO_3 U_3
+ａｎｇｅｌ	EH EE_1 I_1 N_1 ZH E_3 OH OO_3 U_3
+ａｎｇｅｌ	EH I_1 EA_1 N_1 J I_3 OO_3 U_3
+ａｎｇｅｌａ	N OO_4 U_4
+ａｎｇｅｌａｂａｂｙ	AH AA_1 N_1 J I_1 OO_1 U_1 L A_1 B EE_1 I_1 B I_3
+ａｎｇｅｌａｂａｂｙ	AH AA_1 N_1 J I_3 OO_3 U_3 L A_1 B EE_1 I_1 B I_3
+ａｎｇｅｌａｂａｂｙ	AH AA_1 N_1 ZH E_1 L A_1 B EE_1 I_1 B I_3
+ａｎｇｅｌａｂａｂｙ	EH I_1 EA_1 N_1 J I_1 OO_1 U_1 L A_1 B EE_1 I_1 B I_3
+ａｎｇｅｌａｂａｂｙ	EH I_1 EA_1 N_1 ZH E_1 L A_1 B EE_1 I_1 B I_3
+ａｎｎａ	N OO_4 U_4
+ａｐｅｃ	EH EE_1 I_1 P AA_4 I_4 K
+ａｐｅｃ	EH EE_1 I_1 P AA_4 I_4 K E_3
+ａｐｅｃ	EH EE_1 I_1 P AA_4 I_4 K E_4
+ａｐｅｃ	EH EE_1 I_1 P I_4 YH I_1 S EE_1 I_1
+ａｐｅｃ峰会	EH EE_1 I_1 P AA_4 I_4 K E_4 F EENG_1 NG_1 H U_4 EE_4 I_4
+ａｐｅｃ峰会国际会议中心	EH EE_1 I_1 P AA_4 I_4 K E_4 F EENG_1 NG_1 H U_4 EE_4 I_4 G U_2 O_2 J I_4 H U_4 EE_4 I_4 YH I_4 ZH U_1 NG_1 X I_1 N_1
+ａｐｋ	EH EE_1 I_1 P I_1 K EE_1 I_1
+ａｐｋ	EH EE_1 I_1 P I_1 K EE_4 I_4
+ａｐｋ	EH EE_1 I_1 P I_4 K EE_4 I_4
+ａｐｐ	AH AA_4 I_4 P
+ａｐｐ	EH EE_1 I_1 P I_1 P I_1
+ａｐｐ	EH EE_1 I_1 P I_4 P I_4
+ａｐｐ	EH EE_4 I_4 P
+ａｐｐ	EH I_4 EA_4 P
+ａｐｐｌｅ	AH AA_1 I_1 P OO_1 U_1
+ａｐｐｌｅ	AH AA_1 I_1 P OO_3 U_3
+ａｐｐｌｅ	EH EE_1 I_1 P OO_1 U_1
+ａｐｐｌｅ	EH EE_1 I_1 P OO_3 U_3
+ａｐｐｌｅ	EH I_1 EA_1 P OO_3 U_3
+ａｐｐｓｔｏｒｅ	EH EE_1 I_1 P E_3 S IZ_3 D U_4 O_4
+ａｐｐｓｔｏｒｅ	EH EE_1 I_1 P I_1 P I_1 S IZ_3 D U_4 O_4
+ａｐｐｓｔｏｒｅ	EH I_1 EA_1 P E_3 S IZ_3 D U_4 O_4
+ａｒａ	N OO_4 U_4
+ａｒｅ	AH A_1
+ａｒｅ	AH A_2
+ａｒｅ	AH A_4
+ａｒｅ	AH A_4 ER_3
+ａｓｕｓ	EH EE_1 I_1 S E_3 S IZ_3
+ａｔ	AH AA_4 I_4 T
+ａｔ	AH AA_4 I_4 T E_3
+ａｔ	EH I_4 EA_4 I_4 T
+ａｔｍ	EH EE_1 I_1 T I_1 EH I_1 EA_1 M
+ａｔｍ	EH EE_1 I_1 T I_4 AH AA_2 I_2 M
+ａｖ	EH EE_1 I_1 WH U_1 EE_1 I_1
+ａｖｉ	EH EE_1 I_1 WH U_1 EE_1 I_1 AH AA_4 I_4
+ｂ	B I_1
+ｂ	B I_4
+ｂ１	B I_4 YH I_1
+ｂａｂｙ	B EE_1 I_1 B I_3
+ｂａｃｋ	N OO_4 U_4
+ｂａｄ	B AA_4 I_4 D E_3
+ｂａｄ	B I_4 EA_4 D
+ｂａｌｌ	B A_4 U_4
+ｂａｌｌ	B O_4
+ｂａｎ	B EE_4 I_4 N_4
+ｂａｎ	B I_4 EA_4 N_4
+ｂａｎｇ	N OO_4 U_4
+ｂａｎｋ	B AA_4 N_4 K
+ｂａｎｋ	B AA_4 N_4 K E_3
+ｂａｎｋ	B EE_4 I_4 N_4 K
+ｂａｎｋ	B EE_4 I_4 N_4 K E_3
+ｂａｎｋ	B I_4 EA_4 N_4 K
+ｂａｎｋ	B I_4 EA_4 N_4 K E_3
+ｂａｒ	B A_4
+ｂａｒ	B A_4 ER_3
+ｂｂ	B I_1 B I_1
+ｂｂ	B I_4 B I_4
+ｂｂｓ	B I_1 B I_1 AH AA_2 I_2 S
+ｂｂｓ	B I_4 B I_4 AH AA_2 I_2 S
+ｂｅａｔ	B I_4 T
+ｂｅａｔ	B I_4 T E_3
+ｂｅａｕｔｉｆｕｌ	B I_1 OO_1 U_1 T E_3 F OO_3 U_3
+ｂｅｃａｕｓｅ	N OO_4 U_4
+ｂｅｎ	N OO_4 U_4
+ｂｅｒｓｉｈ	B I_4 YH I_4 AH A_4 AH AA_2 I_2 S AH AA_4 I_4 EH EE_2 I_2
+ｂｅｓｔ	B EE_4 I_4 S IZ_3 T
+ｂｅｓｔ	B EE_4 I_4 S T
+ｂｅｓｔ	B I_4 EA_4 S IZ_3 T
+ｂｅｓｔ	B I_4 EA_4 S T
+ｂｅｔａ	B EE_1 I_1 T A_1
+ｂｅｔａ	B I_1 EA_1 T A_3
+ｂｅｔｔｅｒ	B EE_1 I_1 T E_3
+ｂｅｔｔｅｒ	B I_1 EA_1 T E_3
+ｂｅｙｏｎｄ	B I_3 YH I_4 A_4 NG_4 D
+ｂｅｙｏｎｄ	B I_3 YH I_4 A_4 NG_4 D E_3
+ｂｉｇ	B I_4 G
+ｂｉｇ	B I_4 G E_3
+ｂｉｇｂａｎｇ	B I_1 G B A_4 NG_4
+ｂｉｇｂａｎｇ	B I_1 G B I_4 EA_4 NG_4
+ｂｉｇｂａｎｇ	B I_1 G E_3 B A_4 NG_4
+ｂｉｇｂａｎｇ	B I_1 G E_3 B I_4 EA_4 NG_4
+ｂｉｌｌ	B I_1 E_3
+ｂｉｌｌ	B I_3 EH ER_3
+ｂｉｌｌ	B I_4 OH OO_3 U_3
+ｂｉｎ	B I_4 N_4
+ｂｉｎｇ	B I_4 NG_4
+ｂｉｎｇｏ	B I_1 NG_1 G OO_1 U_1
+ｂｉｎｇｏ	B I_1 NG_1 G OO_3 U_3
+ｂｉｏｓ	B AA_4 I_4 AH A_3 U_3 S IZ_3
+ｂｉｏｓ	B AA_4 I_4 OH OO_3 U_3 S IZ_3
+ｂｉｏｓ	B I_1 AH AA_4 I_4 OH OO_1 U_1 AH AA_2 I_2 S IZ_3
+ｂｉｒｔｈｄａｙ	B ER_1 S D EE_3 I_3
+ｂｉｒｔｈｄａｙ	B ER_1 S D EE_4 I_4
+ｂｉｒｔｈｄａｙ	B ER_1 S IZ_3 D EE_3 I_3
+ｂｉｒｔｈｄａｙ	B ER_1 S IZ_3 D EE_4 I_4
+ｂｉｔ	B I_4 T
+ｂｉｔ	B I_4 T E_3
+ｂｉｔｃｈ	B I_4 CH I_3
+ｂｉｔｃｈ	B I_4 Q I_3
+ｂｌ	B I_1 AH AA_1 I_1 AH A_1 U_1
+ｂｌ	B I_4 AH AA_2 I_2 AH A_3 U_3
+ｂｌａｃｋ	N OO_4 U_4
+ｂｌａｃｋｂｅｒｒｙ	B L AA_1 I_1 K B EE_1 I_1 R I_3
+ｂｌａｃｋｂｅｒｒｙ	B L I_2 EA_2 K B I_1 EA_1 R I_3
+ｂｌｏｃｋ	N OO_4 U_4
+ｂｌｏｇ	B L A_4 U_4 G
+ｂｌｏｇ	B L A_4 U_4 G E_3
+ｂｌｏｏｄ	N OO_4 U_4
+ｂｌｕｅ	B L U_4
+ｂｌｕｅ	B U_1 L U_4
+ｂｌｕｅ	B U_3 L U_4
+ｂｌｕｅｄ	N OO_4 U_4
+ｂｍｗ	B I_1 AH AA_2 I_2 M U_1 D AH A_2 B L I_3 OO_3 U_3
+ｂｍｗ	B I_1 AH AA_2 I_2 M U_1 D AH A_4 B L I_1 OO_1 U_1
+ｂｍｗ	B I_4 AH AA_2 I_2 M U_1 D AH A_2 B L I_3 OO_3 U_3
+ｂｍｗ	B I_4 AH AA_2 I_2 M U_1 D AH A_4 B L I_1 OO_1 U_1
+ｂｏｂ	B A_4 U_4 B
+ｂｏｂ	B A_4 U_4 B E_3
+ｂｏｂ	B O_4 B
+ｂｏｏｋ	B U_4 K
+ｂｏｏｋ	B U_4 K E_3
+ｂｏｏｍ	B U_4 M
+ｂｏｏｍ	B U_4 M U_3
+ｂｏｏｓ	B U_4 S IZ_3
+ｂｏｏｔ	B U_4 T
+ｂｏｏｔ	B U_4 T E_1
+ｂｏｓｓ	B A_4 U_4 S
+ｂｏｓｓ	B A_4 U_4 S IZ_3
+ｂｏｓｓ	B OO_4 U_4 S
+ｂｏｓｓ	B OO_4 U_4 S IZ_3
+ｂｏｓｓ	B O_4 S
+ｂｏｓｓ	B O_4 S IZ_3
+ｂｏｘ	N OO_4 U_4
+ｂｏｙ	B A_4 U_4 YH I_3
+ｂｏｙ	B O_4 YH I_3
+ｂｏｙｆｒｉｅｎｄ	B O_1 YH I_1 F U_1 R U_4 EEN_4 N_4 D
+ｂｏｙｆｒｉｅｎｄ	B O_2 I_2 F U_1 R I_4 EA_4 N_4 D
+ｂｏｙｓ	N OO_4 U_4
+ｂｒａ	B U_1 R U_4 A_4
+ｂｒｅａｋ	N OO_4 U_4
+ｂｔ	B I_1 T I_1
+ｂｔ	B I_4 T I_4
+ｂｔｖ	B I_1 T I_1 WH U_1 EE_1 I_1
+ｂｔｖ	B I_4 T I_4 WH U_1 EE_1 I_1
+ｂｕｆｆ	B A_4 F
+ｂｕｆｆ	B A_4 F U_3
+ｂｕｇ	B A_4 G
+ｂｕｇ	B A_4 G E_3
+ｂｕｓ	B A_4 S IZ_1
+ｂｕｔ	B A_4 T
+ｂｕｔ	B A_4 T E_1
+ｂｕｙ	B AA_4 I_4
+ｂｙ	B AA_1 I_1
+ｂｙ	B AA_4 I_4
+ｂｙｅ	B AA_1 I_1
+ｂｙｅ	B AA_4 I_4
+ｃ	S EE_1 I_1
+ｃ	S EE_4 I_4
+ｃ	S I_1
+ｃａ	S EE_1 I_1 EH EE_1 I_1
+ｃａ	S EE_4 I_4 EH EE_1 I_1
+ｃａ	S I_1 EH EE_1 I_1
+ｃａｄ	S EE_1 I_1 EH EE_1 I_1 D I_1
+ｃａｄ	S EE_1 I_1 EH EE_1 I_1 D I_4
+ｃａｄ	S EE_4 I_4 EH EE_1 I_1 D I_1
+ｃａｄ	S EE_4 I_4 EH EE_1 I_1 D I_4
+ｃａｋｅ	N OO_4 U_4
+ｃａｌｌ	K A_1 U_1
+ｃａｌｌ	K O_1
+ｃａｌｌ	K O_4
+ｃａｎ	K EEN_4 N_4
+ｃａｎ	K I_4 EA_4 N_4
+ｃａｎｄｙ	N OO_4 U_4
+ｃａｎｏｎ	K AA_1 I_1 N EENG_3 NG_3
+ｃａｎｏｎ	K AA_1 I_1 N EEN_3 N_3
+ｃａｎｏｎ	K I_1 EA_1 N EEN_3 N_3
+ｃａｒｅ	K AA_1 I_1 EH E_1
+ｃａｒｅ	K EE_4 I_4 E_3
+ｃａｒｅ	K I_1 EA_1 ER_3
+ｃａｒｒｙ	K AA_1 I_1 R U_3 I_3
+ｃａｒｒｙ	K EE_1 I_1 R U_3 I_3
+ｃａｒｒｙ	K I_1 EA_1 R U_3 I_3
+ｃａｓｅ	K EE_4 I_4 S
+ｃａｓｅ	K EE_4 I_4 S IZ_3
+ｃａｔ	K AA_4 I_4 T
+ｃａｔ	K AA_4 I_4 T E_3
+ｃａｔ	K I_4 EA_4 T
+ｃｂａ	S EE_1 I_1 B I_1 EH EE_1 I_1
+ｃｂａ	S EE_1 I_1 B I_4 EH EE_1 I_1
+ｃｂａ	S EE_4 I_4 B I_1 EH EE_1 I_1
+ｃｂａ	S EE_4 I_4 B I_4 EH EE_1 I_1
+ｃｂｄ	S EE_1 I_1 B I_1 D I_4
+ｃｂｄ	S EE_1 I_1 B I_4 D I_4
+ｃｃ	S EE_1 I_1 S EE_1 I_1
+ｃｃｔｖ	S EE_1 I_1 S EE_1 I_1 T I_1 WH U_1 EE_1 I_1
+ｃｃｔｖ	S EE_1 I_1 S EE_1 I_1 T I_4 WH U_1 EE_1 I_1
+ｃｃｔｖ	S EE_4 I_4 S EE_4 I_4 T I_1 WH U_1 EE_1 I_1
+ｃｃｔｖ	S EE_4 I_4 S EE_4 I_4 T I_4 WH U_1 EE_1 I_1
+ｃｄ	S EE_1 I_1 D I_1
+ｃｄ	S EE_1 I_1 D I_4
+ｃｄ	S EE_4 I_4 D I_1
+ｃｄ	S EE_4 I_4 D I_4
+ｃｄｋｅｙ	S EE_1 I_1 D I_1 K I_4
+ｃｄｋｅｙ	S EE_1 I_1 D I_4 K I_4
+ｃｄｋｅｙ	S EE_4 I_4 D I_1 K I_4
+ｃｄｋｅｙ	S EE_4 I_4 D I_4 K I_4
+ｃｄｍａ	S EE_1 I_1 D I_1 AH AA_2 I_2 M U_1 EH EE_1 I_1
+ｃｄｍａ	S EE_1 I_1 D I_1 AH AA_2 I_2 M U_3 EH EE_1 I_1
+ｃｄｍａ	S EE_1 I_1 D I_4 AH AA_2 I_2 M U_1 EH EE_1 I_1
+ｃｄｍａ	S EE_1 I_1 D I_4 AH AA_2 I_2 M U_3 EH EE_1 I_1
+ｃｄｍａ	S EE_4 I_4 D I_1 AH AA_2 I_2 M U_1 EH EE_1 I_1
+ｃｄｍａ	S EE_4 I_4 D I_1 AH AA_2 I_2 M U_3 EH EE_1 I_1
+ｃｄｍａ	S EE_4 I_4 D I_4 AH AA_2 I_2 M U_1 EH EE_1 I_1
+ｃｅｏ	S EE_1 I_1 YH I_1 OH OO_1 U_1
+ｃｅｏ	S EE_1 I_1 YH I_4 OH OO_1 U_1
+ｃｅｏ	S EE_4 I_4 YH I_1 OH OO_1 U_1
+ｃｅｏ	S EE_4 I_4 YH I_4 OH OO_1 U_1
+ｃｆ	S EE_1 I_1 AH AA_2 I_2 F U_1
+ｃｆ	S EE_4 I_4 AH AA_2 I_2 F U_1
+ｃｆ清刚	S EE_1 I_1 AH AA_2 I_2 F Q I_1 NG_1 G A_1 NG_1
+ｃｆ妖姬	S EE_1 I_1 AH AA_2 I_2 F YH I_1 A_1 U_1 J I_1
+ｃｈａｎｅｌ	N OO_4 U_4
+ｃｈｅｃｋ	N OO_4 U_4
+ｃｈｅｒｒｙ	N OO_4 U_4
+ｃｈｉｎａ	CH AA_1 I_1 N A_1
+ｃｈｉｎａ	CH AA_1 I_1 N E_1
+ｃｈｉｎａｎｅｔ	N OO_4 U_4
+ｃｈｒｉｓｔｍａｓ	K E_1 R I_4 S IZ_1 M E_1 S
+ｃｈｒｏｍｅ	K E_1 R A_4 U_4 M U_1
+ｃｈｒｏｍｅ	K E_1 R A_4 U_4 M U_3
+ｃｈｒｏｍｅ	K E_1 R OO_4 U_4 M
+ｃｈｒｏｍｅ	K E_1 R OO_4 U_4 M U_1
+ｃｈｒｏｍｅ	K E_1 R OO_4 U_4 M U_3
+ｃｉｎｄｙ	N OO_4 U_4
+ｃｉｓｃｏ	S I_1 S K E_1
+ｃｉｓｃｏ	S I_4 S IZ_1 K OO_1 U_1
+ｃｉｓｃｏ	S I_4 S IZ_1 K OO_3 U_3
+ｃｉｔｙ	N OO_4 U_4
+ｃｋ	S EE_1 I_1 K EE_1 I_1
+ｃｋ	S EE_1 I_1 K EE_4 I_4
+ｃｋ	S EE_4 I_4 K EE_1 I_1
+ｃｋ	S EE_4 I_4 K EE_4 I_4
+ｃｌａｓｓｉｃ	K E_1 L A_4 S I_1 K E_1
+ｃｌａｓｓｉｃ	K E_4 L A_1 S I_1 K
+ｃｌａｓｓｉｃ	K E_4 L A_1 S I_1 K E_1
+ｃｌｉｃｋ	K E_1 L I_4 K
+ｃｌｉｃｋ	K E_1 L I_4 K E_1
+ｃｌｕｂ	K E_1 L A_4 B
+ｃｍ	S EE_1 I_1 AH AA_2 I_2 M U_1
+ｃｍｃｃ	S EE_1 I_1 AH AA_2 I_2 M S EE_1 I_1 S EE_1 I_1
+ｃｍｃｃ	S EE_1 I_1 AH AA_2 I_2 M U_1 S EE_1 I_1 S EE_1 I_1
+ｃｍｃｃ	S EE_4 I_4 AH AA_2 I_2 M U_1 S EE_4 I_4 S EE_4 I_4
+ｃｍｗａｐ	S EE_1 I_1 AH AA_2 I_2 M U_1 D AH A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_1
+ｃｍｗａｐ	S EE_4 I_4 AH AA_2 I_2 M U_1 D AH A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_4
+ｃｍｗａｐ	S EE_4 I_4 AH AA_2 I_2 M U_1 WH U_4 A_4 P
+ｃｍｗａｐ	S EE_4 I_4 AH AA_2 I_2 M U_1 WH U_4 A_4 P U_1
+ｃｏａｃｈ	K OO_4 U_4 CH IZH_1
+ｃｏａｃｈ	K OO_4 U_4 CH IZH_3
+ｃｏａｃｈ	K OO_4 U_4 Q V_3
+ｃｏｃｏ	K OO_1 U_1 K OO_1 U_1
+ｃｏｃｏ	K OO_1 U_1 K OO_3 U_3
+ｃｏｄｅ	K OO_4 U_4 D
+ｃｏｄｅ	K OO_4 U_4 D E_1
+ｃｏｆｆｅｅ	K A_1 U_1 F I_3
+ｃｏｆｆｅｅ	K O_1 F I_3
+ｃｏｌｏｒ	K AA_4 N_4 L ER_1
+ｃｏｌｏｒ	K AA_4 N_4 L ER_3
+ｃｏｌｏｒ	K AA_4 N_4 L E_1
+ｃｏｌｏｒ	K AA_4 N_4 L E_3
+ｃｏｌｏｒ	K A_1 L A_1
+ｃｏｌｏｒ	K A_1 L A_3
+ｃｏｌｏｒ	K A_1 L ER_1
+ｃｏｌｏｒ	K A_1 L ER_3
+ｃｏｌｏｒ	K A_3 L ER_1
+ｃｏｌｏｒ	K A_3 L ER_3
+ｃｏｌｏｒ	K A_4 NG_4 L ER_1
+ｃｏｌｏｒ	K A_4 NG_4 L ER_3
+ｃｏｍ	K A_4 U_4 M
+ｃｏｍ	K A_4 U_4 M U_3
+ｃｏｍ	S EE_1 I_1 OH OO_1 U_1 AH AA_2 I_2 M U_1
+ｃｏｍ	S EE_4 I_4 OH OO_1 U_1 AH AA_2 I_2 M U_1
+ｃｏｍｅ	K A_4 M
+ｃｏｍｅ	K A_4 U_4 M
+ｃｏｎｖｅｒｓｅ	K A_1 NG_1 WH EH ER_1 S IZ_1
+ｃｏｎｖｅｒｓｅ	K A_1 NG_1 WH EH ER_3 S IZ_1
+ｃｏｏｌ	K U_4
+ｃｏｏｌ	K U_4 EH ER_3
+ｃｏｏｐｅｒ	K U_4 P ER_1
+ｃｏｐｙ	K A_4 U_4 P I_1
+ｃｏｓ	K A_4 U_4 S
+ｃｏｓ	K A_4 U_4 S IZ_3
+ｃｏｓ	K OO_4 U_4 S IZ_3
+ｃｏｓｐｌａｙ	K A_1 U_1 S IZ_1 P L EE_4 I_4
+ｃｏｓｐｌａｙ	K A_1 U_1 S P L EE_4 I_4
+ｃｏｓｐｌａｙ	K OO_1 U_1 S IZ_1 P L EE_4 I_4
+ｃｏｓｔａ	K A_1 U_1 S T A_1
+ｃｏｓｔａ	K OO_1 U_1 S IZ_1 T A_1
+ｃｐ	S EE_1 I_1 P I_1
+ｃｐ	S EE_1 I_1 P I_4
+ｃｐ	S EE_4 I_4 P I_1
+ｃｐ	S EE_4 I_4 P I_4
+ｃｐｉ	S EE_1 I_1 P I_1 AH AA_1 I_1
+ｃｐｉ	S EE_4 I_4 P I_4 AH AA_4 I_4
+ｃｐｕ	S EE_1 I_1 P I_1 YH I_1 OO_1 U_1
+ｃｐｕ	S EE_4 I_4 P I_4 YH I_1 OO_1 U_1
+ｃｒａｚｙ	N OO_4 U_4
+ｃｒｖ	S EE_1 I_1 AH A_2 WH U_1 EE_1 I_1
+ｃｒｖ	S EE_1 I_1 AH A_4 WH U_1 EE_1 I_1
+ｃｒｖ	S EE_4 I_4 AH A_4 WH U_1 EE_1 I_1
+ｃｒｙ	K E_1 R U_4 AA_4 I_4
+ｃｒｙ	K R U_4 AA_4 I_4
+ｃｓ	S EE_1 I_1 AH AA_2 I_2 S
+ｃｓ	S EE_1 I_1 AH AA_2 I_2 S IZ_1
+ｃｓｏｌ	S EE_1 I_1 AH AA_2 I_2 S OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
+ｃｓｏｌ	S EE_4 I_4 AH AA_2 I_2 S OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
+ｃｔｒｌ	K EENG_1 NG_1 Q I_4 OO_4 U_4
+ｃｔｒｌ	K EENG_3 NG_3 CH OO_4 U_4
+ｃｔｒｌ	K EEN_1 N_1 Q I_4 OO_4 U_4
+ｃｔｒｌ	K EEN_3 N_3 CH OO_4 U_4
+ｃｕｐ	N OO_4 U_4
+ｃｕｔ	N OO_4 U_4
+ｃｕｔｅ	K I_4 OO_4 U_4 T
+ｃｕｔｅ	K I_4 OO_4 U_4 T E_3
+ｄ	D I_1
+ｄ	D I_4
+ｄａｄ	D AA_4 I_4 D
+ｄａｄ	D AA_4 I_4 D E_1
+ｄａｄｄｙ	D AA_1 I_1 D I_3
+ｄａｄｄｙ	D I_1 EA_1 D I_3
+ｄａｒｌｉｎｇ	D A_1 L I_1 NG_1
+ｄａｒｌｉｎｇ	D A_2 L I_2 NG_2
+ｄａｔａ	D EE_1 I_1 T A_3
+ｄａｔａ	D I_1 EA_1 T A_3
+ｄａｖｉｄ	D AA_1 I_1 WH U_3 EE_3 I_3 D
+ｄａｖｉｄ	D EE_1 I_1 WH U_3 EE_3 I_3 D
+ｄａｖｉｄ	D EE_1 I_1 WH U_3 EE_3 I_3 D E_3
+ｄａｙ	D EE_4 I_4
+ｄｅａｒ	D I_1 EH ER_3
+ｄｅａｒ	D I_4 EH ER_3
+ｄｅｌｅｔｅ	N OO_4 U_4
+ｄｅｌｌ	D EE_4 I_4 EH ER_3
+ｄｅｌｌ	D I_4 EA_4 EH ER_3
+ｄｆｓ	D I_1 AH AA_2 I_2 F U_1 AH AA_2 I_2 S
+ｄｆｓ	D I_1 AH AA_2 I_2 F U_3 AH AA_2 I_2 S
+ｄｆｓ	D I_4 AH AA_2 I_2 F U_1 AH AA_2 I_2 S
+ｄｆｓ	D I_4 AH AA_2 I_2 F U_3 AH AA_2 I_2 S
+ｄｈｃ	D I_1 EH EE_2 I_2 CH IZH_1 S EE_1 I_1
+ｄｈｃ	D I_4 EH EE_2 I_2 CH IZH_1 S EE_4 I_4
+ｄｉｅ	D AA_4 I_4
+ｄｉｇ	D I_4 G
+ｄｉｇ	D I_4 G E_3
+ｄｉｏｒ	D I_1 EH ER_3
+ｄｉｓｃｏ	D I_1 S IZ_1 K A_1 U_1
+ｄｉｓｃｏ	D I_1 S IZ_1 K OO_4 U_4
+ｄｉｓｃｏ	D I_1 S K A_1 U_1
+ｄｉｖ	D I_1 AH AA_4 I_4 WH U_1 EE_1 I_1
+ｄｉｖ	D I_4 AH AA_3 I_3 WH U_1 EE_1 I_1
+ｄｉｖ	D I_4 AH AA_4 I_4 WH U_1 EE_1 I_1
+ｄｉｙ	D I_1 AH AA_1 I_1 WH U_1 AA_1 I_1
+ｄｉｙ	D I_4 AH AA_4 I_4 WH U_1 AA_1 I_1
+ｄｉｙ	D I_4 AH AA_4 I_4 WH U_4 AA_4 I_4
+ｄｊ	D I_1 ZH EE_1 I_1
+ｄｊ	D I_1 ZH EE_4 I_4
+ｄｊ	D I_4 ZH EE_1 I_1
+ｄｊ	D I_4 ZH EE_4 I_4
+ｄｎａ	D I_1 EH EEN_1 N_1 EH EE_1 I_1
+ｄｎａ	D I_4 EH EEN_1 N_1 EH EE_1 I_1
+ｄｎｆ	D I_1 EH EEN_1 N_1 AH AA_2 I_2 F U_1
+ｄｎｆ	D I_4 EH EEN_1 N_1 AH AA_2 I_2 F U_1
+ｄｎｓ	D I_1 EH EEN_1 N_1 AH AA_2 I_2 S IZ_1
+ｄｎｓ	D I_4 EH EEN_1 N_1 AH AA_2 I_2 S IZ_1
+ｄｏ	D U_4
+ｄｏｃ	D A_4 U_4 K E_1
+ｄｏｃ	D I_1 OH OO_1 U_1 S EE_1 I_1
+ｄｏｃ	D I_4 OH OO_1 U_1 S EE_4 I_4
+ｄｏｃｔｏｒ	N OO_4 U_4
+ｄｏｇ	D A_4 U_4 G
+ｄｏｇ	D A_4 U_4 G E_1
+ｄｏｇｅ	N OO_4 U_4
+ｄｏｓ	D A_4 U_4 S
+ｄｏｓ	D A_4 U_4 S IZ_3
+ｄｏｓ	D O_4 S
+ｄｏｔａ	D A_1 U_1 T A_3
+ｄｏｔａ	D O_1 T A_3
+ｄｏｕｂｌｅ	N OO_4 U_4
+ｄｏｗｎ	D A_4 NG_4
+ｄｏｗｎ	D A_4 U_4 N_4
+ｄｒａｇｏｎ	N OO_4 U_4
+ｄｒｅａｍ	N OO_4 U_4
+ｄｖ	D I_1 WH U_1 EE_1 I_1
+ｄｖ	D I_4 WH U_1 EE_1 I_1
+ｄｖｄ	D I_1 WH U_1 EE_1 I_1 D I_1
+ｄｖｄ	D I_4 WH U_1 EE_1 I_1 D I_4
+ｅ	YH I_1
+ｅ	YH I_4
+ｅａｓｏｎ	YH I_1 S EEN_3 N_3
+ｅａｓｙ	YH I_1 S I_3
+ｅａｓｙ	YH I_1 X I_3
+ｅｃｈｏ	N OO_4 U_4
+ｅｇｇ	N OO_4 U_4
+ｅｌｌｅ	YH I_4 AH AA_2 I_2 L AH AA_2 I_2 L YH I_4
+ｅｍａｉｌ	YH I_1 M EE_2 I_2 EH ER_3
+ｅｍａｉｌ	YH I_1 M EE_4 I_4 OH OO_3 U_3
+ｅｍａｉｌ	YH I_1 M EE_4 I_4 OO_3 U_3
+ｅｍｉｎｅｍ	AH AA_1 I_1 M I_1 N A_1 M
+ｅｍｉｎｅｍ	AH AA_1 I_1 M I_1 N A_1 M U_1
+ｅｍｍａ	AH AA_1 I_1 M A_1
+ｅｍｏ	N OO_4 U_4
+ｅｍｓ	YH I_1 AH AA_2 I_2 M U_1 AH AA_2 I_2 S IZ_1
+ｅｍｓ	YH I_4 AH AA_2 I_2 M U_1 AH AA_2 I_2 S IZ_1
+ｅｎｄ	N OO_4 U_4
+ｅｎｄｉｎｇ	AH AA_1 N_1 D I_1 N_1
+ｅｎｄｉｎｇ	EH EEN_1 N_1 D I_1 N_1
+ｅｎｇｌｉｓｈ	YH I_1 NG_1 G E_1 L EE_3 I_3 SH IZH_1
+ｅｎｇｌｉｓｈ	YH I_1 NG_1 G E_1 L I_3 SH IZH_1
+ｅｎｇｌｉｓｈ	YH I_1 NG_1 G L I_1 X I_1
+ｅｎｊｏｙ	N OO_4 U_4
+ｅｒｉｃ	N OO_4 U_4
+ｅｒｐ	YH I_1 AH A_2 P I_1
+ｅｒｐ	YH I_1 AH A_2 P I_4
+ｅｒｐ	YH I_4 AH A_2 P I_1
+ｅｒｐ	YH I_4 AH A_2 P I_4
+ｅｖａ	N OO_4 U_4
+ｅｖｅｒｙｂｏｄｙ	N OO_4 U_4
+ｅｘｃｅｌ	YH I_1 K E_1 S AA_4 I_4 AH A_3 U_3
+ｅｘｃｅｌ	YH I_1 K E_1 S AA_4 I_4 OH OO_3 U_3
+ｅｘｃｅｌ	YH I_1 K E_1 S EE_4 I_4 AH A_3 U_3
+ｅｘｃｅｌ	YH I_1 K E_1 S EE_4 I_4 OH OO_3 U_3
+ｅｘｃｅｌ	YH I_1 K E_1 S I_4 EA_4 OH OO_3 U_3
+ｅｘｏ	YH I_1 AH AA_2 I_2 K S OH OO_1 U_1
+ｅｘｏ	YH I_4 AH AA_2 I_2 K S OH OO_1 U_1
+ｆ	AH AA_2 I_2 F
+ｆａｃｅ	F EE_4 I_4 S IZ_3
+ｆａｃｅｂｏｏｋ	F EE_1 I_1 S B U_4 K
+ｆａｃｅｂｏｏｋ	F EE_1 I_1 S IZ_3 B U_4 K E_1
+ｆａｋｅｒ	N OO_4 U_4
+ｆａｍｉｌｙ	N OO_4 U_4
+ｆａｎ	F EE_4 I_4 N_4
+ｆａｎ	F I_4 EA_4 N_4
+ｆａｎｓ	F AA_4 N_4 S
+ｆａｎｓ	F AA_4 N_4 S IZ_1
+ｆａｎｓ	F AA_4 N_4 S IZ_3
+ｆａｎｓ	F I_4 EA_4 N_4 S
+ｆａｎｓ	F I_4 EA_4 N_4 S IZ_3
+ｆａｓｈｉｏｎ	F AA_1 I_1 SH EEN_3 N_3
+ｆａｓｈｉｏｎ	F EE_1 I_1 X I_3 EA_3 N_3
+ｆａｓｈｉｏｎ	F I_1 EA_1 SH EEN_3 N_3
+ｆａｔｅ	N OO_4 U_4
+ｆｅｅｌ	F I_1 OO_1 U_1
+ｆｅｅｌ	F I_4 OO_4 U_4
+ｆｅｅｌｉｎｇ	F I_1 L I_3 NG_3
+ｆｅｓｃｏ	F AA_1 I_1 S IZ_3 K OO_1 U_1
+ｆｅｓｃｏ	F AA_1 I_1 S IZ_3 K OO_3 U_3
+ｆｅｓｃｏ	F AA_1 N_1 S IZ_3 K OO_1 U_1
+ｆｅｓｃｏ	F AA_1 N_1 S IZ_3 K OO_3 U_3
+ｆｅｓｃｏ	F I_1 EA_1 S IZ_3 K OO_3 U_3
+ｆｉｆａ	F EE_1 I_1 F A_3
+ｆｉｆａ	F I_1 F A_3
+ｆｉｇｈｔｉｎｇ	F AA_1 I_1 T I_3 NG_3
+ｆｉｎｄ	F AA_4 I_4 EEN_1 N_1 D
+ｆｉｎｄ	F AA_4 I_4 EEN_1 N_1 D E_1
+ｆｉｎｄ	F AA_4 N_4 D
+ｆｉｎｄ	F AA_4 N_4 D E_1
+ｆｉｏｎ	AH AA_2 I_2 F AH AA_4 I_4 OH OO_1 U_1 EH EEN_1 N_1
+ｆｉｒｅｆｏｘ	F AA_1 I_1 EH ER_1 F A_4 U_4 K E_1 S IZ_1
+ｆｉｒｅｆｏｘ	F AA_1 I_1 EH ER_1 F A_4 U_4 K S
+ｆｉｖｅ	N OO_4 U_4
+ｆｌａｓｈ	F L AA_4 I_4 X I_1
+ｆｌａｓｈ	F U_1 L AA_4 I_4 SH IZH_1
+ｆｌｙ	N OO_4 U_4
+ｆｍ	AH AA_2 I_2 F U_1 AH AA_2 I_2 M U_1
+ｆｏｌｌｏｗ	N OO_4 U_4
+ｆｏｒ	F O_4
+ｆｏｒ	F O_4 ER_3
+ｆｏｒｅｖｅｒ	F O_1 R EE_1 I_1 WH U_3 ER_3
+ｆｏｒｅｖｅｒ	F O_1 R I_1 EA_1 WH U_3 ER_3
+ｆｏｘ	N OO_4 U_4
+ｆｒａｎｋ	F R AA_1 N_1 K
+ｆｒａｎｋ	F U_1 R AA_1 N_1 K E_1
+ｆｒｅｅ	F R I_4
+ｆｒｅｅ	F U_1 R U_4 I_4
+ｆｒｉｅｎｄ	F R EE_4 I_4 N_4 D
+ｆｒｉｅｎｄ	F R I_4 EA_4 N_4 D
+ｆｒｉｅｎｄ	F U_1 R EE_4 I_4 N_4 D
+ｆｒｉｅｎｄ	F U_1 R I_4 EA_4 N_4 D
+ｆｕｃｋ	F A_4 K
+ｆｕｃｋ	F A_4 K E_3
+ｆｕｎ	F AA_4 N_4
+ｆｕｎ	F A_4 NG_4
+ｇ	J I_1
+ｇ	J I_4
+ｇ２０００	J I_4 L I_3 A_3 NG_3 Q I_1 EA_1 N_1
+ｇａｇａ	G A_1 G A_3
+ｇａｌａｘｙ	G AA_1 I_1 L AA_3 I_3 K E_1 X I_3
+ｇａｌａｘｙ	G AA_1 I_1 L AA_3 I_3 K X I_3
+ｇａｌａｘｙ	G AA_1 I_1 L E_3 K S I_3
+ｇａｌａｘｙ	G AA_1 I_1 L E_3 K X I_3
+ｇａｍｅ	G EE_4 I_4 M
+ｇａｍｅ	G EE_4 I_4 M U_3
+ｇａｐ	G AA_4 I_4 P
+ｇａｐ	G AA_4 I_4 P U_3
+ｇａｐ	G I_4 EA_4 P
+ｇａｒｙ	G AA_1 I_1 R I_3
+ｇａｒｙ	G I_1 EA_1 R I_3
+ｇａｙ	G EE_1 I_1
+ｇａｙ	G EE_4 I_4
+ｇｄｐ	J I_1 D I_1 P I_1
+ｇｄｐ	J I_4 D I_4 P I_4
+ｇｅｍ	N OO_4 U_4
+ｇｅｔ	G AA_4 I_4 T
+ｇｅｔ	G AA_4 I_4 T E_3
+ｇｅｔ	G EE_4 I_4 T
+ｇｅｔ	G EE_4 I_4 T E_3
+ｇｅｔ	G I_4 EA_4 T
+ｇｅｔ	G I_4 EA_4 T E_3
+ｇｇ	J I_1 J I_1
+ｇｇ	J I_4 J I_4
+ｇｈｏｓｔ	G OO_4 U_4 S IZ_1 T E_1
+ｇｈｏｓｔ	G OO_4 U_4 S T
+ｇｉｆ	J I_1 AH AA_1 I_1 AH AA_2 I_2 F
+ｇｉｆ	J I_1 AH AA_1 I_1 AH AA_2 I_2 F U_1
+ｇｉｆ	J I_4 AH AA_4 I_4 AH AA_2 I_2 F
+ｇｉｆ	J I_4 AH AA_4 I_4 AH AA_2 I_2 F U_1
+ｇｉｒｌ	G E_4 EH ER_3
+ｇｉｒｌ	G E_4 OO_3 O_3
+ｇｉｖｅ	N OO_4 U_4
+ｇｍａｉｌ	J I_1 M EE_1 I_1 OH OO_1 U_1
+ｇｍａｉｌ	J I_1 M EE_4 I_4 EH ER_1
+ｇｍａｉｌ	J I_1 M EE_4 I_4 OH OO_1 U_1
+ｇｏ	G OO_4 U_4
+ｇｏｄ	G A_4 D
+ｇｏｄ	G A_4 U_4 D
+ｇｏｄ	G A_4 U_4 D E_3
+ｇｏｏｄ	G U_4 D
+ｇｏｏｄ	G U_4 D E_1
+ｇｏｏｄｂｙｅ	G U_1 D B AA_4 I_4
+ｇｏｏｄｂｙｅ	G U_1 D E_1 B AA_4 I_4
+ｇｏｏｄｎｉｇｈｔ	G U_1 D E_1 N AA_4 I_4 T
+ｇｏｏｄｎｉｇｈｔ	G U_1 D E_1 N AA_4 I_4 T E_1
+ｇｏｏｇｌｅ	G U_1 G OO_1 U_1
+ｇｏｏｇｌｅ	G U_1 G OO_3 U_3
+ｇｐｒｓ	J I_1 P I_1 AH A_4 AH AA_2 I_2 S IZ_1
+ｇｐｒｓ	J I_4 P I_4 AH A_4 AH AA_2 I_2 S IZ_1
+ｇｐｓ	J I_1 P I_1 AH AA_2 I_2 S
+ｇｐｓ	J I_1 P I_1 AH AA_2 I_2 S IZ_3
+ｇｐｓ	J I_4 P I_4 AH AA_2 I_2 S
+ｇｐｓ	J I_4 P I_4 AH AA_2 I_2 S IZ_3
+ｇｒａｃｅ	N OO_4 U_4
+ｇｒｅ	J I_1 AH A_2 YH I_4
+ｇｒｅ	J I_1 AH A_4 YH I_1
+ｇｒｅ	J I_4 AH A_4 YH I_4
+ｇｒｏｕｐ	N OO_4 U_4
+ｇｕｃｃｉ	G U_1 CH I_3
+ｇｕｃｃｉ	G U_1 Q I_3
+ｇｕｎ	G AA_4 N_4
+ｇｕｙ	G AA_4 I_4
+ｇｕｙｓ	G AA_4 I_4 S
+ｇｕｙｓ	G AA_4 I_4 S IZ_1
+ｇｙｍ	N OO_4 U_4
+ｈ	EH EE_2 I_2
+ｈ	EH EE_2 I_2 CH IZH_1
+ｈ	EH EE_2 I_2 CH IZH_3
+ｈａｌｏ	H EE_1 I_1 L OO_1 U_1
+ｈａｎｇ	N OO_4 U_4
+ｈａｎｋ	EH EE_2 I_2 EH EE_1 I_1 EH EEN_1 N_1 K EE_4 I_4
+ｈａｐｐｙ	H AA_1 I_1 P I_1
+ｈａｐｐｙ	H AA_1 I_1 P I_2
+ｈａｐｐｙ	H I_1 EA_1 P I_1
+ｈａｐｐｙ	H I_1 EA_1 P I_3
+ｈａｔｅ	H EE_4 I_4 T
+ｈａｔｅ	H EE_4 I_4 T E_1
+ｈａｖｅ	N OO_4 U_4
+ｈｄ	EH EE_2 I_2 CH IZH_1 D I_1
+ｈｄ	EH EE_2 I_2 CH IZH_1 D I_4
+ｈｅａｌｅｒ	H I_1 OO_1 U_1 L E_3
+ｈｅａｒｔ	H A_4 ER_4 T
+ｈｅａｒｔ	H A_4 T
+ｈｅｂｅ	H EE_1 I_1 B I_1
+ｈｅｂｅ	H I_1 B I_1
+ｈｅｌｅｎ	N OO_4 U_4
+ｈｅｌｌ	N OO_4 U_4
+ｈｅｌｌｏ	H A_1 L OO_2 U_2
+ｈｅｌｌｏ	H A_1 L OO_4 U_4
+ｈｅｌｌｏｋｉｔｔｙ	H A_1 L OO_1 U_1 K I_1 T I_1
+ｈｅｌｐ	N OO_4 U_4
+ｈｅｎ	N OO_4 U_4
+ｈｅｎｒｙ	H EENG_1 NG_1 R I_1
+ｈｅｎｒｙ	H I_1 EA_1 N_1 R U_3 I_3
+ｈｅｒｅ	N OO_4 U_4
+ｈｅｒｏ	N OO_4 U_4
+ｈｅｙ	H EE_4 I_4
+ｈｉ	H AA_1 I_1
+ｈｉ	H AA_4 I_4
+ｈｉｇｈ	H AA_1 I_1
+ｈｉｍ	N OO_4 U_4
+ｈｉｔ	H I_4 T
+ｈｉｔ	H I_4 T E_1
+ｈｉｖ	EH EE_2 I_2 CH IZH_1 AH AA_1 I_1 WH U_1 EE_1 I_1
+ｈｉｖ	EH EE_2 I_2 CH IZH_1 AH AA_4 I_4 WH U_1 EE_1 I_1
+ｈｉ歌	H AA_1 I_1 G E_1
+ｈｍ	EH EE_2 I_2 CH IZH_1 AH AA_2 I_2 M U_1
+ｈｍ	EH EE_2 I_2 CH IZH_1 AH AA_2 I_2 M U_3
+ｈｏｌｄ	H OO_1 U_1 D
+ｈｏｌｄ	H OO_4 U_4 D
+ｈｏｍｅ	H OO_4 U_4 M U_3
+ｈｏｎｅｙ	H A_1 N I_3
+ｈｏｎｇｋｏｎｇ	H A_1 NG_1 K A_4 NG_4
+ｈｏｎｇｋｏｎｇ	H U_1 NG_1 K U_4 NG_4
+ｈｏｔ	N OO_4 U_4
+ｈｏｔｅｌ	N OO_4 U_4
+ｈｏｔｍａｉｌ	H A_4 U_4 T E_1 M EE_4 I_4 EH ER_1
+ｈｏｔｍａｉｌ	H A_4 U_4 T E_1 M EE_4 I_4 OH OO_1 U_1
+ｈｏｔｍａｉｌ	H A_4 U_4 T M EE_4 I_4 EH ER_1
+ｈｏｕｓｅ	N OO_4 U_4
+ｈｏｗ	H A_4 U_4
+ｈｐ	EH EE_2 I_2 CH IZH_1 P I_1
+ｈｐ	EH EE_2 I_2 CH IZH_1 P I_4
+ｈｔｃ	EH EE_2 I_2 CH IZH_1 T I_1 S EE_1 I_1
+ｈｔｃ	EH EE_2 I_2 CH IZH_1 T I_4 S EE_4 I_4
+ｈｔｃ	EH EE_2 I_2 CH IZH_3 T I_1 S EE_1 I_1
+ｈｕｇ	H A_4 G
+ｉ	AH AA_1 I_1
+ｉｂｍ	AH AA_1 I_1 B I_1 AH AA_2 I_2 M U_1
+ｉｂｍ	AH AA_1 I_1 B I_4 AH AA_2 I_2 M U_1
+ｉｂｍ	AH AA_4 I_4 B I_1 AH AA_2 I_2 M U_1
+ｉｂｍ	AH AA_4 I_4 B I_4 AH AA_2 I_2 M U_1
+ｉｃｅ	N OO_4 U_4
+ｉｃｌｏｕｄ	AH AA_1 I_1 K L A_4 U_4 D
+ｉｃｌｏｕｄ	AH AA_1 I_1 K L A_4 U_4 D E_1
+ｉｃｌｏｕｄ	AH AA_4 I_4 K L A_4 U_4 D
+ｉｃｌｏｕｄ	AH AA_4 I_4 K L A_4 U_4 D E_1
+ｉｄ	AH AA_1 I_1 D I_1
+ｉｄ	AH AA_1 I_1 D I_4
+ｉｄ	AH AA_4 I_4 D I_4
+ｉｄｅａ	AH AA_1 I_1 D I_4 EH ER_3
+ｉｅ	AH AA_1 I_1 YH I_1
+ｉｅ	AH AA_4 I_4 YH I_4
+ｉｅｍ８	AH AA_1 I_1 YH I_1 AH AA_2 I_2 M U_1 B A_1
+ｉｆｃ	AH AA_4 I_4 AH AA_2 I_2 F U_1 S EE_1 I_1
+ｉｆｃ	AH AA_4 I_4 AH AA_2 I_2 F U_3 S EE_1 I_1
+ｉｌｌ	N OO_4 U_4
+ｉｍａｃ	AH AA_1 I_1 M AA_4 I_4 K
+ｉｍａｃ	AH AA_1 I_1 M AA_4 I_4 K E_1
+ｉｍａｘ	AH AA_1 I_1 M AA_4 I_4 K S
+ｉｍｅ８	AH AA_1 I_1 AH AA_2 I_2 M U_1 YH I_1 B A_1
+ｉｎ	YH I_1 NG_1
+ｉｎ	YH I_1 N_1
+ｉｎ	YH I_4 N_4
+ｉｎｇ	AH AA_1 I_1 EH EEN_1 N_1 J I_1
+ｉｎｇ	AH AA_1 I_1 EH EEN_1 N_1 J I_4
+ｉｎｇ	AH AA_4 I_4 EH EEN_1 N_1 J I_1
+ｉｎｇ	AH AA_4 I_4 EH EEN_1 N_1 J I_4
+ｉｎｔｅｌ	N OO_4 U_4
+ｉｎｔｅｒｎｅｔ	YH I_1 N_1 T E_1 N EE_4 I_4 T E_1
+ｉｎｔｅｒｎｅｔ	YH I_1 N_1 T E_3 N I_3 EA_3 T
+ｉｎｔｅｒｎｅｔ	YH I_1 N_1 T N EE_4 I_4 T
+ｉｏｓ	AH AA_1 I_1 OH OO_1 U_1 AH AA_2 I_2 S
+ｉｏｓ	AH AA_1 I_1 OH OO_1 U_1 AH AA_2 I_2 S IZ_1
+ｉｐ	AH AA_1 I_1 P I_1
+ｉｐ	AH AA_4 I_4 P I_4
+ｉｐａｄ	AH AA_1 I_1 P AA_4 I_4 D
+ｉｐａｄ	AH AA_1 I_1 P AA_4 I_4 D E_1
+ｉｐｈｏｎｅ	AH AA_1 I_1 F EENG_4 NG_1
+ｉｐｈｏｎｅ	AH AA_1 I_1 F EENG_4 NG_4
+ｉｐｈｏｎｅ	AH AA_4 I_4 F EENG_1 NG_1
+ｉｐｏ	AH AA_1 I_1 P I_1 OH OO_1 U_1
+ｉｐｏ	AH AA_4 I_4 P I_4 OH OO_1 U_1
+ｉｐｏｄ	AH AA_1 I_1 P A_4 U_4 D
+ｉｐｏｄ	AH AA_1 I_1 P A_4 U_4 D E_1
+ｉｑ	AH AA_1 I_1 K I_1 OO_1 U_1
+ｉｑ	AH AA_4 I_4 K I_4 OO_4 U_4
+ｉｓ	YH I_4 S
+ｉｓ	YH I_4 S IZ_1
+ｉｓｉｓ	AH AA_1 I_1 AH AA_2 I_2 S AH AA_1 I_1 AH AA_2 I_2 S
+ｉｓｉｓ	AH AA_4 I_4 AH AA_2 I_2 S AH AA_4 I_4 AH AA_2 I_2 S
+ｉｔ	AH AA_1 I_1 T I_1
+ｉｔ	AH AA_1 I_1 T I_4
+ｉｔ	AH AA_4 I_4 T I_4
+ｉｔｏｕｃｈ	AH AA_1 I_1 T A_4 CH IZH_1
+ｉｔｏｕｃｈ	AH AA_1 I_1 T A_4 Q I_1
+ｉｔｕｎｅｓ	AH AA_1 I_1 T I_4 OO_4 U_4 S
+ｉｔｕｎｅｓ	AH AA_1 I_1 T I_4 OO_4 U_4 S IZ_3
+ｉｔｕｎｅｓ	AH AA_1 I_1 T U_4 S
+ｉｔｕｎｅｓ	AH AA_1 I_1 T U_4 S IZ_3
+ｉｕｎｉ	AH AA_1 I_1 YH I_1 OO_1 U_1 EH EEN_1 N_1 AH AA_1 I_1
+ｉｕｎｉ	AH AA_4 I_4 YH I_1 OO_1 U_1 EH EEN_1 N_1 AH AA_4 I_4
+ｊ	ZH EE_1 I_1
+ｊ	ZH EE_4 I_4
+ｊａｃｋ	J AA_4 I_4 K
+ｊａｃｋ	J I_4 EA_4 K
+ｊａｃｋ	J I_4 EA_4 K E_3
+ｊａｍｅｓ	J EE_4 I_4 M U_3 S
+ｊａｍｅｓ	J EE_4 I_4 M U_3 S IZ_3
+ｊａｒ	ZH A_4
+ｊａｒ	ZH U_4 A_4
+ｊａｓｏｎ	N OO_4 U_4
+ｊａｖａ	J I_1 A_1 WH U_1 A_1
+ｊａｖａ	ZH A_1 WH U_1 A_1
+ｊａｖａｓｃｒｉｐｔ	J I_1 A_1 WH U_1 A_1 S IZ_1 K R I_4 P U_1 T E_1
+ｊａｖａｓｃｒｉｐｔ	J I_1 A_1 WH U_1 A_1 S K R I_4 P T
+ｊａｖａｓｃｒｉｐｔ	ZH A_1 WH U_1 A_1 S IZ_1 K R I_4 P U_1 T E_1
+ｊａｖａｓｃｒｉｐｔ	ZH A_1 WH U_1 A_1 S K R I_4 P T
+ｊａｙ	ZH EE_4 I_4
+ｊａｚｚ	J AA_4 I_4 Z IZ_1
+ｊａｚｚ	J I_4 EA_4 Z
+ｊｂ	ZH EE_1 I_1 B I_1
+ｊｂ	ZH EE_4 I_4 B I_4
+ｊｅｅｐ	N OO_4 U_4
+ｊｅｎｎｙ	N OO_4 U_4
+ｊｅｒｒｙ	N OO_4 U_4
+ｊｅｓｓｉｃａ	J I_1 EA_1 S I_1 K A_3
+ｊｊ	ZH EE_1 I_1 ZH EE_1 I_1
+ｊｊｃｃ	ZH EE_1 I_1 ZH EE_1 I_1 S EE_1 I_1 S EE_1 I_1
+ｊｊｃｃ	ZH EE_4 I_4 ZH EE_4 I_4 S EE_4 I_4 S EE_4 I_4
+ｊｏｂ	J I_4 A_4 U_4 B
+ｊｏｂ	J O_4 B
+ｊｏｂ	ZH A_4 U_4 B
+ｊｏｅ	ZH OO_4 U_4
+ｊｏｈｎ	J U_4 O_4 N_4
+ｊｏｈｎ	ZH A_4 U_4 N_4
+ｊｏｌｉｎ	J U_1 O_1 L I_4 NG_4
+ｊｏｌｉｎ	ZH OO_3 U_3 L I_4 NG_4
+ｊｏｒｄａｎ	J A_1 U_1 D EEN_1 N_1
+ｊｏｒｄａｎ	J U_1 O_1 D EENG_1 NG_1
+ｊｏｒｄａｎ	J U_1 O_1 D EEN_1 N_1
+ｊｏｙ	J A_1 U_1 I_1
+ｊｏｙ	J I_4 A_4 U_4 YH I_1
+ｊｏｙ	ZH A_1 U_1 I_1
+ｊｐｇ	ZH EE_1 I_1 P I_1 J I_1
+ｊｐｇ	ZH EE_1 I_1 P I_1 J I_4
+ｊｐｇ	ZH EE_4 I_4 P I_4 J I_4
+ｊｕｌｉａ	ZH U_1 L I_1 A_1
+ｊｕｍｐ	N OO_4 U_4
+ｊｕｓｔ	ZH U_4 A_4 S IZ_3 T
+ｊｕｓｔｉｎ	J I_1 A_1 S IZ_1 T I_3 NG_3
+ｊｕｓｔｉｎ	J I_1 A_1 S T I_3 N_3
+ｊｕｓｔｉｎ	ZH A_1 S D I_3 N_3
+ｊｕｓｔｉｎ	ZH A_1 S IZ_3 T I_3 NG_3
+ｊｕｓｔｉｎ	ZH A_1 S T I_3 N_3
+ｋ	K EE_1 I_1
+ｋ	K EE_4 I_4
+ｋａｋａ	N OO_4 U_4
+ｋａｍａ	K A_3 M A_3
+ｋａｐｐａ	K A_1 P A_3
+ｋｂ	K EE_1 I_1 B I_1
+ｋｂ	K EE_4 I_4 B I_4
+ｋｅｅｐ	N OO_4 U_4
+ｋｅｌｌｙ	N OO_4 U_4
+ｋｅｖｉｎ	K AA_1 I_1 WH U_3 EEN_3 N_3
+ｋｅｖｉｎ	K EE_1 I_1 WH U_3 EEN_3 N_3
+ｋｅｖｉｎ	K I_1 EA_1 WH U_3 EEN_3 N_3
+ｋｅｙ	K I_4
+ｋｆｃ	K EE_1 I_1 AH AA_2 I_2 F S EE_1 I_1
+ｋｆｃ	K EE_1 I_1 AH AA_2 I_2 F U_1 S EE_1 I_1
+ｋｆｃ	K EE_4 I_4 AH AA_2 I_2 F S EE_4 I_4
+ｋｆｃ	K EE_4 I_4 AH AA_2 I_2 F U_1 S EE_1 I_1
+ｋｆｃ	K EE_4 I_4 AH AA_2 I_2 F U_1 S EE_4 I_4
+ｋｆｃｄ	K EE_4 I_4 AH AA_2 I_2 F S EE_4 I_4 D I_4
+ｋｉｌｌ	N OO_4 U_4
+ｋｉｎｄｌｅ	K I_1 NG_1 D OO_1 U_1
+ｋｉｎｄｌｅ	K I_1 NG_1 D OO_3 U_3
+ｋｉｎｄｌｅ	K I_1 N_1 D OO_1 U_1
+ｋｉｎｄｌｅ	K I_1 N_1 D OO_3 U_3
+ｋｉｎｇ	K I_4 NG_4
+ｋｉｓｓ	K I_4 S
+ｋｉｓｓ	K I_4 S IZ_3
+ｋｉｔｔｙ	K I_1 T I_3
+ｋｎｏｗ	N OO_4 U_4
+ｋｏｂｅ	K OO_1 U_1 B I_3
+ｋｏｓａ	K OO_1 U_1 S A_3
+ｋｒｉｓ	N OO_4 U_4
+ｋｔｖ	K EE_1 I_1 T I_1 WH U_1 EE_1 I_1
+ｋｔｖ	K EE_4 I_4 T I_4 WH U_1 EE_1 I_1
+ｌ	AH AA_2 I_2 L
+ｌ	AH AA_4 I_4 L
+ｌａｄｙ	L EE_1 I_1 D I_3
+ｌａｄｙｇａｇａ	L EE_1 I_1 D I_1 G A_1 G A_1
+ｌａｙ	N OO_4 U_4
+ｌｅａｄｅｒ	N OO_4 U_4
+ｌｅｄ	AH AA_2 I_2 AH A_1 U_1 YH I_1 D I_1
+ｌｅｄ	AH AA_2 I_2 AH A_1 U_1 YH I_4 D I_4
+ｌｅｅ	N OO_4 U_4
+ｌｅｏ	N OO_4 U_4
+ｌｅｔ	L EE_4 I_4 T
+ｌｅｔ	L I_4 EA_4 T
+ｌｅｖｅｌ	N OO_4 U_4
+ｌｅｖｉｓ	N OO_4 U_4
+ｌｇ	AH AA_2 I_2 AH A_1 U_1 J I_1
+ｌｇ	AH AA_2 I_2 AH A_1 U_1 J I_4
+ｌｉｆｅ	L AA_4 I_4 F
+ｌｉｆｅ	L AA_4 I_4 F U_3
+ｌｉｆｉ	AH AA_2 I_2 L AH AA_4 I_4 AH AA_2 I_2 F AH AA_4 I_4
+ｌｉｋｅ	L AA_4 I_4 K
+ｌｉｌｙ	L I_1 L I_1
+ｌｉｎｄａ	L I_1 N_1 D A_3
+ｌｉｎｅ	L AA_4 I_4 N_4
+ｌｉｎｋ	N OO_4 U_4
+ｌｉｎｕｘ	N OO_4 U_4
+ｌｉｓａ	L I_1 S A_3
+ｌｉｔｔｌｅ	N OO_4 U_4
+ｌｉｖｅ	L AA_4 I_4 WH U_3
+ｌｉｖｅ	L I_4 WH U_3
+ｌｏｃｋ	L A_4 U_4 K
+ｌｏｃｋ	L A_4 U_4 K E_1
+ｌｏｇ	L A_4 U_4 G
+ｌｏｇ	L A_4 U_4 G E_3
+ｌｏｇ	L O_4 G
+ｌｏｇｏ	L OO_1 U_1 G OO_1 U_1
+ｌｏｌ	AH AA_2 I_2 AH A_1 U_1 OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
+ｌｏｌｉ	L U_2 O_2 L I_4
+ｌｏｍｏ	L OO_4 U_4 M OO_1 U_1
+ｌｏｎｄｏｎ	L A_4 U_4 D EEN_1 N_1
+ｌｏｎｄｏｎ	L A_4 U_4 N_1 D EEN_1 N_1
+ｌｏｎｇ	N OO_4 U_4
+ｌｏｏｋ	L U_4 K
+ｌｏｏｋ	L U_4 K E_1
+ｌｏｓｅｒ	L U_1 S E_3
+ｌｏｓｔ	N OO_4 U_4
+ｌｏｖｅ	L A_4 WH U_3
+ｌｏｖｅｒ	L A_1 WH U_3 EH E_3
+ｌｏｖｉｎｇ	L A_1 WH U_1 I_1 NG_1
+ｌｏｖｏ	AH AA_2 I_2 L OH OO_1 U_1 WH U_1 EE_1 I_1 OH OO_1 U_1
+ｌｏｖｏ	L OO_1 U_1 WH U_3 OO_3 U_3
+ｌｏｗ	L OO_1 U_1
+ｌｏｗ	L OO_4 U_4
+ｌｕｃｋ	L A_4 K E_3
+ｌｕｃｋｙ	L A_1 K I_3
+ｌｕｃｙ	L U_1 S I_1
+ｌｖ	AH AA_2 I_2 AH A_1 U_1 WH U_1 EE_1 I_1
+ｍ	AH AA_1 I_1 M
+ｍ	AH AA_1 I_1 M U_1
+ｍ	AH AA_2 I_2 M
+ｍ	AH AA_2 I_2 M U_1
+ｍ	AH AA_4 I_4 M
+ｍ	AH AA_4 I_4 M U_1
+ｍ	EH I_1 EA_1 M
+ｍ	EH I_1 EA_1 M U_1
+ｍ	EH I_4 EA_4 M
+ｍ	EH I_4 EA_4 M U_1
+ｍａｃ	M AA_4 I_4 K
+ｍａｃ	M AA_4 I_4 K E_3
+ｍａｃｂｏｏｋ	M AA_1 I_1 K B U_4 K
+ｍａｃｂｏｏｋ	M AA_1 I_1 K E_1 B U_4 K E_1
+ｍａｄ	M AA_4 I_4 D
+ｍａｄ	M EE_4 I_4 D
+ｍａｄ	M I_4 EA_4 D
+ｍａｄｅ	N OO_4 U_4
+ｍａｇｇｉｅ	N OO_4 U_4
+ｍａｇｉｃ	M AA_1 I_1 J I_1 K
+ｍａｇｉｃ	M AA_1 I_1 J I_1 K E_1
+ｍａｇｉｃ	M I_1 EA_1 J I_3 K
+ｍａｉｌ	M EE_4 I_4 OH OO_1 U_1
+ｍａｋｅ	M EE_4 I_4 K
+ｍａｌｌ	M A_4 U_4
+ｍａｌｌ	M O_4
+ｍａｍａ	M A_1 M A_3
+ｍａｎ	M AA_4 N_4
+ｍａｎ	M EE_1 I_1 N_1
+ｍａｎ	M EE_4 I_4 N_4
+ｍａｎ	M I_1 EA_1 N_1
+ｍａｎ	M I_4 EA_4 N_4
+ｍａｒｋ	M A_4 K
+ｍａｒｋ	M A_4 K E_3
+ｍａｒｙ	M AA_1 I_1 R I_3
+ｍａｒｙ	M I_1 EA_1 R I_3
+ｍａｓｔｅｒ	N OO_4 U_4
+ｍａｔｅ	M EE_4 I_4 T
+ｍａｔｌａｂ	N OO_4 U_4
+ｍａｘ	M AA_4 I_4 K E_3 S IZ_3
+ｍａｘ	M AA_4 I_4 K S
+ｍａｘ	M I_4 EA_4 K S
+ｍａｙ	M EE_4 I_4
+ｍａｙａ	M A_3 YH I_3 A_3
+ｍａｙｂｅ	M EE_1 I_1 B I_3
+ｍｂ	AH AA_2 I_2 M U_1 B I_1
+ｍｂ	AH AA_2 I_2 M U_1 B I_4
+ｍｂａ	AH AA_2 I_2 M U_1 B I_1 EH EE_1 I_1
+ｍｂａ	AH AA_2 I_2 M U_1 B I_4 EH EE_1 I_1
+ｍｅｅｔ	N OO_4 U_4
+ｍｅｎ	N OO_4 U_4
+ｍｈ１７	AH AA_2 I_2 M EH EE_2 I_2 YH I_1 A_1 U_1 Q I_1
+ｍｈ１７	AH AA_2 I_2 M EH EE_2 I_2 YH I_1 Q I_1
+ｍｉｃ	M AA_4 I_4 K
+ｍｉｃｈａｅｌ	M AA_1 I_1 K OO_1 U_1
+ｍｉｃｒｏｓｏｆｔ	M AA_1 I_1 K E_1 R OO_1 U_1 S A_4 U_4 F T
+ｍｉｋｅ	M AA_4 I_4 K
+ｍｉｍｉ	N OO_4 U_4
+ｍｉｎｉ	M I_1 N I_3
+ｍｉｓｓ	M I_4 S
+ｍｉｓｓ	M I_4 S IZ_1
+ｍｉｓｓｉｎｇ	M I_1 S I_1 NG_1
+ｍｉｔ	AH AA_2 I_2 M U_1 AH AA_1 I_1 T I_1
+ｍｉｔ	AH AA_2 I_2 M U_1 AH AA_4 I_4 T I_4
+ｍｉｕｉ	M I_3 YH I_1 OO_1 U_1 AH AA_1 I_1
+ｍｉｘ	M I_4 K S
+ｍｉｘ	M I_4 K S IZ_3
+ｍｌ	AH AA_2 I_2 M U_1 AH AA_2 I_2 AH A_1 U_1
+ｍｍ	AH AA_2 I_2 M U_1 AH AA_2 I_2 M U_1
+ｍｏｂｉｌｅ	M OO_1 U_1 B AA_1 I_1 AH A_1 U_1
+ｍｏｎｅｙ	M A_1 N I_1
+ｍｏｎｅｙ	M A_1 N I_3
+ｍｏｏｎ	N OO_4 U_4
+ｍｏｒｎｉｎｇ	M O_1 N I_3 NG_3
+ｍｏｔｏ	M OO_1 U_1 T OO_1 U_1
+ｍｏｔｏ	M OO_1 U_1 T OO_3 U_3
+ｍｏｔｏｒ	N OO_4 U_4
+ｍｏｔｏｒｏｌａ	M OO_1 U_1 T E_1 R OO_1 U_1 L E_3
+ｍｒ	M I_1 S IZ_1 T ER_1
+ｍｒ	M I_1 S T ER_1
+ｍｒｐｉｚｚａ	M I_1 S IZ_1 T ER_1 P I_1 S A_1
+ｍｒｐｉｚｚａ	M I_1 S IZ_1 T ER_1 P I_1 Z A_1
+ｍｒｐｉｚｚａ	M I_1 S IZ_3 T ER_1 P I_1 S A_1
+ｍｒｐｉｚｚａ	M I_1 S IZ_3 T ER_1 P I_1 Z A_1
+ｍｒｓ	M I_1 X I_1 S IZ_1
+ｍｓ	M I_1 S
+ｍｓ	M I_1 S IZ_1
+ｍｓｎ	AH AA_2 I_2 M U_1 AH AA_2 I_2 S EH EEN_1 N_1
+ｍｔｋ	AH AA_2 I_2 M U_1 T I_1 K EE_1 I_1
+ｍｔｋ	AH AA_2 I_2 M U_1 T I_4 K EE_4 I_4
+ｍｔｖ	AH AA_2 I_2 M U_1 T I_1 WH U_1 EE_1 I_1
+ｍｔｖ	AH AA_2 I_2 M U_1 T I_4 WH U_1 EE_1 I_1
+ｍｕｃｈ	N OO_4 U_4
+ｍｕｓｅ	N OO_4 U_4
+ｍｕｓｉｃ	N OO_4 U_4
+ｍｖ	AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1
+ｎ	EH EEN_1 N_1
+ｎａｎａ	N OO_4 U_4
+ｎａｎｏ	N A_1 N OO_1 U_1
+ｎｂ	EH EEN_1 N_1 B I_1
+ｎｂａ	EH EEN_1 N_1 B I_1 EH EE_1 I_1
+ｎｂａ	EH EEN_1 N_1 B I_4 EH EE_1 I_1
+ｎｅｏ	N OO_4 U_4
+ｎｅｔ	N OO_4 U_4
+ｎｅｗ	N I_1 OO_1 U_1
+ｎｅｗ	N I_4 OO_4 U_4
+ｎｅｘｕｓ	N EE_1 I_1 K E_1 S E_3 S IZ_3
+ｎｅｘｕｓ	N I_1 EA_1 K S E_3 S
+ｎｇ	EH EEN_1 N_1 J I_1
+ｎｇ	EH EEN_1 N_1 J I_4
+ｎｉｃｅ	N AA_4 I_4 S IZ_3
+ｎｉｃｋ	N OO_4 U_4
+ｎｉｇｈｔ	N AA_4 I_4 T
+ｎｉｋｅ	N AA_1 I_1 K I_3
+ｎｏ	N OO_4 U_4
+ｎｏｂｏｄｙ	N OO_1 U_1 B A_1 U_1 D I_1
+ｎｏｋｉａ	N OO_1 U_1 K I_1 A_1
+ｎｏｔ	N A_4 U_4 T
+ｎｏｔ	N A_4 U_4 T E_3
+ｎｏｔ	N O_4 T
+ｎｏｔｅ	N OO_4 U_4 T
+ｎｏｔｅ	N OO_4 U_4 T E_1
+ｎｏｔｈｉｎｇ	N OO_4 U_4
+ｎｏｗ	N A_4 U_4
+ｏ	OH OO_1 U_1
+ｏ	OH O_1
+ｏｆ	AH A_4 U_4 F
+ｏｆ	AH A_4 U_4 F U_3
+ｏｆ	EH E_4 F U_1
+ｏｆｆ	AH A_4 U_4 F
+ｏｆｆ	AH A_4 U_4 F U_3
+ｏｆｆ	OH O_4 F
+ｏｆｆｅｒ	AH A_4 U_4 F ER_3
+ｏｆｆｅｒ	OH O_1 F ER_3
+ｏｆｆｉｃｅ	AH A_1 U_1 F I_3 S IZ_3
+ｏｆｆｉｃｅ	OH O_1 F I_3 S IZ_3
+ｏｈ	OH OO_1 U_1
+ｏｉｌ	N OO_4 U_4
+ｏｋ	OH OO_1 U_1 K EE_1 I_1
+ｏｋ	OH OO_1 U_1 K EE_4 I_4
+ｏｋａｙ	OH OO_1 U_1 K EE_1 I_1
+ｏｋａｙ	OH OO_1 U_1 K EE_4 I_4
+ｏｌｄ	N OO_4 U_4
+ｏｎｅ	WH U_4 AA_4 N_4
+ｏｎｌｉｎｅ	N OO_4 U_4
+ｏｎｌｙ	OH OO_1 U_1 NG_1 L I_3
+ｏｐｅｎ	N OO_4 U_4
+ｏｐｐｏ	OH OO_1 U_1 P A_1 U_1
+ｏｐｐｏ	OH OO_1 U_1 P A_3 U_3
+ｏｐｐｏ	OH OO_1 U_1 P OO_1 U_1
+ｏｐｐｏ	OH OO_1 U_1 P OO_3 U_3
+ｏｓ	OH OO_1 U_1 AH AA_2 I_2 S
+ｏｓ	OH OO_1 U_1 AH AA_2 I_2 S IZ_1
+ｏｓ	OH OO_1 U_1 AH AA_4 I_4 S
+ｏｓ	OH OO_1 U_1 AH AA_4 I_4 S IZ_1
+ｏｓ	OH OO_1 U_1 EH ER_2 S
+ｏｓ	OH OO_1 U_1 EH ER_2 S IZ_1
+ｏｓ	OH OO_1 U_1 EH I_2 EA_2 S
+ｏｓ	OH OO_1 U_1 EH I_2 EA_2 S IZ_1
+ｏｓ	OH OO_1 U_1 EH I_4 EA_4 S
+ｏｓ	OH OO_1 U_1 EH I_4 EA_4 S IZ_1
+ｏｕｔ	AH A_4 U_4 T
+ｏｕｔ	AH A_4 U_4 T E_3
+ｏｖｅｒ	OH OO_1 U_1 WH U_3 E_3
+ｐ	P I_1
+ｐ	P I_4
+ｐａｄ	P AA_4 I_4 D
+ｐａｄ	P AA_4 I_4 D E_3
+ｐａｄ	P EE_4 I_4 D
+ｐａｄ	P I_4 EA_4 D
+ｐａｎｄａ	N OO_4 U_4
+ｐａｐａ	P A_1 P A_3
+ｐａｐｉ酱	P A_1 P I_3 J I_4 A_4 NG_4
+ｐａｒｉｓ	P AA_1 I_1 R I_1 S
+ｐａｒｔ	N OO_4 U_4
+ｐａｒｔｙ	P A_1 T I_3
+ｐａｓｓ	P A_4 S
+ｐａｓｓ	P A_4 S IZ_3
+ｐａｕｌ	P A_1 U_1
+ｐａｙｐａｌ	P EE_1 I_1 P A_4 U_4
+ｐａ至宝	P I_4 EH EE_1 I_1 ZH IZH_4 B A_3 U_3
+ｐｃ	P I_1 S EE_1 I_1
+ｐｃ	P I_4 S EE_4 I_4
+ｐｄｆ	P I_1 D I_1 AH AA_2 I_2 F
+ｐｄｆ	P I_4 D I_4 AH AA_2 I_2 F
+ｐｅｒｆｅｃｔ	N OO_4 U_4
+ｐｅｔｅｒ	P I_1 T E_3 EH ER_3
+ｐｈｏｎｅ	F EENG_1 NG_1
+ｐｈｏｎｅ	F EENG_4 NG_4
+ｐｈｏｔｏ	F OO_1 U_1 T OO_1 U_1
+ｐｈｏｔｏｓｈｏｐ	F OO_1 U_1 T OO_1 U_1 SH A_4 U_4 P
+ｐｈｏｔｏｓｈｏｐ	F OO_1 U_1 T OO_1 U_1 X I_4 A_4 U_4 P
+ｐｈｐ	P I_1 EH EE_2 I_2 CH IZH_1 P I_1
+ｐｈｐ	P I_4 EH EE_2 I_2 CH IZH_1 P I_4
+ｐｈｐ	P I_4 EH EE_2 I_2 CH P I_4
+ｐｉｃ	P I_1 AH AA_1 I_1 S EE_1 I_1
+ｐｉｃ	P I_4 AH AA_1 I_1 S EE_4 I_4
+ｐｉｃｃ	P I_4 AH AA_4 I_4 S EE_1 I_1 S EE_1 I_1
+ｐｉｇ	P I_4 G
+ｐｉｇ	P I_4 G E_3
+ｐｉｎ	P I_1 N_1
+ｐｉｎ	P I_4 AH AA_4 I_4 EH EEN_4 N_1
+ｐｉｎｇ	N OO_4 U_4
+ｐｉｎｋ	N OO_4 U_4
+ｐｉｚｚａ	P I_1 S A_3
+ｐｉｚｚａ	P I_1 Z A_3
+ｐｋ	P I_1 K EE_1 I_1
+ｐｋ	P I_4 K EE_4 I_4
+ｐｌａｎ	N OO_4 U_4
+ｐｌａｙ	P E_1 L EE_4 I_4
+ｐｌｅａｓｅ	N OO_4 U_4
+ｐｌｕｓ	P E_1 L A_4 S
+ｐｌｕｓ	P E_1 L A_4 S IZ_1
+ｐｌｕｓ	P E_1 L A_4 S IZ_3
+ｐｌｕｓ	P U_1 L A_4 S
+ｐｌｕｓ	P U_1 L A_4 S IZ_1
+ｐｌｕｓ	P U_1 L A_4 S IZ_3
+ｐｏｌｏ	P OO_1 U_1 L OO_1 U_1
+ｐｏｐ	P O_4 P
+ｐｏｓ	P OO_4 U_4 S IZ_3
+ｐｏｓｅ	P OO_1 U_1 S IZ_1
+ｐｏｓｅ	P O_4 Z
+ｐｏｓｔ	N OO_4 U_4
+ｐｏｗｅｒ	P A_1 U_1 EH ER_1
+ｐｏｗｅｒ	P A_1 U_1 WH U_1 EH ER_1
+ｐｐ	P I_1 P I_1
+ｐｐ	P I_4 P I_4
+ｐｐｓ	P I_1 P I_1 AH AA_2 I_2 S
+ｐｐｓ	P I_4 P I_4 AH AA_2 I_2 S
+ｐｐｔ	P I_1 P I_1 T I_4
+ｐｐｔ	P I_4 P I_4 T I_4
+ｐｐｔｖ	P I_1 P I_1 T I_1 WH U_1 EE_1 I_1
+ｐｐｔｖ	P I_4 P I_4 T I_4 WH U_1 EE_1 I_1
+ｐｒａｄａ	N OO_4 U_4
+ｐｒｏ	P R EH ER_4
+ｐｒｏ	P R OO_4 U_4
+ｐｒｏｊｅｃｔ	N OO_4 U_4
+ｐｓ	P I_1 AH AA_2 I_2 S
+ｐｓ	P I_4 AH AA_2 I_2 S
+ｐｓｐ	P I_1 AH AA_2 I_2 S P I_1
+ｐｓｐ	P I_4 AH AA_2 I_2 S P I_4
+ｐｕｍａ	P I_1 OO_1 U_1 M A_1
+ｐｘ项目	P I_1 AH AA_2 I_2 K S X I_4 A_4 NG_4 M U_4
+ｐｙｔｈｏｎ	P AA_1 I_1 S EEN_1 N_1
+ｑ	K I_1 OO_1 U_1
+ｑ	K I_4 OO_4 U_4
+ｑｑ	K I_1 OO_1 U_1 K I_1 OO_1 U_1
+ｑｑ	K I_4 OO_4 U_4 K I_4 OO_4 U_4
+ｑｑ桶饭	K I_1 OO_1 U_1 K I_1 OO_1 U_1 T U_2 NG_2 F AA_4 N_4
+ｑｕｅｅｎ	N OO_4 U_4
+ｑｖｏｄ	K I_1 OO_1 U_1 WH U_1 EE_1 I_1 OH OO_1 U_1 D I_1
+ｑｖｏｄ	K I_4 OO_4 U_4 WH U_1 EE_1 I_1 OH OO_1 U_1 D I_4
+ｑｚｏｎｅ	K I_1 OO_1 U_1 ZH U_4 NG_4
+ｒ	AH A_1
+ｒ	AH A_1 EH ER_1
+ｒ	AH A_2
+ｒ	AH A_2 EH ER_1
+ｒ	AH A_4
+ｒ	AH A_4 EH ER_1
+ｒ  EH ER_2
+ｒ  EH ER_4
+ｒａｄｉｏ	R EE_1 I_1 D I_1 OO_1 U_1
+ｒａｉｎ	N OO_4 U_4
+ｒａｉｎｂｏｗ	R EE_1 I_1 N_1 B OO_1 U_1
+ｒａｍ	AH A_1 EH EE_1 I_1 AH AA_2 I_2 M
+ｒａｍ	R AA_1 I_1 M
+ｒａｍ	R I_4 EA_4 M
+ｒａｐ	R AA_4 I_4 P
+ｒａｐ	R EE_4 I_4 P
+ｒａｐ	R I_4 EA_4 P
+ｒａｒ	AH A_2 EH EE_1 I_1 AH A_2
+ｒｅａｄｙ	R EE_1 I_1 D I_3
+ｒｅａｄｙ	R I_1 EA_1 D I_3
+ｒｅａｌ	R EE_4 I_4 OH OO_3 U_3
+ｒｅａｌｌｙ	N OO_4 U_4
+ｒｅｄ	N OO_4 U_4
+ｒｉｇｈｔ	N OO_4 U_4
+ｒｉｏ	R U_1 I_1 OO_3 U_3
+ｒｉｏ	R U_4 EE_4 I_4 OH OO_3 U_3
+ｒｍｖｂ	AH A_2 AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1 B I_1
+ｒｍｖｂ	AH A_2 AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1 B I_4
+ｒｏｌｌ	N OO_4 U_4
+ｒｏｍ	N OO_4 U_4
+ｒｏｏｍｍａｔｅ	N OO_4 U_4
+ｒｏｏｔ	R U_4 T
+ｒｏｏｔ	R U_4 T E_1
+ｒｏｓｅ	R OO_4 U_4 S IZ_3
+ｒｔ	AH A_2 T I_4
+ｒｕｎ	N OO_4 U_4
+ｒｕｎｎｉｎｇ	R U_1 AA_1 N_1 N I_3 NG_3
+ｒｕｓｈ	N OO_4 U_4
+ｓ	AH AA_2 I_2 S
+ｓ	AH AA_2 I_2 S IZ_1
+ｓ	EH I_2 EA_2 S
+ｓ	EH I_2 EA_2 S IZ_1
+ｓ４直播	AH AA_2 I_2 S S IZ_4 ZH IZH_2 B O_1
+ｓ５三星	AH AA_2 I_2 S WH U_3 S AA_1 N_1 X I_1 NG_1
+ｓａｂｅｒ	S EE_1 I_1 B E_3
+ｓａｄ	S EE_4 I_4 D
+ｓａｄ	S I_4 EA_4 D
+ｓａｆａｒｉ	S I_1 F A_1 R I_1
+ｓａｌａ	N OO_4 U_4
+ｓａｌｅ	S EE_4 I_4 EH ER_1
+ｓａｍ	S AA_4 I_4 M
+ｓａｍ	S AA_4 I_4 M U_3
+ｓａｍ	S I_4 EA_4 M
+ｓａｍｓｕｎｇ	N OO_4 U_4
+ｓａｓａ	S A_1 S A_1
+ｓａｔ	AH AA_2 I_2 S IZ_1 EH EE_1 I_1 T I_4
+ｓａｙ	S EE_4 I_4
+ｓｂ	AH AA_2 I_2 S IZ_1 B I_1
+ｓｂ	AH AA_2 I_2 S IZ_1 B I_4
+ｓｄ	AH AA_2 I_2 S IZ_1 D I_1
+ｓｄ	AH AA_2 I_2 S IZ_1 D I_4
+ｓｅｅ	S I_1
+ｓｅｅ	S I_4
+ｓｅｅ	X I_4
+ｓｅｅｄ	N OO_4 U_4
+ｓｅｌｉｎａ	S E_1 L I_1 N_1 N E_3
+ｓｅｎｄ	S EE_4 I_4 N_4 D
+ｓｅｎｄ	S I_4 EA_4 N_4 D
+ｓｅｏ	N OO_4 U_4
+ｓｅｔ	N OO_4 U_4
+ｓｅｖｅｎ	N OO_4 U_4
+ｓｅｘ	S EE_4 I_4 K E_3 S IZ_4
+ｓｅｘ	S EE_4 I_4 K S
+ｓｅｘ	S I_4 EA_4 K S
+ｓｅｘｙ	S EE_1 I_1 K E_3 S I_3
+ｓｅｘｙ	S EE_1 I_1 K S I_3
+ｓｅｘｙ	S I_1 EA_1 K S I_3
+ｓｈａｒｅ	SH EE_1 I_1 E_3
+ｓｈａｒｅ	SH I_1 EA_1 E_3
+ｓｈｅ	AH AA_2 I_2 S IZ_1 EH EE_2 I_2 CH IZH_1 YH I_1
+ｓｈｅ	AH AA_2 I_2 S IZ_1 EH EE_2 I_2 CH IZH_1 YH I_4
+ｓｈｅｌｌ	SH AA_4 I_4 AH A_3 U_3
+ｓｈｅｌｌ	SH EE_4 I_4 AH A_3 U_3
+ｓｈｅｌｌ	SH I_4 EA_4 AH A_3 U_3
+ｓｈｅｌｌ加油站	SH AA_4 I_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
+ｓｈｅｌｌ加油站	SH EE_4 I_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
+ｓｈｅｌｌ加油站	SH I_4 EA_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
+ｓｈｉｆｔ	SH I_4 F U_1 T
+ｓｈｉｆｔ	SH I_4 F U_1 T E_1
+ｓｈｉｔ	SH I_4 T
+ｓｈｉｔ	SH I_4 T E_3
+ｓｈｏｐ	SH A_4 U_4 P
+ｓｈｏｐ	SH O_4 P
+ｓｈｏｐｐｉｎｇ	SH A_1 U_1 P I_1 NG_1
+ｓｈｏｗ	SH OO_4 U_4
+ｓｈｏｗｇｉｒｌ	SH OO_1 U_1 G OO_4 U_4
+ｓｈｕｆｆｌｅ	SH A_1 F OO_1 U_1
+ｓｈｕｔ	SH A_4 T
+ｓｈｕｔ	SH A_4 T E_1
+ｓｉｇｈ	N OO_4 U_4
+ｓｉｍ	AH AA_2 I_2 S IZ_1 AH AA_1 I_1 AH AA_2 I_2 M
+ｓｉｍ	AH AA_2 I_2 S IZ_1 AH AA_4 I_4 AH AA_2 I_2 M U_1
+ｓｉｍ	S I_4 M
+ｓｉｍ	S I_4 M U_3
+ｓｉｎａ	N OO_4 U_4
+ｓｉｎｇ	N OO_4 U_4
+ｓｉｒ	S ER_3
+ｓｉｒ	S E_3
+ｓｉｒ	S E_4
+ｓｉｒｉ	S I_1 R I_1
+ｓｉｒｉ	S I_1 R I_3
+ｓｉｓｔｅｒ	N OO_4 U_4
+ｓｉｚｅ	S AA_4 I_4 S IZ_3
+ｓｋｙ	S IZ_3 G AA_4 I_4
+ｓｋｙｐｅ	S IZ_3 G AA_4 I_4 P
+ｓｌｅｅｐ	N OO_4 U_4
+ｓｍ	AH AA_2 I_2 S IZ_1 AH AA_2 I_2 M
+ｓｍａｒｔ	N OO_4 U_4
+ｓｍｉｌｅ	S IZ_3 M AA_4 I_4 AH A_3 U_3
+ｓｏ	S OO_1 U_1
+ｓｏ	S OO_4 U_4
+ｓｏｇｏ	S OO_1 U_1 G OO_1 U_1
+ｓｏｇｏ	S OO_1 U_1 G OO_3 U_3
+ｓｏｈｏ	S OO_1 U_1 H OO_3 U_3
+ｓｏｈｏ	S OO_1 U_1 H OO_4 U_4
+ｓｏｈｕ	N OO_4 U_4
+ｓｏｌｏ	S OO_1 U_1 L OO_3 U_3
+ｓｏｍｅｏｎｅ	S A_1 M U_1 WH U_4 AA_4 N_4
+ｓｏｍｅｏｎｅ	S A_1 M WH U_4 AA_4 N_4
+ｓｏｍｅｔｉｍｅｓ	S A_1 M T AA_4 I_4 M U_1 S IZ_1
+ｓｏｍｅｔｉｍｅｓ	S A_1 M U_1 T AA_4 I_4 M S
+ｓｏｎ	N OO_4 U_4
+ｓｏｎｇ	N OO_4 U_4
+ｓｏｎｙ	S O_1 N I_3
+ｓｏｒｒｙ	S A_1 U_1 R I_1
+ｓｏｒｒｙ	S A_1 U_1 R I_3
+ｓｏｒｒｙ	S A_1 U_1 R U_3 EE_3 I_3
+ｓｏｒｒｙ	S O_1 R I_3
+ｓｏｓｏ	N OO_4 U_4
+ｓｐａ	S IZ_1 B A_4
+ｓｐｅａｋ	S B I_4 K
+ｓｐｅａｋ	S IZ_1 B I_4 K E_1
+ｓｐｏｒｔ	S IZ_1 B A_1 U_1 T
+ｓｐｏｒｔ	S IZ_1 B A_1 U_1 T E_1
+ｓｐｏｒｔ	S IZ_1 B A_4 U_4 T
+ｓｐｏｒｔ	S IZ_1 B A_4 U_4 T E_1
+ｓｐｏｒｔｓ	S IZ_1 B A_1 U_1 C IZ_1
+ｓｐｏｒｔｓ	S IZ_1 B A_4 U_4 C IZ_1
+ｓｐｙ	S IZ_1 B AA_4 I_4
+ｓｔａｒ	S IZ_1 D A_4
+ｓｔａｒ	S IZ_3 D A_4
+ｓｔａｒｂｕｃｋｓ	S IZ_1 D A_4 B A_4 K E_1 S IZ_1
+ｓｔｅａｍ	N OO_4 U_4
+ｓｔｏｐ	S IZ_1 D A_4 U_4 P
+ｓｔｏｐ	S IZ_1 D A_4 U_4 P U_1
+ｓｔｒｏｎｇ	S IZ_3 ZH U_4 A_4 NG_4
+ｓｔｒｏｎｇ	S IZ_3 ZH U_4 NG_4
+ｓｔｙｌｅ	S IZ_1 D AA_4 I_4 AH A_1 U_1
+ｓｔｙｌｅ	S IZ_3 D AA_4 I_4 AH A_3 U_3
+ｓｕｂｗａｙ	S A_1 B U_1 WH U_4 EE_4 I_4
+ｓｕｂｗａｙ	S A_1 B WH U_4 EE_4 I_4
+ｓｕｍｍｅｒ	S A_1 M ER_3
+ｓｕｍｍｅｒ	S A_1 M E_3
+ｓｕｎ	S AA_4 N_4
+ｓｕｎｎｙ	S AA_4 N_4 N I_3
+ｓｕｎｓｈｉｎｅ	N OO_4 U_4
+ｓｕｐｅｒ	S I_1 OO_1 U_1 P ER_1
+ｓｕｐｅｒ	S I_1 OO_1 U_1 P ER_3
+ｓｕｐｅｒｍａｎ	N OO_4 U_4
+ｓｕｒｅ	N OO_4 U_4
+ｓｕｒｐｒｉｓｅ	N OO_4 U_4
+ｓｕｖ	AH AA_2 I_2 S IZ_1 YH I_1 OO_1 U_1 WH U_1 EE_1 I_1
+ｓｗａｔｃｈ	S I_1 WH U_4 A_4 U_4 CH IZH_1
+ｓｗｅｅｔ	N OO_4 U_4
+ｔ	T I_1
+ｔ	T I_4
+ｔ１	T I_1 YH I_1
+ｔ１	T I_4 YH I_1
+ｔ２	T I_1 EH ER_4
+ｔ２	T I_4 EH ER_4
+ｔ３	T I_1 S AA_1 N_1
+ｔ３	T I_4 S AA_1 N_1
+ｔａｂ	T AA_4 I_4 B
+ｔａｂ	T AA_4 I_4 B U_1
+ｔａｇ	N OO_4 U_4
+ｔａｋｅ	N OO_4 U_4
+ｔａｏｂａｏ	N OO_4 U_4
+ｔａｒａ	N OO_4 U_4
+ｔａｔａ	T A_1 T A_1
+ｔａｘｉ	T AA_1 I_1 K E_1 S I_1
+ｔａｘｉ	T AA_1 I_1 K S I_1
+ｔａｙｌｏｒ	T AA_1 I_1 L E_1
+ｔａｙｌｏｒ	T EE_1 I_1 L ER_3
+ｔａｙｌｏｒ	T EE_1 I_1 L E_1
+ｔｃｌ	T I_1 S EE_1 I_1 AH AA_2 I_2 AH A_3 U_3
+ｔｃｌ	T I_4 S EE_1 I_1 AH AA_2 I_2 AH A_3 U_3
+ｔｃｌ	T I_4 S EE_4 I_4 AH AA_2 I_2 AH A_3 U_3
+ｔｄ	T I_1 D I_1
+ｔｄ	T I_4 D I_4
+ｔｅａ	T I_4
+ｔｅａｍ	N OO_4 U_4
+ｔｅｄ	N OO_4 U_4
+ｔｅｌｌ	N OO_4 U_4
+ｔｆｂｏｙｓ	N OO_4 U_4
+ｔｈａｎｋ	S AA_4 N_4 K
+ｔｈａｎｋ	S AA_4 N_4 K E_1
+ｔｈａｎｋｓ	S AA_4 N_4 K E_1 K S
+ｔｈａｎｋｓ	S AA_4 N_4 K E_1 S IZ_1
+ｔｈａｔ	N OO_4 U_4
+ｔｈｅ	D E_1
+ｔｈｅｎ	N OO_4 U_4
+ｔｈｉｎｋｐａｄ	S I_1 N_1 K E_1 P AA_4 I_4 D E_3
+ｔｈｉｎｋｐａｄ	S I_1 N_1 K P AA_4 I_4 D
+ｔｈｉｓ	N OO_4 U_4
+ｔｉｆｆａｎｙ	N OO_4 U_4
+ｔｉｇｅｒ	N OO_4 U_4
+ｔｉｍ	N OO_4 U_4
+ｔｉｍｅ	T AA_4 I_4 M
+ｔｉｍｅ	T AA_4 I_4 M U_1
+ｔｉｍｅ	T AA_4 I_4 M U_3
+ｔｉｎａ	N OO_4 U_4
+ｔｏｋｙｏ	T OO_1 U_1 K I_1 OO_1 U_1
+ｔｏｍ	T A_4 U_4 M
+ｔｏｍ	T A_4 U_4 M U_3
+ｔｏｍｏｒｒｏｗ	N OO_4 U_4
+ｔｏｎｙ	N OO_4 U_4
+ｔｏｏ	T U_4
+ｔｏｐ	T A_4 U_4 P
+ｔｏｐ	T O_4 P
+ｔｏｕｃｈ	T A_4 CH IZH_3
+ｔｏｕｃｈ	T A_4 Q V_3
+ｔｒｙ	N OO_4 U_4
+ｔｕｒｎ	N OO_4 U_4
+ｔｖ	T I_1 WH U_1 EE_1 I_1
+ｔｖ	T I_4 WH U_1 EE_1 I_1
+ｔｖｂ	T I_1 WH U_1 EE_1 I_1 B I_1
+ｔｖｂ	T I_1 WH U_1 EE_1 I_1 B I_4
+ｔｖｂ	T I_4 WH U_1 EE_1 I_1 B I_1
+ｔｖｂ	T I_4 WH U_1 EE_1 I_1 B I_4
+ｔｗｉｎｓ	T U_4 I_4 N_4 S
+ｔｗｉｎｓ	T U_4 I_4 N_4 S IZ_1
+ｔｗｉｎｓ	T U_4 YH I_4 N_4 S
+ｔｗｉｎｓ	T U_4 YH I_4 N_4 S IZ_1
+ｔｗｏ	T U_4
+ｔｘｔ	T I_4 AH AA_2 I_2 K S T I_4
+ｕ	YH I_1 OO_1 U_1
+ｕｂｅｒ	WH U_1 B ER_3
+ｕｂｅｒ	YH I_1 OO_1 U_1 B ER_3
+ｕｂｕｎｔｕ	WH U_1 B AA_1 N_1 T U_2
+ｕｃ	YH I_1 OO_1 U_1 S EE_1 I_1
+ｕｃ	YH I_1 OO_1 U_1 S EE_4 I_4
+ｕｃｗｅｂ	YH I_1 OO_1 U_1 S EE_1 I_1 WH I_4 EA_4 B
+ｕｃｗｅｂ	YH I_1 OO_1 U_1 S EE_1 I_1 WH U_4 AA_4 I_4 B
+ｕｃｗｅｂ	YH I_1 OO_1 U_1 S EE_1 I_1 WH U_4 EE_4 I_4 B
+ｕｆｏ	YH I_1 OO_1 U_1 AH AA_2 I_2 F U_1 OH OO_1 U_1
+ｕｍｅ	YH I_1 OO_1 U_1 AH AA_2 I_2 M U_1 YH I_4
+ｕｍｅ	YH I_1 OO_1 U_1 AH AA_2 I_2 M U_3 YH I_4
+ｕｎｃｌｅ	N OO_4 U_4
+ｕｎｉｘ	YH I_1 OO_1 U_1 N I_1 K E_1 S IZ_1
+ｕｎｉｘ	YH I_1 OO_1 U_1 N I_1 K S
+ｕｎｏ	N OO_4 U_4
+ｕｐ	AH A_4 P
+ｕｐ	AH A_4 P U_1
+ｕｐｄａｔｅ	AH A_1 P D EE_4 I_4 T
+ｕｐｄａｔｅ	AH A_1 P U_1 D EE_4 I_4 T E_1
+ｕｓ	YH I_1 OO_1 U_1 AH AA_2 I_2 S
+ｕｓｂ	YH I_1 OO_1 U_1 AH AA_2 I_2 S B I_1
+ｕｓｂ	YH I_1 OO_1 U_1 AH AA_2 I_2 S B I_4
+ｖ	WH U_1 EE_1 I_1
+ｖａｎｓ	WH U_4 AA_4 N_4 S IZ_3
+ｖｃ	WH U_1 EE_1 I_1 S EE_1 I_1
+ｖｃ	WH U_1 EE_1 I_1 S EE_4 I_4
+ｖｅｒｙ	WH EE_1 I_1 R I_1
+ｖｅｒｙ	WH EE_1 I_1 R I_3
+ｖｅｒｙ	WH I_1 EA_1 R I_1
+ｖｅｒｙ	WH I_1 EA_1 R I_3
+ｖｅｒｙ	WH U_1 EE_1 I_1 R I_1
+ｖｉｄｅｏ	N OO_4 U_4
+ｖｉｌｌａｇｅ	WH U_1 EE_1 I_1 L EE_3 I_3 ZH IZH_1
+ｖｉｌｌａｇｅ	WH U_1 EE_1 I_1 L I_3 ZH IZH_1
+ｖｉｐ	WH U_1 EE_1 I_1 AH AA_4 I_4 P I_1
+ｖｉｐ	WH U_1 EE_1 I_1 AH AA_4 I_4 P I_4
+ｖｉｓａ	WH U_1 EE_1 I_1 S A_3
+ｖｉｓａ	WH U_1 I_1 S A_3
+ｖｉｓｔａ	WH U_1 EE_1 I_1 S IZ_1 T A_1
+ｖｉｓｔａ	WH U_1 EE_1 I_1 S T A_1
+ｖｉｓｔａ	WH U_1 I_1 S IZ_1 T A_1
+ｖｉｖａ	WH U_1 EE_1 I_1 WH U_1 A_1
+ｖｉｖａ	WH U_1 I_1 WH U_1 A_1
+ｖｉｖｉ	WH U_1 EE_1 I_1 WH U_1 EE_1 I_1
+ｖｉｖｉ	WH U_1 I_1 WH U_1 I_1
+ｖｉｖｉａｎ	WH U_1 EE_1 I_1 WH U_1 EE_1 I_1 AH AA_1 N_1
+ｖｉｖｉａｎ	WH U_1 EE_1 I_1 WH U_1 EE_1 I_1 EA_1 N_1
+ｖｉｖｉａｎ	WH U_1 I_1 WH U_1 I_1 AH AA_1 N_1
+ｖｉｖｏ	WH U_1 EE_1 I_1 WH U_3 A_3 U_3
+ｖｉｖｏ	WH U_1 EE_1 I_1 WH U_3 OO_3 U_3
+ｖｏｌｖｏ	N OO_4 U_4
+ｖｐｎ	WH U_1 EE_1 I_1 P I_1 EH EEN_1 N_1
+ｖｐｎ	WH U_1 EE_1 I_1 P I_4 EH EEN_1 N_1
+ｖｐｎ	WH U_1 I_1 P I_1 EH EEN_1 N_1
+ｖｐｎ	WH U_1 I_1 P I_4 EH EEN_1 N_1
+ｖｓ	WH U_1 EE_1 I_1 AH AA_2 I_2 S IZ_1
+ｖｓ	WH U_1 I_1 AH AA_2 I_2 S IZ_1
+ｗ	D AH A_2 B L I_1 OO_1 U_1
+ｗ	D A_1 B L I_3 OO_3 U_3
+ｗ	D A_2 B L I_1 OO_1 U_1
+ｗａｉｔ	N OO_4 U_4
+ｗａｐ	D A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_1
+ｗａｐ	D A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_4
+ｗａｐ	WH I_4 EA_4 P
+ｗａｐ	WH U_4 AA_4 I_4 P
+ｗａｐ	WH U_4 AA_4 P
+ｗａｒ	WH A_4 U_4
+ｗａｙ	N OO_4 U_4
+ｗｃ	D A_2 B L I_1 OO_1 U_1 S EE_1 I_1
+ｗｃ	D A_2 B L I_1 OO_1 U_1 S EE_4 I_4
+ｗｅｂ	WH I_4 EA_4 B
+ｗｅｂ	WH U_4 EE_4 I_4 B
+ｗｅｃｈａｔ	WH U_1 EE_1 I_1 Q I_4 EA_4 T
+ｗｅｃｈａｔ	WH U_1 I_1 CH EE_4 I_4 T
+ｗｅｃｈａｔ	WH U_1 I_1 CH I_4 EA_4 T
+ｗｅｉｂｏ	N OO_4 U_4
+ｗｅｌｃｏｍｅ	WH I_1 EA_1 EH ER_3 K E_3 M
+ｗｅｌｃｏｍｅ	WH U_1 EE_1 I_1 AH A_1 U_1 K A_4 M
+ｗｅｌｃｏｍｅ	WH U_1 EE_1 I_1 AH A_1 U_1 K A_4 M U_1
+ｗｅｌｃｏｍｅ	WH U_1 EE_2 I_1 EH ER_3 K A_4 M
+ｗｅｌｃｏｍｅ	WH U_1 EE_2 I_1 EH ER_3 K A_4 M U_1
+ｗｅｌｌ	N OO_4 U_4
+ｗｅｎｄｙ	N OO_4 U_4
+ｗｈａｔ	WH U_4 A_4 U_4 T
+ｗｈａｔ	WH U_4 A_4 U_4 T E_3
+ｗｈａｔ	WH U_4 O_4 T
+ｗｈａｔ	WH U_4 O_4 T E_3
+ｗｈｅｎ	WH U_4 EEN_4 N_4
+ｗｈｅｎ	WH U_4 I_4 EA_4 N_4
+ｗｈｅｒｅ	WH I_1 EA_1 EH ER_3
+ｗｈｉｃｈ	WH U_4 I_4 CH IZH_1
+ｗｈｉｃｈ	WH U_4 I_4 Q I_1
+ｗｈｏ	H U_4
+ｗｈｙ	WH U_4 AA_4 I_4
+ｗｉｆｅ	WH U_4 AA_4 I_4 F
+ｗｉｆｉ	N OO_4 U_4
+ｗｉｆｉ	WH U_1 AA_1 I_1 F AA_1 I_1
+ｗｉｆｉ	WH U_1 AA_1 I_1 F AA_4 I_4
+ｗｉｉ	D AH A_2 B L I_1 OO_1 U_1 AH AA_1 I_1 AH AA_1 I_1
+ｗｉｉ	D AH A_2 B L I_1 OO_1 U_1 AH AA_4 I_4 AH AA_4 I_4
+ｗｉｉ	WH U_4 I_4
+ｗｉｌｌ	N OO_4 U_4
+ｗｉｎ	WH EEN_4 N_4
+ｗｉｎｄｏｗ	N OO_4 U_4
+ｗｉｎｄｏｗｓ	WH U_1 EEN_1 N_1 D OO_3 U_3 S
+ｗｉｎｄｏｗｓ	WH U_1 EEN_1 N_1 D OO_3 U_3 S IZ_1
+ｗｉｎｄｏｗｓ	WH U_1 I_1 N_1 D OO_3 U_3 S
+ｗｉｎｄｏｗｓ	WH U_1 I_1 N_1 D OO_3 U_3 S IZ_1
+ｗｉｎｇ	N OO_4 U_4
+ｗｉｎｎｅｒ	N OO_4 U_4
+ｗｉｐｅ	WH U_4 AA_4 I_4 P
+ｗｌａｎ	D A_2 B L I_1 OO_1 U_1 L AA_4 I_4
+ｗｌａｎ	D A_2 B L I_1 OO_1 U_1 L AA_4 N_4
+ｗｏｒｄ	WH U_4 O_4 D
+ｗｏｒｄ	WH U_4 O_4 D E_1
+ｗｏｒｋ	WH U_4 O_4 K
+ｗｏｒｋ	WH U_4 O_4 K E_1
+ｗｏｗ	WH U_4 A_4 WH U_4
+ｗｗｄｃ	D AH A_2 B L I_1 OO_1 U_1 D AH A_2 B L I_1 OO_1 U_1 D I_4 S EE_4 I_4
+ｘ	AH AA_2 I_2 K E_1 S
+ｘ	AH AA_2 I_2 K E_1 S IZ_1
+ｘ	AH AA_2 I_2 K S
+ｘ	AH AA_2 I_2 K S IZ_1
+ｘ	AH I_2 EA_2 K E_1 S
+ｘ	AH I_2 EA_2 K E_1 S IZ_1
+ｘ	AH I_2 EA_2 K S IZ_1
+ｘ	EH I_2 EA_2 K S
+ｘｂｏｘ	AH AA_2 I_2 K S B A_4 U_4 K E_1 S IZ_1
+ｘｂｏｘ	AH AA_2 I_2 K S B A_4 U_4 K S
+ｘｐ	AH AA_2 I_2 K S P I_1
+ｘｐ	AH AA_2 I_2 K S P I_4
+ｘｐ	CH A_1 P I_4
+ｘ战警	AH AA_2 I_2 K S ZH AA_4 N_4 J I_3 NG_3
+ｙ	WH U_1 AA_1 I_1
+ｙ	WH U_4 AA_4 I_4
+ｙａｈｏｏ	YH I_1 A_1 H U_4
+ｙａｈｏｏ	YH I_2 A_2 H U_4
+ｙａｈｏｏ	YH I_3 A_3 H U_4
+ｙｅａｈ	YH EE_4 I_4 E_3
+ｙｅａｈ	YH I_4 EA_4
+ｙｅａｈ	YH I_4 EA_4 E_3
+ｙｅａｒ	YH ER_4
+ｙｅａｒ	YH I_1 EA_1
+ｙｅａｒ	YH I_4 EA_4
+ｙｅａｒ	YH I_4 EH ER_1
+ｙｅａｒ	YH I_4 EH ER_3
+ｙｅｌｌｏｗ	N OO_4 U_4
+ｙｅｐ	N OO_4 U_4
+ｙｅｓ	YH I_4 EA_4 S
+ｙｅｓ	YH I_4 EA_4 S IZ_3
+ｙｅｔ	N OO_4 U_4
+ｙｏｕ	YH I_1 OO_1 U_1
+ｙｏｕ	YH I_4 OO_4 U_4
+ｙｏｕｋｕ	N OO_4 U_4
+ｙｏｕｎｇ	YH I_4 A_4 NG_4
+ｙｏｕｒ	N OO_4 U_4
+ｙｏｕｔｕｂｅ	YH I_1 OO_1 U_1 T I_1 OO_1 U_1 B
+ｙｏｕｔｕｂｅ	YH I_1 OO_1 U_1 T U_1 B
+ｙｏｙｏ	YH OO_1 U_1 YH OO_3 U_3
+ｙｙ	WH U_4 AA_4 I_4 WH U_4 AA_4 I_4
+ｚ	Z EE_1 I_1
+ｚ	Z EE_4 I_4
+ｚ	Z I_1
+ｚ	Z I_4
+ｚａｒａ	Z A_1 R A_3
+ｚａｒａ	Z A_1 R E_3
+ｚａｒａ	ZH A_1 R A_3
+ｚｅｒｏ	N OO_4 U_4
+ｚｉｐ	Z I_4 P
+ｚｉｐｐｏ	Z I_1 P OO_1 U_1
+ｚｓｌｌ	Z EE_4 I_4 AH AA_2 I_2 S AH AA_2 I_2 L AH AA_2 I_2 L
 と	N E_4
 れ	N E_4
 猇	X I_1 A_1 U_1
@@ -14627,6 +16205,8 @@
 丹方	D AA_1 N_1 F A_1 NG_1
 丹凤	D AA_1 N_1 F EENG_4 NG_4
 丹凤眼	D AA_1 N_1 F EENG_4 NG_4 YH I_3 EA_3 N_3
+丹棱街ｓｏｈｏ	D AA_1 N_1 L I_2 NG_2 J I_1 EA_1 S OO_1 U_1 H OO_1 U_1
+丹棱街ｓｏｈｏ	D AA_1 N_1 L I_2 NG_2 J I_1 EA_1 S OO_1 U_1 H OO_3 U_3
 丹炉	D AA_1 N_1 L U_2
 丹麦	D AA_1 N_1 M AA_4 I_4
 丹妮	D AA_1 N_1 N I_1
@@ -32407,6 +33987,7 @@
 华图	H U_2 A_2 T U_2
 华威	H U_2 A_2 WH U_1 EE_1 I_1
 华为	H U_2 A_2 WH U_2 EE_2 I_2
+华为３ｃ	H U_2 A_2 WH U_2 EE_2 I_2 S AA_1 N_1 X I_2
 华文	H U_2 A_2 WH U_2 EEN_2 N_2
 华西	H U_2 A_2 X I_1
 华西村	H U_2 A_2 X I_1 C U_1 EEN_1 N_1
@@ -42347,6 +43928,7 @@
 凯	K AA_3 I_3
 凯达	K AA_3 I_3 D A_2
 凯德	K AA_3 I_3 D E_2
+凯德ｍａｌｌ	K AA_3 I_3 D E_2 M A_4 U_4
 凯迪	K AA_3 I_3 D I_2
 凯迪拉克	K AA_3 I_3 D I_2 L A_1 K E_4
 凯蒂	K AA_3 I_3 D I_4
@@ -65528,6 +67110,8 @@
 三里	S AA_1 N_1 L I_3
 三里屯	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2
 三里屯	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2 EH ER_1
+三里屯ｖｉｌｌａｇｅ	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2 WH U_1 EE_1 I_1 L EE_3 I_3 ZH IZH_1
+三里屯ｖｉｌｌａｇｅ	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2 WH U_1 EE_1 I_1 L I_3 ZH IZH_1
 三立	S AA_1 N_1 L I_4
 三联	S AA_1 N_1 L I_2 EA_2 N_2
 三连	S AA_1 N_1 L I_2 EA_2 N_2
@@ -69578,6 +71162,7 @@
 世间	SH IZH_4 J I_1 EA_1 N_1
 世杰	SH IZH_4 J I_2 EA_2
 世界	SH IZH_4 J I_4 EA_4
+世界ｂｏｓｓ	SH IZH_4 J I_4 EA_4 B A_3 U_3 SH IZH_2
 世界杯	SH IZH_4 J I_4 EA_4 B EE_1 I_1
 世界大战	SH IZH_4 J I_4 EA_4 D A_4 ZH AA_4 N_4
 世界地图	SH IZH_4 J I_4 EA_4 D I_4 T U_2
@@ -75232,6 +76817,8 @@
 唐明	T A_2 NG_2 M I_2 NG_2
 唐娜	T A_2 NG_2 N A_4
 唐宁	T A_2 NG_2 N I_2 NG_2
+唐宁ｏｎｅ	T A_1 NG_1 N I_1 NG_1 WH U_4 AA_4 N_4
+唐宁ｏｎｅ	T A_2 NG_2 N I_2 NG_2 WH U_4 AA_4 N_4
 唐人	T A_2 NG_2 R EEN_2 N_2
 唐人街	T A_2 NG_2 R EEN_2 N_2 J I_1 EA_1
 唐三	T A_2 NG_2 S AA_1 N_1
@@ -76121,6 +77708,7 @@
 天了	T I_1 EA_1 N_1 L E_1
 天灵	T I_1 EA_1 N_1 L I_2 NG_2
 天龙	T I_1 EA_1 N_1 L U_2 NG_2
+天龙ｓｆ	T I_1 EA_1 N_1 L U_2 NG_2 AH AA_2 I_2 SH IZH_4 AH AA_2 I_2 F U_4
 天龙八部	T I_1 EA_1 N_1 L U_2 NG_2 B A_1 B U_4
 天路	T I_1 EA_1 N_1 L U_4
 天伦	T I_1 EA_1 N_1 L U_2 EEN_2 N_2
@@ -82941,6 +84529,7 @@
 西路	X I_1 L U_4
 西门	X I_1 M EEN_2 N_2 EH ER_1
 西门	X I_1 M EEN_2 N_2 EH ER_2
+西门	X I_1 M EEN_2 N_2 
 西门庆	X I_1 M EEN_2 N_2 Q I_4 NG_4
 西门子	X I_1 M EEN_2 N_2 Z IZ_3
 西蒙	X I_1 M EENG_2 NG_2
@@ -99171,6 +100760,7 @@
 栅	SH AA_1 N_1
 栅	ZH A_4
 栅栏	SH IZH_2 L AA_4 N_4
+栅栏	SH IZH_2 L AA_4 N_4 EH ER_1
 栅栏	ZH A_4 L AA_2 N_2
 榨	ZH A_4
 榨菜	ZH A_4 C AA_4 I_4
@@ -103220,6 +104810,8 @@
 中共中央	ZH U_1 NG_1 G U_4 NG_4 ZH U_1 NG_1 YH I_1 A_1 NG_1
 中古	ZH U_1 NG_1 G U_3
 中关村	ZH U_1 NG_1 G U_1 AA_1 N_1 C U_1 EEN_1 N_1
+中关村ｓｏｈｏ	ZH U_1 NG_1 G U_1 AA_1 N_1 C U_1 EEN_1 N_1 S OO_1 U_1 H OO_1 U_1
+中关村ｓｏｈｏ	ZH U_1 NG_1 G U_1 AA_1 N_1 C U_1 EEN_1 N_1 S OO_1 U_1 H OO_3 U_3
 中观	ZH U_1 NG_1 G U_1 AA_1 N_1
 中广	ZH U_1 NG_1 G U_3 A_3 NG_3
 中规	ZH U_1 NG_1 G U_1 EE_1 I_1
@@ -111280,1525 +112872,3 @@
 黒	H EE_1 I_1
 齁	H OO_1 U_1
 龘	D A_2
-!SIL	sil
-<UNK>	sil
-３d	S AA_1 N_1 D I_1
-３d	S AA_1 N_1 D I_4
-３d２y	S AA_1 N_1 D I_1 EH ER_4 WH U_1 AA_1 I_1
-４s	S IZ_4 AH AA_2 I_2 S
-４s	S IZ_4 AH AA_2 I_2 S IZ_1
-a	EH EE_1 I_1
-a	EH EE_4 I_4
-aa	EH EE_1 I_1 EH EE_1 I_1
-ab	EH EE_1 I_1 B I_1
-ab	EH EE_1 I_1 B I_4
-abc	EH EE_1 I_1 B I_1 S EE_1 I_1
-abc	EH EE_1 I_1 B I_4 S EE_1 I_1
-about	EH E_1 B A_4 U_4 T
-ac	EH EE_1 I_1 S EE_1 I_1
-ac	EH EE_1 I_1 S EE_4 I_4
-ace	EH EE_4 I_4 S IZ_3
-acer	EH EE_1 I_1 S ER_1
-acer	EH EE_1 I_1 S ER_3
-ad	EH EE_1 I_1 D I_1
-add	AH AA_4 I_4 D
-add	AH AA_4 I_4 D E_3
-add	EH I_4 EA_4 D
-adidas	AH A_1 D I_3 D A_3 S IZ_3
-adidas	AH A_3 D I_1 D A_3 S IZ_3
-admin	EH E_1 D E_1 M I_4 NG_4
-admin	EH E_1 D E_1 M I_4 N_4
-adobe	EH E_1 D OO_1 U_1 B I_3
-adobe	EH E_1 D U_1 B I_3
-adsl	EH EE_1 I_1 D I_1 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH A_1 U_1
-adsl	EH EE_1 I_1 D I_1 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH OH OO_1 U_1
-adsl	EH EE_1 I_1 D I_4 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH A_1 U_1
-adsl	EH EE_1 I_1 D I_4 AH AA_2 I_2 S IZ_1 AH AA_2 I_2 AH OH OO_1 U_1
-again	N OO_4 U_4
-air	AH AA_1 I_1 EH ER_3
-air	AH AA_4 I_4 EH ER_3
-air	EH EE_1 I_1 EH ER_3
-air	EH I_1 EA_1 EH ER_3
-ak	EH EE_1 I_1 K EE_1 I_1
-ak	EH EE_1 I_1 K EE_4 I_4
-alex	AA_1 I_1 L EE_3 I_3 K S IZ_3
-alex	AA_1 I_1 L I_3 K S
-alex	AA_1 I_1 L I_3 K S IZ_3
-alex	EH I_1 EA_1 L I_3 K S
-alex	EH I_1 EA_1 L I_3 K S IZ_3
-all	OH O_1
-all	OH O_2
-all	OH O_4
-alt	EH EE_1 I_1 AH AA_2 I_2 AH A_1 U_1 T I_4
-am	EH EE_1 I_1 AH AA_2 I_2 M U_3
-amd	EH EE_1 I_1 AH AA_2 I_2 M U_1 D I_1
-amd	EH EE_1 I_1 AH AA_2 I_2 M U_1 D I_4
-amy	EH EE_1 I_1 M I_3
-amy	EH I_1 EA_1 M I_3
-and	AH AA_1 N_1 D E_1
-and	AH AA_4 N_4 D
-and	AH AA_4 N_4 D E_3
-and	EH I_4 EA_4 D
-and	EH I_4 EA_4 D E_3
-android	AH AA_1 N_1 ZH U_4 AA_4 I_4 D
-android	AH AA_1 N_1 ZH U_4 AA_4 I_4 D E_3
-android	AH AA_3 N_3 ZH U_4 AA_4 I_4 D
-android	EH I_1 EA_1 N_1 ZH U_4 AA_4 I_4 D E_3
-andy	AH AA_1 N_1 D I_3
-andy	EH I_1 EA_1 N_1 D I_3
-angel	AH AA_1 N_1 J I_3 OO_3 U_3
-angel	AH AA_1 N_1 ZH E_3 OH OO_3 U_3
-angel	EH I_1 EA_1 N_1 J I_3 OO_3 U_3
-angela	N OO_4 U_4
-angelababy	AH AA_1 N_1 J I_1 OO_1 U_1 L A_1 B EE_1 I_1 B I_3
-angelababy	AH AA_1 N_1 J I_3 OO_3 U_3 L A_1 B EE_1 I_1 B I_3
-angelababy	AH AA_1 N_1 ZH E_1 L A_1 B EE_1 I_1 B I_3
-angelababy	EH I_1 EA_1 N_1 J I_1 OO_1 U_1 L A_1 B EE_1 I_1 B I_3
-angelababy	EH I_1 EA_1 N_1 ZH E_1 L A_1 B EE_1 I_1 B I_3
-anna	N OO_4 U_4
-apec	EH EE_1 I_1 P AA_4 I_4 K
-apec	EH EE_1 I_1 P AA_4 I_4 K E_3
-apec	EH EE_1 I_1 P AA_4 I_4 K E_4
-apec	EH EE_1 I_1 P I_4 YH I_1 S EE_1 I_1
-apec峰会	EH EE_1 I_1 P AA_4 I_4 K E_4 F EENG_1 NG_1 H U_4 EE_4 I_4
-apec峰会国际会议中心	EH EE_1 I_1 P AA_4 I_4 K E_4 F EENG_1 NG_1 H U_4 EE_4 I_4 G U_2 O_2 J I_4 H U_4 EE_4 I_4 YH I_4 ZH U_1 NG_1 X I_1 N_1
-apk	EH EE_1 I_1 P I_1 K EE_1 I_1
-apk	EH EE_1 I_1 P I_1 K EE_4 I_4
-apk	EH EE_1 I_1 P I_4 K EE_4 I_4
-app	AH AA_4 I_4 P
-app	EH EE_1 I_1 P I_1 P I_1
-app	EH EE_1 I_1 P I_4 P I_4
-app	EH EE_4 I_4 P
-app	EH I_4 EA_4 P
-apple	AH AA_1 I_1 P OO_1 U_1
-apple	AH AA_1 I_1 P OO_3 U_3
-apple	EH EE_1 I_1 P OO_1 U_1
-apple	EH EE_1 I_1 P OO_3 U_3
-apple	EH I_1 EA_1 P OO_3 U_3
-appstore	EH EE_1 I_1 P E_3 S IZ_3 D U_4 O_4
-appstore	EH EE_1 I_1 P I_1 P I_1 S IZ_3 D U_4 O_4
-appstore	EH I_1 EA_1 P E_3 S IZ_3 D U_4 O_4
-ara	N OO_4 U_4
-are	AH A_1
-are	AH A_2
-are	AH A_4
-asus	EH EE_1 I_1 S E_3 S IZ_3
-at	AH AA_4 I_4 T
-at	AH AA_4 I_4 T E_3
-atm	EH EE_1 I_1 T I_1 EH I_1 EA_1 M
-atm	EH EE_1 I_1 T I_4 AH AA_2 I_2 M
-av	EH EE_1 I_1 WH U_1 EE_1 I_1
-avi	EH EE_1 I_1 WH U_1 EE_1 I_1 AH AA_4 I_4
-b	B I_1
-b	B I_4
-b１	B I_4 YH I_1
-baby	B EE_1 I_1 B I_3
-back	N OO_4 U_4
-bad	B AA_4 I_4 D E_3
-bad	B I_4 EA_4 D
-ball	B A_4 U_4
-ball	B O_4
-ban	B I_4 EA_4 N_4
-bang	N OO_4 U_4
-bank	B AA_4 N_4 K
-bank	B AA_4 N_4 K E_3
-bank	B I_4 EA_4 N_4 K
-bank	B I_4 EA_4 N_4 K E_3
-bar	B A_4
-bb	B I_1 B I_1
-bb	B I_4 B I_4
-bbs	B I_1 B I_1 AH AA_2 I_2 S
-bbs	B I_4 B I_4 AH AA_2 I_2 S
-beat	B I_4 T
-beat	B I_4 T E_3
-beautiful	B I_1 OO_1 U_1 T E_3 F OO_3 U_3
-because	N OO_4 U_4
-ben	N OO_4 U_4
-bersih	B I_4 YH I_4 AH A_4 AH AA_2 I_2 S AH AA_4 I_4 EH EE_2 I_2
-best	B EE_4 I_4 S IZ_3 T
-best	B EE_4 I_4 S T
-best	B I_4 EA_4 S IZ_3 T
-best	B I_4 EA_4 S T
-beta	B EE_1 I_1 T A_1
-beta	B I_1 EA_1 T A_3
-better	B EE_1 I_1 T E_3
-better	B I_1 EA_1 T E_3
-beyond	B I_3 YH I_4 A_4 NG_4 D
-beyond	B I_3 YH I_4 A_4 NG_4 D E_3
-big	B I_4 G
-big	B I_4 G E_3
-bigbang	B I_1 G B A_4 NG_4
-bigbang	B I_1 G E_3 B A_4 NG_4
-bill	B I_3 EH ER_3
-bill	B I_4 OH OO_3 U_3
-bin	B I_4 N_4
-bing	B I_4 NG_4
-bingo	B I_1 NG_1 G OO_1 U_1
-bingo	B I_1 NG_1 G OO_3 U_3
-bios	B AA_4 I_4 AH A_3 U_3 S IZ_3
-bios	B AA_4 I_4 OH OO_3 U_3 S IZ_3
-bios	B I_1 AH AA_4 I_4 OH OO_1 U_1 AH AA_2 I_2 S IZ_3
-birthday	B ER_1 S D EE_3 I_3
-birthday	B ER_1 S D EE_4 I_4
-birthday	B ER_1 S IZ_3 D EE_3 I_3
-birthday	B ER_1 S IZ_3 D EE_4 I_4
-bit	B I_4 T
-bit	B I_4 T E_3
-bitch	B I_4 CH I_3
-bitch	B I_4 Q I_3
-bl	B I_1 AH AA_1 I_1 AH A_1 U_1
-bl	B I_4 AH AA_2 I_2 AH A_3 U_3
-black	N OO_4 U_4
-blackberry	B L AA_1 I_1 K B EE_1 I_1 R I_3
-blackberry	B L I_2 EA_2 K B I_1 EA_1 R I_3
-block	N OO_4 U_4
-blog	B L A_4 U_4 G
-blog	B L A_4 U_4 G E_3
-blood	N OO_4 U_4
-blue	B L U_4
-blue	B U_1 L U_4
-blue	B U_3 L U_4
-blued	N OO_4 U_4
-bmw	B I_1 AH AA_2 I_2 M U_1 D AH A_2 B L I_3 OO_3 U_3
-bmw	B I_1 AH AA_2 I_2 M U_1 D AH A_4 B L I_1 OO_1 U_1
-bmw	B I_4 AH AA_2 I_2 M U_1 D AH A_2 B L I_3 OO_3 U_3
-bmw	B I_4 AH AA_2 I_2 M U_1 D AH A_4 B L I_1 OO_1 U_1
-bob	B A_4 U_4 B
-bob	B A_4 U_4 B E_3
-bob	B O_4 B
-book	B U_4 K
-book	B U_4 K E_3
-boom	B U_4 M
-boom	B U_4 M U_3
-boos	B U_4 S IZ_3
-boot	B U_4 T
-boot	B U_4 T E_1
-boss	B A_4 U_4 S
-boss	B A_4 U_4 S IZ_3
-boss	B OO_4 U_4 S
-boss	B OO_4 U_4 S IZ_3
-boss	B O_4 S
-boss	B O_4 S IZ_3
-box	N OO_4 U_4
-boy	B A_4 U_4 YH I_3
-boy	B O_4 YH I_3
-boyfriend	B O_1 YH I_1 F U_1 R U_4 EEN_4 N_4 D
-boys	N OO_4 U_4
-bra	B U_1 R U_4 A_4
-break	N OO_4 U_4
-bt	B I_1 T I_1
-bt	B I_4 T I_4
-btv	B I_1 T I_1 WH U_1 EE_1 I_1
-btv	B I_4 T I_4 WH U_1 EE_1 I_1
-buff	B A_4 F
-buff	B A_4 F U_3
-bug	B A_4 G
-bug	B A_4 G E_3
-bus	B A_4 S IZ_1
-but	B A_4 T
-but	B A_4 T E_1
-buy	B AA_4 I_4
-by	B AA_1 I_1
-by	B AA_4 I_4
-bye	B AA_1 I_1
-bye	B AA_4 I_4
-c	S EE_1 I_1
-c	S EE_4 I_4
-c	S I_1
-ca	S EE_1 I_1 EH EE_1 I_1
-ca	S EE_4 I_4 EH EE_1 I_1
-ca	S I_1 EH EE_1 I_1
-cad	S EE_1 I_1 EH EE_1 I_1 D I_1
-cad	S EE_1 I_1 EH EE_1 I_1 D I_4
-cad	S EE_4 I_4 EH EE_1 I_1 D I_1
-cad	S EE_4 I_4 EH EE_1 I_1 D I_4
-cake	N OO_4 U_4
-call	K A_1 U_1
-call	K O_1
-call	K O_4
-can	K EEN_4 N_4
-can	K I_4 EA_4 N_4
-candy	N OO_4 U_4
-canon	K AA_1 I_1 N EENG_3 NG_3
-canon	K AA_1 I_1 N EEN_3 N_3
-canon	K I_1 EA_1 N EEN_3 N_3
-care	K AA_1 I_1 EH E_1
-carry	K AA_1 I_1 R U_3 AA_3 I_3
-case	K EE_4 I_4 S
-case	K EE_4 I_4 S IZ_3
-cat	K AA_4 I_4 T
-cat	K AA_4 I_4 T E_3
-cat	K I_4 EA_4 T
-cba	S EE_1 I_1 B I_1 EH EE_1 I_1
-cba	S EE_1 I_1 B I_4 EH EE_1 I_1
-cba	S EE_4 I_4 B I_1 EH EE_1 I_1
-cba	S EE_4 I_4 B I_4 EH EE_1 I_1
-cbd	S EE_1 I_1 B I_1 D I_4
-cbd	S EE_1 I_1 B I_4 D I_4
-cc	S EE_1 I_1 S EE_1 I_1
-cctv	S EE_1 I_1 S EE_1 I_1 T I_1 WH U_1 EE_1 I_1
-cctv	S EE_1 I_1 S EE_1 I_1 T I_4 WH U_1 EE_1 I_1
-cctv	S EE_4 I_4 S EE_4 I_4 T I_1 WH U_1 EE_1 I_1
-cctv	S EE_4 I_4 S EE_4 I_4 T I_4 WH U_1 EE_1 I_1
-cd	S EE_1 I_1 D I_1
-cd	S EE_1 I_1 D I_4
-cd	S EE_4 I_4 D I_1
-cd	S EE_4 I_4 D I_4
-cdkey	S EE_1 I_1 D I_1 K I_4
-cdkey	S EE_1 I_1 D I_4 K I_4
-cdkey	S EE_4 I_4 D I_1 K I_4
-cdkey	S EE_4 I_4 D I_4 K I_4
-cdma	S EE_1 I_1 D I_1 AH AA_2 I_2 M U_1 EH EE_1 I_1
-cdma	S EE_1 I_1 D I_1 AH AA_2 I_2 M U_3 EH EE_1 I_1
-cdma	S EE_1 I_1 D I_4 AH AA_2 I_2 M U_1 EH EE_1 I_1
-cdma	S EE_1 I_1 D I_4 AH AA_2 I_2 M U_3 EH EE_1 I_1
-cdma	S EE_4 I_4 D I_1 AH AA_2 I_2 M U_1 EH EE_1 I_1
-cdma	S EE_4 I_4 D I_1 AH AA_2 I_2 M U_3 EH EE_1 I_1
-cdma	S EE_4 I_4 D I_4 AH AA_2 I_2 M U_1 EH EE_1 I_1
-ceo	S EE_1 I_1 YH I_1 OH OO_1 U_1
-ceo	S EE_1 I_1 YH I_4 OH OO_1 U_1
-ceo	S EE_4 I_4 YH I_1 OH OO_1 U_1
-ceo	S EE_4 I_4 YH I_4 OH OO_1 U_1
-cf	S EE_1 I_1 AH AA_2 I_2 F U_1
-cf	S EE_4 I_4 AH AA_2 I_2 F U_1
-cf清刚	S EE_1 I_1 AH AA_2 I_2 F Q I_1 NG_1 G A_1 NG_1
-cf妖姬	S EE_1 I_1 AH AA_2 I_2 F YH I_1 A_1 U_1 J I_1
-chanel	N OO_4 U_4
-check	N OO_4 U_4
-cherry	N OO_4 U_4
-china	CH AA_1 I_1 N A_1
-china	CH AA_1 I_1 N E_1
-chinanet	N OO_4 U_4
-christmas	K E_1 R I_4 S IZ_1 M E_1 S
-chrome	K E_1 R A_4 U_4 M U_1
-chrome	K E_1 R A_4 U_4 M U_3
-chrome	K E_1 R OO_4 U_4 M
-chrome	K E_1 R OO_4 U_4 M U_1
-chrome	K E_1 R OO_4 U_4 M U_3
-cindy	N OO_4 U_4
-cisco	S I_1 S K E_1
-cisco	S I_4 S IZ_1 K OO_1 U_1
-cisco	S I_4 S IZ_1 K OO_3 U_3
-city	N OO_4 U_4
-ck	S EE_1 I_1 K EE_1 I_1
-ck	S EE_1 I_1 K EE_4 I_4
-ck	S EE_4 I_4 K EE_1 I_1
-ck	S EE_4 I_4 K EE_4 I_4
-classic	K E_1 L A_4 S I_1 K E_1
-classic	K E_4 L A_1 S I_1 K
-classic	K E_4 L A_1 S I_1 K E_1
-click	K E_1 L I_4 K
-click	K E_1 L I_4 K E_1
-club	K E_1 L A_4 B
-cm	S EE_1 I_1 AH AA_2 I_2 M U_1
-cmcc	S EE_1 I_1 AH AA_2 I_2 M S EE_1 I_1 S EE_1 I_1
-cmcc	S EE_1 I_1 AH AA_2 I_2 M U_1 S EE_1 I_1 S EE_1 I_1
-cmcc	S EE_4 I_4 AH AA_2 I_2 M U_1 S EE_4 I_4 S EE_4 I_4
-cmwap	S EE_1 I_1 AH AA_2 I_2 M U_1 D AH A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_1
-cmwap	S EE_4 I_4 AH AA_2 I_2 M U_1 D AH A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_4
-cmwap	S EE_4 I_4 AH AA_2 I_2 M U_1 WH U_4 A_4 P
-cmwap	S EE_4 I_4 AH AA_2 I_2 M U_1 WH U_4 A_4 P U_1
-coach	K OO_4 U_4 CH IZH_1
-coach	K OO_4 U_4 CH IZH_3
-coach	K OO_4 U_4 Q V_3
-coco	K OO_1 U_1 K OO_1 U_1
-coco	K OO_1 U_1 K OO_3 U_3
-code	K OO_4 U_4 D
-code	K OO_4 U_4 D E_1
-coffee	K A_1 U_1 F I_3
-coffee	K O_1 F I_3
-color	K AA_4 N_4 L ER_1
-color	K AA_4 N_4 L ER_3
-color	K AA_4 N_4 L E_1
-color	K AA_4 N_4 L E_3
-color	K A_1 L A_1
-color	K A_1 L A_3
-color	K A_1 L ER_1
-color	K A_1 L ER_3
-color	K A_3 L ER_1
-color	K A_3 L ER_3
-color	K A_4 NG_4 L ER_1
-color	K A_4 NG_4 L ER_3
-com	K A_4 U_4 M
-com	K A_4 U_4 M U_3
-com	S EE_1 I_1 OH OO_1 U_1 AH AA_2 I_2 M U_1
-com	S EE_4 I_4 OH OO_1 U_1 AH AA_2 I_2 M U_1
-come	K A_4 M
-come	K A_4 U_4 M
-converse	K A_1 NG_1 WH EH ER_1 S IZ_1
-converse	K A_1 NG_1 WH EH ER_3 S IZ_1
-cool	K U_4
-cool	K U_4 EH ER_3
-cooper	K U_4 P ER_1
-copy	K A_4 U_4 P I_1
-cos	K A_4 U_4 S
-cos	K A_4 U_4 S IZ_3
-cos	K OO_4 U_4 S IZ_3
-cosplay	K A_1 U_1 S IZ_1 P L EE_4 I_4
-cosplay	K A_1 U_1 S P L EE_4 I_4
-cosplay	K OO_1 U_1 S IZ_1 P L EE_4 I_4
-costa	K A_1 U_1 S T A_1
-costa	K OO_1 U_1 S IZ_1 T A_1
-cp	S EE_1 I_1 P I_1
-cp	S EE_1 I_1 P I_4
-cp	S EE_4 I_4 P I_1
-cp	S EE_4 I_4 P I_4
-cpi	S EE_1 I_1 P I_1 AH AA_1 I_1
-cpi	S EE_4 I_4 P I_4 AH AA_4 I_4
-cpu	S EE_1 I_1 P I_1 YH I_1 OO_1 U_1
-cpu	S EE_4 I_4 P I_4 YH I_1 OO_1 U_1
-crazy	N OO_4 U_4
-crv	S EE_1 I_1 AH A_2 WH U_1 EE_1 I_1
-crv	S EE_1 I_1 AH A_4 WH U_1 EE_1 I_1
-crv	S EE_4 I_4 AH A_4 WH U_1 EE_1 I_1
-cry	K E_1 R U_4 AA_4 I_4
-cry	K R U_4 AA_4 I_4
-cs	S EE_1 I_1 AH AA_2 I_2 S
-cs	S EE_1 I_1 AH AA_2 I_2 S IZ_1
-csol	S EE_1 I_1 AH AA_2 I_2 S OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
-csol	S EE_4 I_4 AH AA_2 I_2 S OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
-ctrl	K EENG_1 NG_1 Q I_4 OO_4 U_4
-ctrl	K EENG_3 NG_3 CH OO_4 U_4
-ctrl	K EEN_1 N_1 Q I_4 OO_4 U_4
-ctrl	K EEN_3 N_3 CH OO_4 U_4
-cup	N OO_4 U_4
-cut	N OO_4 U_4
-cute	K I_4 OO_4 U_4 T
-cute	K I_4 OO_4 U_4 T E_3
-d	D I_1
-d	D I_4
-dad	D AA_4 I_4 D
-dad	D AA_4 I_4 D E_1
-daddy	D AA_1 I_1 D I_3
-daddy	D I_1 EA_1 D I_3
-darling	D A_1 L I_1 NG_1
-darling	D A_2 L I_2 NG_2
-data	D EE_1 I_1 T A_3
-data	D I_1 EA_1 T A_3
-david	D AA_1 I_1 WH U_3 EE_3 I_3 D
-david	D EE_1 I_1 WH U_3 EE_3 I_3 D
-david	D EE_1 I_1 WH U_3 EE_3 I_3 D E_3
-day	D EE_4 I_4
-dear	D I_1 EH ER_3
-dear	D I_4 EH ER_3
-delete	N OO_4 U_4
-dell	D EE_4 I_4 EH ER_3
-dell	D I_4 EA_4 EH ER_3
-dfs	D I_1 AH AA_2 I_2 F U_1 AH AA_2 I_2 S
-dfs	D I_1 AH AA_2 I_2 F U_3 AH AA_2 I_2 S
-dfs	D I_4 AH AA_2 I_2 F U_1 AH AA_2 I_2 S
-dfs	D I_4 AH AA_2 I_2 F U_3 AH AA_2 I_2 S
-dhc	D I_1 EH EE_2 I_2 CH IZH_1 S EE_1 I_1
-dhc	D I_4 EH EE_2 I_2 CH IZH_1 S EE_4 I_4
-die	D AA_4 I_4
-dig	D I_4 G
-dig	D I_4 G E_3
-dior	D I_1 EH ER_3
-disco	D I_1 S IZ_1 K A_1 U_1
-disco	D I_1 S IZ_1 K OO_4 U_4
-disco	D I_1 S K A_1 U_1
-div	D I_1 AH AA_4 I_4 WH U_1 EE_1 I_1
-div	D I_4 AH AA_3 I_3 WH U_1 EE_1 I_1
-div	D I_4 AH AA_4 I_4 WH U_1 EE_1 I_1
-diy	D I_1 AH AA_1 I_1 WH U_1 AA_1 I_1
-diy	D I_4 AH AA_4 I_4 WH U_1 AA_1 I_1
-diy	D I_4 AH AA_4 I_4 WH U_4 AA_4 I_4
-dh	D I_1 ZH EE_1 I_1
-dh	D I_1 ZH EE_4 I_4
-dh	D I_4 ZH EE_1 I_1
-dh	D I_4 ZH EE_4 I_4
-dna	D I_1 EH EEN_1 N_1 EH EE_1 I_1
-dna	D I_4 EH EEN_1 N_1 EH EE_1 I_1
-dnf	D I_1 EH EEN_1 N_1 AH AA_2 I_2 F U_1
-dnf	D I_4 EH EEN_1 N_1 AH AA_2 I_2 F U_1
-dns	D I_1 EH EEN_1 N_1 AH AA_2 I_2 S IZ_1
-dns	D I_4 EH EEN_1 N_1 AH AA_2 I_2 S IZ_1
-do	D U_4
-doc	D A_4 U_4 K E_1
-doc	D I_1 OH OO_1 U_1 S EE_1 I_1
-doc	D I_4 OH OO_1 U_1 S EE_4 I_4
-doctor	N OO_4 U_4
-dog	D A_4 U_4 G
-dog	D A_4 U_4 G E_1
-doge	N OO_4 U_4
-dos	D A_4 U_4 S
-dos	D A_4 U_4 S IZ_3
-dos	D O_4 S
-dota	D A_1 U_1 T A_3
-dota	D O_1 T A_3
-double	N OO_4 U_4
-down	D A_4 NG_4
-dragon	N OO_4 U_4
-dream	N OO_4 U_4
-dv	D I_1 WH U_1 EE_1 I_1
-dv	D I_4 WH U_1 EE_1 I_1
-dvd	D I_1 WH U_1 EE_1 I_1 D I_1
-dvd	D I_4 WH U_1 EE_1 I_1 D I_4
-e	YH I_1
-e	YH I_4
-eason	YH I_1 S EEN_3 N_3
-easy	YH I_1 S I_3
-easy	YH I_1 X I_3
-echo	N OO_4 U_4
-egg	N OO_4 U_4
-elle	YH I_4 AH AA_2 I_2 L AH AA_2 I_2 L YH I_4
-email	YH I_1 M EE_2 I_2 EH ER_3
-email	YH I_1 M EE_4 I_4 OH OO_3 U_3
-eminem	AH AA_1 I_1 M I_1 N A_1 M
-eminem	AH AA_1 I_1 M I_1 N A_1 M U_1
-emma	AH AA_1 I_1 M A_1
-emo	N OO_4 U_4
-ems	YH I_1 AH AA_2 I_2 M U_1 AH AA_2 I_2 S IZ_1
-ems	YH I_4 AH AA_2 I_2 M U_1 AH AA_2 I_2 S IZ_1
-end	N OO_4 U_4
-ending	AH AA_1 N_1 D I_1 N_1
-ending	EH EEN_1 N_1 D I_1 N_1
-english	YH I_1 NG_1 G E_1 L EE_3 I_3 SH IZH_1
-english	YH I_1 NG_1 G E_1 L I_3 SH IZH_1
-english	YH I_1 NG_1 G L I_1 X I_1
-enhoy	N OO_4 U_4
-eric	N OO_4 U_4
-erp	YH I_1 AH A_2 P I_1
-erp	YH I_1 AH A_2 P I_4
-erp	YH I_4 AH A_2 P I_1
-erp	YH I_4 AH A_2 P I_4
-eva	N OO_4 U_4
-everybody	N OO_4 U_4
-excel	YH I_1 K E_1 S AA_4 I_4 AH A_3 U_3
-excel	YH I_1 K E_1 S AA_4 I_4 OH OO_3 U_3
-excel	YH I_1 K E_1 S EE_4 I_4 AH A_3 U_3
-excel	YH I_1 K E_1 S EE_4 I_4 OH OO_3 U_3
-excel	YH I_1 K E_1 S I_4 EA_4 OH OO_3 U_3
-exo	YH I_1 AH AA_2 I_2 K S OH OO_1 U_1
-exo	YH I_4 AH AA_2 I_2 K S OH OO_1 U_1
-f	AH AA_2 I_2 F
-face	F EE_4 I_4 S IZ_3
-facebook	F EE_1 I_1 S B U_4 K
-facebook	F EE_1 I_1 S IZ_3 B U_4 K E_1
-faker	N OO_4 U_4
-family	N OO_4 U_4
-fan	F I_4 EA_4 N_4
-fans	F AA_4 N_4 S
-fans	F AA_4 N_4 S IZ_1
-fans	F AA_4 N_4 S IZ_3
-fans	F I_4 EA_4 N_4 S
-fans	F I_4 EA_4 N_4 S IZ_3
-fashion	F AA_1 I_1 SH EEN_3 N_3
-fashion	F EE_1 I_1 X I_3 EA_3 N_3
-fashion	F I_1 EA_1 SH EEN_3 N_3
-fate	N OO_4 U_4
-feel	F I_1 OO_1 U_1
-feel	F I_4 OO_4 U_4
-feeling	F I_1 L I_3 NG_3
-fesco	F AA_1 I_1 S IZ_3 K OO_1 U_1
-fesco	F AA_1 I_1 S IZ_3 K OO_3 U_3
-fesco	F AA_1 N_1 S IZ_3 K OO_1 U_1
-fesco	F AA_1 N_1 S IZ_3 K OO_3 U_3
-fesco	F I_1 EA_1 S IZ_3 K OO_3 U_3
-fifa	F EE_1 I_1 F A_3
-fifa	F I_1 F A_3
-fighting	F AA_1 I_1 T I_3 NG_3
-find	F AA_4 N_4 D
-find	F AA_4 N_4 D E_1
-fion	AH AA_2 I_2 F AH AA_4 I_4 OH OO_1 U_1 EH EEN_1 N_1
-firefox	F AA_1 I_1 EH ER_1 F A_4 U_4 K E_1 S IZ_1
-firefox	F AA_1 I_1 EH ER_1 F A_4 U_4 K S
-five	N OO_4 U_4
-flash	F L AA_4 I_4 X I_1
-flash	F U_1 L AA_4 I_4 SH IZH_1
-fly	N OO_4 U_4
-fm	AH AA_2 I_2 F U_1 AH AA_2 I_2 M U_1
-follow	N OO_4 U_4
-for	F O_4
-forever	F O_1 R EE_1 I_1 WH U_3 O_3 
-fox	N OO_4 U_4
-frank	F R AA_1 N_1 K
-frank	F U_1 R AA_1 N_1 K E_1
-free	F R I_4
-friend	F R I_4 EA_4 N_4 D
-friend	F U_1 R I_4 EA_4 N_4 D
-fuck	F A_4 K
-fuck	F A_4 K E_3
-fun	F AA_4 N_4
-fun	F A_4 NG_4
-g	J I_1
-g	J I_4
-g２０００	J I_4 L I_3 A_3 NG_3 Q I_1 EA_1 N_1
-gaga	G A_1 G A_3
-galaxy	G AA_1 I_1 L AA_3 I_3 K E_1 X I_3
-galaxy	G AA_1 I_1 L AA_3 I_3 K X I_3
-galaxy	G AA_1 I_1 L E_3 K S I_3
-galaxy	G AA_1 I_1 L E_3 K X I_3
-game	G EE_4 I_4 M
-game	G EE_4 I_4 M U_3
-gap	G AA_4 I_4 P
-gap	G AA_4 I_4 P U_3
-gap	G I_4 EA_4 P
-gary	G AA_1 I_1 R I_3
-gary	G I_1 EA_1 R I_3
-gay	G EE_1 I_1
-gay	G EE_4 I_4
-gdp	J I_1 D I_1 P I_1
-gdp	J I_4 D I_4 P I_4
-gem	N OO_4 U_4
-get	G AA_4 I_4 T
-get	G AA_4 I_4 T E_3
-get	G EE_4 I_4 T
-get	G EE_4 I_4 T E_3
-get	G I_4 EA_4 T
-get	G I_4 EA_4 T E_3
-gg	J I_1 J I_1
-gg	J I_4 J I_4
-ghost	G OO_4 U_4 S IZ_1 T E_1
-ghost	G OO_4 U_4 S T
-gif	J I_1 AH AA_1 I_1 AH AA_2 I_2 F
-gif	J I_1 AH AA_1 I_1 AH AA_2 I_2 F U_1
-gif	J I_4 AH AA_4 I_4 AH AA_2 I_2 F
-gif	J I_4 AH AA_4 I_4 AH AA_2 I_2 F U_1
-girl	G E_4 EH ER_3
-give	N OO_4 U_4
-gmail	J I_1 M EE_1 I_1 OH OO_1 U_1
-gmail	J I_1 M EE_4 I_4 EH ER_1
-gmail	J I_1 M EE_4 I_4 OH OO_1 U_1
-go	G OO_4 U_4
-god	G A_4 D
-god	G A_4 U_4 D
-god	G A_4 U_4 D E_3
-good	G U_4 D
-good	G U_4 D E_1
-goodbye	G U_1 D B AA_4 I_4
-goodbye	G U_1 D E_1 B AA_4 I_4
-goodnight	G U_1 D E_1 N AA_4 I_4 T
-goodnight	G U_1 D E_1 N AA_4 I_4 T E_1
-google	G U_1 G OO_1 U_1
-google	G U_1 G OO_3 U_3
-gprs	J I_1 P I_1 AH A_4 AH AA_2 I_2 S IZ_1
-gprs	J I_4 P I_4 AH A_4 AH AA_2 I_2 S IZ_1
-gps	J I_1 P I_1 AH AA_2 I_2 S
-gps	J I_1 P I_1 AH AA_2 I_2 S IZ_3
-gps	J I_4 P I_4 AH AA_2 I_2 S
-gps	J I_4 P I_4 AH AA_2 I_2 S IZ_3
-grace	N OO_4 U_4
-gre	J I_1 AH A_2 YH I_4
-gre	J I_1 AH A_4 YH I_1
-gre	J I_4 AH A_4 YH I_4
-group	N OO_4 U_4
-gucci	G U_1 CH I_3
-gucci	G U_1 Q I_3
-gun	G AA_4 N_4
-guy	G AA_4 I_4
-guys	G AA_4 I_4 S
-guys	G AA_4 I_4 S IZ_1
-gym	N OO_4 U_4
-h	EH EE_2 I_2
-h	EH EE_2 I_2 CH IZH_1
-h	EH EE_2 I_2 CH IZH_3
-halo	H EE_1 I_1 L OO_1 U_1
-hang	N OO_4 U_4
-hank	EH EE_2 I_2 EH EE_1 I_1 EH EEN_1 N_1 K EE_4 I_4
-happy	H AA_1 I_1 P I_1
-happy	H AA_1 I_1 P I_2
-happy	H I_1 EA_1 P I_1
-happy	H I_1 EA_1 P I_3
-hate	H EE_4 I_4 T
-hate	H EE_4 I_4 T E_1
-have	N OO_4 U_4
-hd	EH EE_2 I_2 CH IZH_1 D I_1
-hd	EH EE_2 I_2 CH IZH_1 D I_4
-healer	H I_1 OO_1 U_1 L E_3
-heart	H A_4 T
-hebe	H EE_1 I_1 B I_1
-hebe	H I_1 B I_1
-helen	N OO_4 U_4
-hell	N OO_4 U_4
-hello	H A_1 L OO_2 U_2
-hello	H A_1 L OO_4 U_4
-hellokitty	H A_1 L OO_1 U_1 K I_1 T I_1
-help	N OO_4 U_4
-hen	N OO_4 U_4
-henry	H EENG_1 NG_1 R I_1
-here	N OO_4 U_4
-hero	N OO_4 U_4
-hey	H EE_4 I_4
-hi	H AA_1 I_1
-hi	H AA_4 I_4
-high	H AA_1 I_1
-him	N OO_4 U_4
-hit	H I_4 T
-hit	H I_4 T E_1
-hiv	EH EE_2 I_2 CH IZH_1 AH AA_1 I_1 WH U_1 EE_1 I_1
-hiv	EH EE_2 I_2 CH IZH_1 AH AA_4 I_4 WH U_1 EE_1 I_1
-hi歌	H AA_1 I_1 G E_1
-hm	EH EE_2 I_2 CH IZH_1 AH AA_2 I_2 M U_1
-hm	EH EE_2 I_2 CH IZH_1 AH AA_2 I_2 M U_3
-hold	H OO_1 U_1 D
-hold	H OO_4 U_4 D
-home	H OO_4 U_4 M U_3
-honey	H A_1 N I_3
-hongkong	H A_1 NG_1 K A_4 NG_4
-hongkong	H U_1 NG_1 K U_4 NG_4
-hot	N OO_4 U_4
-hotel	N OO_4 U_4
-hotmail	H A_4 U_4 T E_1 M EE_4 I_4 EH ER_1
-hotmail	H A_4 U_4 T E_1 M EE_4 I_4 OH OO_1 U_1
-hotmail	H A_4 U_4 T M EE_4 I_4 EH ER_1
-house	N OO_4 U_4
-how	H A_4 U_4
-hp	EH EE_2 I_2 CH IZH_1 P I_1
-hp	EH EE_2 I_2 CH IZH_1 P I_4
-htc	EH EE_2 I_2 CH IZH_1 T I_1 S EE_1 I_1
-htc	EH EE_2 I_2 CH IZH_1 T I_4 S EE_4 I_4
-htc	EH EE_2 I_2 CH IZH_3 T I_1 S EE_1 I_1
-hug	H A_4 G
-i	AH AA_1 I_1
-ibm	AH AA_1 I_1 B I_1 AH AA_2 I_2 M U_1
-ibm	AH AA_1 I_1 B I_4 AH AA_2 I_2 M U_1
-ibm	AH AA_4 I_4 B I_1 AH AA_2 I_2 M U_1
-ibm	AH AA_4 I_4 B I_4 AH AA_2 I_2 M U_1
-ice	N OO_4 U_4
-icloud	AH AA_1 I_1 K L A_4 U_4 D
-icloud	AH AA_1 I_1 K L A_4 U_4 D E_1
-icloud	AH AA_4 I_4 K L A_4 U_4 D
-icloud	AH AA_4 I_4 K L A_4 U_4 D E_1
-id	AH AA_1 I_1 D I_1
-id	AH AA_1 I_1 D I_4
-id	AH AA_4 I_4 D I_4
-idea	AH AA_1 I_1 D I_4 EH ER_3
-ie	AH AA_1 I_1 YH I_1
-ie	AH AA_4 I_4 YH I_4
-iem８	AH AA_1 I_1 YH I_1 AH AA_2 I_2 M U_1 B A_1
-ifc	AH AA_4 I_4 AH AA_2 I_2 F U_1 S EE_1 I_1
-ifc	AH AA_4 I_4 AH AA_2 I_2 F U_3 S EE_1 I_1
-ill	N OO_4 U_4
-imac	AH AA_1 I_1 M AA_4 I_4 K
-imac	AH AA_1 I_1 M AA_4 I_4 K E_1
-imax	AH AA_1 I_1 M AA_4 I_4 K S
-ime８	AH AA_1 I_1 AH AA_2 I_2 M U_1 YH I_1 B A_1
-in	YH I_1 NG_1
-in	YH I_1 N_1
-in	YH I_4 N_4
-ing	AH AA_1 I_1 EH EEN_1 N_1 J I_1
-ing	AH AA_1 I_1 EH EEN_1 N_1 J I_4
-ing	AH AA_4 I_4 EH EEN_1 N_1 J I_1
-ing	AH AA_4 I_4 EH EEN_1 N_1 J I_4
-intel	N OO_4 U_4
-internet	YH I_1 N_1 T E_1 N EE_4 I_4 T E_1
-internet	YH I_1 N_1 T E_3 N I_3 EA_3 T
-internet	YH I_1 N_1 T N EE_4 I_4 T
-ios	AH AA_1 I_1 OH OO_1 U_1 AH AA_2 I_2 S
-ios	AH AA_1 I_1 OH OO_1 U_1 AH AA_2 I_2 S IZ_1
-ip	AH AA_1 I_1 P I_1
-ip	AH AA_4 I_4 P I_4
-ipad	AH AA_1 I_1 P AA_4 I_4 D
-ipad	AH AA_1 I_1 P AA_4 I_4 D E_1
-iphone	AH AA_1 I_1 F EENG_4 NG_4
-iphone	AH AA_4 I_4 F EENG_1 NG_1
-ipo	AH AA_1 I_1 P I_1 OH OO_1 U_1
-ipo	AH AA_4 I_4 P I_4 OH OO_1 U_1
-ipod	AH AA_1 I_1 P A_4 U_4 D
-ipod	AH AA_1 I_1 P A_4 U_4 D E_1
-iq	AH AA_1 I_1 K I_1 OO_1 U_1
-iq	AH AA_4 I_4 K I_4 OO_4 U_4
-is	YH I_4 S
-is	YH I_4 S IZ_1
-isis	AH AA_1 I_1 AH AA_2 I_2 S AH AA_1 I_1 AH AA_2 I_2 S
-isis	AH AA_4 I_4 AH AA_2 I_2 S AH AA_4 I_4 AH AA_2 I_2 S
-it	AH AA_1 I_1 T I_1
-it	AH AA_1 I_1 T I_4
-it	AH AA_4 I_4 T I_4
-itouch	AH AA_1 I_1 T A_4 CH IZH_1
-itouch	AH AA_1 I_1 T A_4 Q I_1
-itunes	AH AA_1 I_1 T I_4 OO_4 U_4 S
-itunes	AH AA_1 I_1 T I_4 OO_4 U_4 S IZ_3
-itunes	AH AA_1 I_1 T U_4 S
-itunes	AH AA_1 I_1 T U_4 S IZ_3
-iuni	AH AA_1 I_1 YH I_1 OO_1 U_1 EH EEN_1 N_1 AH AA_1 I_1
-iuni	AH AA_4 I_4 YH I_1 OO_1 U_1 EH EEN_1 N_1 AH AA_4 I_4
-h	ZH EE_1 I_1
-h	ZH EE_4 I_4
-hack	J AA_4 I_4 K
-hack	J I_4 EA_4 K
-hack	J I_4 EA_4 K E_3
-hames	J EE_4 I_4 M U_3 S
-hames	J EE_4 I_4 M U_3 S IZ_3
-har	ZH A_4
-har	ZH U_4 A_4
-hason	N OO_4 U_4
-hava	J I_1 A_1 WH U_1 A_1
-hava	ZH A_1 WH U_1 A_1
-havascript	J I_1 A_1 WH U_1 A_1 S IZ_1 K R I_4 P U_1 T E_1
-havascript	J I_1 A_1 WH U_1 A_1 S K R I_4 P T
-havascript	ZH A_1 WH U_1 A_1 S IZ_1 K R I_4 P U_1 T E_1
-havascript	ZH A_1 WH U_1 A_1 S K R I_4 P T
-hay	ZH EE_4 I_4
-hazz	J AA_4 I_4 Z IZ_1
-hazz	J I_4 EA_4 Z
-hb	ZH EE_1 I_1 B I_1
-hb	ZH EE_4 I_4 B I_4
-heep	N OO_4 U_4
-henny	N OO_4 U_4
-herry	N OO_4 U_4
-hessica	J I_1 EA_1 S I_1 K A_3
-hh	ZH EE_1 I_1 ZH EE_1 I_1
-hhcc	ZH EE_1 I_1 ZH EE_1 I_1 S EE_1 I_1 S EE_1 I_1
-hhcc	ZH EE_4 I_4 ZH EE_4 I_4 S EE_4 I_4 S EE_4 I_4
-hob	J I_4 A_4 U_4 B
-hob	J O_4 B
-hob	ZH A_4 U_4 B
-hoe	ZH OO_4 U_4
-hohn	J U_4 O_4 
-holin	J U_1 O_1 L I_4 NG_4
-holin	ZH OO_3 U_3 L I_4 NG_4
-hordan	J A_1 U_1 D EEN_1 N_1
-hordan	J U_1 O_1 D EENG_1 NG_1
-hordan	J U_1 O_1 D EEN_1 N_1
-hoy	J I_4 A_4 U_4 YH I_1
-hpg	ZH EE_1 I_1 P I_1 J I_1
-hpg	ZH EE_1 I_1 P I_1 J I_4
-hpg	ZH EE_4 I_4 P I_4 J I_4
-hulia	ZH U_1 L I_1 A_1
-hump	N OO_4 U_4
-hust	ZH U_4 A_4 S IZ_3 T
-hustin	J I_1 A_1 S IZ_1 T I_3 NG_3
-hustin	J I_1 A_1 S T I_3 N_3
-hustin	ZH A_1 S D I_3 N_3
-hustin	ZH A_1 S IZ_3 T I_3 NG_3
-hustin	ZH A_1 S T I_3 N_3
-k	K EE_1 I_1
-k	K EE_4 I_4
-kaka	N OO_4 U_4
-kama	K A_3 M A_3
-kappa	K A_1 P A_3
-kb	K EE_1 I_1 B I_1
-kb	K EE_4 I_4 B I_4
-keep	N OO_4 U_4
-kelly	N OO_4 U_4
-kevin	K AA_1 I_1 WH U_3 EEN_3 N_3
-kevin	K EE_1 I_1 WH U_3 EEN_3 N_3
-kevin	K I_1 EA_1 WH U_3 EEN_3 N_3
-key	K I_4
-kfc	K EE_1 I_1 AH AA_2 I_2 F S EE_1 I_1
-kfc	K EE_1 I_1 AH AA_2 I_2 F U_1 S EE_1 I_1
-kfc	K EE_4 I_4 AH AA_2 I_2 F S EE_4 I_4
-kfc	K EE_4 I_4 AH AA_2 I_2 F U_1 S EE_1 I_1
-kfc	K EE_4 I_4 AH AA_2 I_2 F U_1 S EE_4 I_4
-kfcd	K EE_4 I_4 AH AA_2 I_2 F S EE_4 I_4 D I_4
-kill	N OO_4 U_4
-kindle	K I_1 NG_1 D OO_1 U_1
-kindle	K I_1 NG_1 D OO_3 U_3
-kindle	K I_1 N_1 D OO_1 U_1
-kindle	K I_1 N_1 D OO_3 U_3
-king	K I_4 NG_4
-kiss	K I_4 S
-kiss	K I_4 S IZ_3
-kitty	K I_1 T I_3
-know	N OO_4 U_4
-kobe	K OO_1 U_1 B I_3
-kosa	K OO_1 U_1 S A_3
-kris	N OO_4 U_4
-ktv	K EE_1 I_1 T I_1 WH U_1 EE_1 I_1
-ktv	K EE_4 I_4 T I_4 WH U_1 EE_1 I_1
-l	AH AA_2 I_2 L
-l	AH AA_4 I_4 L
-lady	L EE_1 I_1 D I_3
-ladygaga	L EE_1 I_1 D I_1 G A_1 G A_1
-lay	N OO_4 U_4
-leader	N OO_4 U_4
-led	AH AA_2 I_2 AH A_1 U_1 YH I_1 D I_1
-led	AH AA_2 I_2 AH A_1 U_1 YH I_4 D I_4
-lee	N OO_4 U_4
-leo	N OO_4 U_4
-let	L EE_4 I_4 T
-let	L I_4 EA_4 T
-level	N OO_4 U_4
-levis	N OO_4 U_4
-lg	AH AA_2 I_2 AH A_1 U_1 J I_1
-lg	AH AA_2 I_2 AH A_1 U_1 J I_4
-life	L AA_4 I_4 F
-life	L AA_4 I_4 F U_3
-lifi	AH AA_2 I_2 L AH AA_4 I_4 AH AA_2 I_2 F AH AA_4 I_4
-like	L AA_4 I_4 K
-lily	L I_1 L I_1
-linda	L I_1 N_1 D A_3
-line	L AA_4 I_4 EH EEN_1 N_1
-link	N OO_4 U_4
-linux	N OO_4 U_4
-lisa	L I_1 S A_3
-little	N OO_4 U_4
-live	L AA_4 I_4 WH U_3
-live	L I_4 WH U_3
-lock	L A_4 U_4 K
-lock	L A_4 U_4 K E_1
-log	L A_4 U_4 G
-log	L A_4 U_4 G E_3
-log	L O_4 G
-logo	L OO_1 U_1 G OO_1 U_1
-lol	AH AA_2 I_2 AH A_1 U_1 OH OO_1 U_1 AH AA_2 I_2 AH A_1 U_1
-loli	L U_2 O_2 L I_4
-lomo	L OO_4 U_4 M OO_1 U_1
-london	L A_4 U_4 D EEN_1 N_1
-long	N OO_4 U_4
-look	L U_4 K
-look	L U_4 K E_1
-loser	L U_1 S E_3
-lost	N OO_4 U_4
-love	L A_4 WH U_3
-lover	L A_1 WH U_3 EH E_3
-loving	L A_1 WH U_1 YH I_1 NG_1
-lovo	AH AA_2 I_2 L OH OO_1 U_1 WH U_1 EE_1 I_1 OH OO_1 U_1
-low	L OO_1 U_1
-low	L OO_4 U_4
-luck	L A_4 K E_3
-lucky	L A_1 K I_3
-lucy	L U_1 S I_1
-lv	AH AA_2 I_2 AH A_1 U_1 WH U_1 EE_1 I_1
-m	AH AA_1 I_1 M
-m	AH AA_1 I_1 M U_1
-m	AH AA_2 I_2 M
-m	AH AA_2 I_2 M U_1
-m	AH AA_4 I_4 M
-m	AH AA_4 I_4 M U_1
-m	EH I_1 EA_1 M
-m	EH I_1 EA_1 M U_1
-m	EH I_4 EA_4 M
-m	EH I_4 EA_4 M U_1
-mac	M AA_4 I_4 K
-mac	M AA_4 I_4 K E_3
-macbook	M AA_1 I_1 K B U_4 K
-macbook	M AA_1 I_1 K E_1 B U_4 K E_1
-mad	M AA_4 I_4 D
-mad	M EE_4 I_4 D
-mad	M I_4 EA_4 D
-made	N OO_4 U_4
-maggie	N OO_4 U_4
-magic	M AA_1 I_1 J I_1 K
-magic	M AA_1 I_1 J I_1 K E_1
-magic	M I_1 EA_1 J I_3 K
-mail	M EE_4 I_4 OH OO_1 U_1
-make	M EE_4 I_4 K
-mall	M A_4 U_4
-mall	M O_4
-mama	M A_1 M A_3
-man	M AA_4 N_4
-man	M I_1 EA_1 N_1
-man	M I_4 EA_4 N_4
-mark	M A_4 K
-mark	M A_4 K E_3
-mary	M AA_1 I_1 R I_3
-mary	M I_1 EA_1 R I_3
-master	N OO_4 U_4
-mate	M EE_4 I_4 T
-matlab	N OO_4 U_4
-max	M AA_4 I_4 K E_3 S IZ_3
-max	M AA_4 I_4 K S
-max	M I_4 EA_4 K S
-may	M EE_4 I_4
-maya	M A_3 YH I_3 A_3
-maybe	M EE_1 I_1 B I_3
-mb	AH AA_2 I_2 M U_1 B I_1
-mb	AH AA_2 I_2 M U_1 B I_4
-mba	AH AA_2 I_2 M U_1 B I_1 EH EE_1 I_1
-mba	AH AA_2 I_2 M U_1 B I_4 EH EE_1 I_1
-meet	N OO_4 U_4
-men	N OO_4 U_4
-mh１７	AH AA_2 I_2 M EH EE_2 I_2 YH I_1 A_1 U_1 Q I_1
-mh１７	AH AA_2 I_2 M EH EE_2 I_2 YH I_1 Q I_1
-mic	M AA_4 I_4 K
-michael	M AA_1 I_1 K OO_1 U_1
-microsoft	M AA_1 I_1 K E_1 R OO_1 U_1 S A_4 U_4 F T
-mike	M AA_4 I_4 K
-mimi	N OO_4 U_4
-mini	M I_1 N I_3
-miss	M I_4 S
-miss	M I_4 S IZ_1
-missing	M I_1 S I_1 NG_1
-mit	AH AA_2 I_2 M U_1 AH AA_1 I_1 T I_1
-mit	AH AA_2 I_2 M U_1 AH AA_4 I_4 T I_4
-miui	M I_3 YH I_1 OO_1 U_1 AH AA_1 I_1
-mix	M I_4 K S
-mix	M I_4 K S IZ_3
-ml	AH AA_2 I_2 M U_1 AH AA_2 I_2 AH A_1 U_1
-mm	AH AA_2 I_2 M U_1 AH AA_2 I_2 M U_1
-mobile	M OO_1 U_1 B AA_1 I_1 AH A_1 U_1
-money	M A_1 N I_1
-money	M A_1 N I_3
-moon	N OO_4 U_4
-morning	M O_1 N I_3 NG_3
-moto	M OO_1 U_1 T OO_1 U_1
-moto	M OO_1 U_1 T OO_3 U_3
-motor	N OO_4 U_4
-motorola	M OO_1 U_1 T E_1 R OO_1 U_1 L E_3
-mr	M I_1 S IZ_1 T ER_1
-mr	M I_1 S T ER_1
-mrpizza	M I_1 S IZ_1 T ER_1 P I_1 S A_1
-mrpizza	M I_1 S IZ_1 T ER_1 P I_1 Z A_1
-mrpizza	M I_1 S IZ_3 T ER_1 P I_1 S A_1
-mrpizza	M I_1 S IZ_3 T ER_1 P I_1 Z A_1
-mrs	M I_1 X I_1 S IZ_1
-ms	M I_1 S
-ms	M I_1 S IZ_1
-msn	AH AA_2 I_2 M U_1 AH AA_2 I_2 S EH EEN_1 N_1
-mtk	AH AA_2 I_2 M U_1 T I_1 K EE_1 I_1
-mtk	AH AA_2 I_2 M U_1 T I_4 K EE_4 I_4
-mtv	AH AA_2 I_2 M U_1 T I_1 WH U_1 EE_1 I_1
-mtv	AH AA_2 I_2 M U_1 T I_4 WH U_1 EE_1 I_1
-much	N OO_4 U_4
-muse	N OO_4 U_4
-music	N OO_4 U_4
-mv	AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1
-n	EH EEN_1 N_1
-nana	N OO_4 U_4
-nano	N A_1 N OO_1 U_1
-nb	EH EEN_1 N_1 B I_1
-nba	EH EEN_1 N_1 B I_1 EH EE_1 I_1
-nba	EH EEN_1 N_1 B I_4 EH EE_1 I_1
-neo	N OO_4 U_4
-net	N OO_4 U_4
-new	N I_1 OO_1 U_1
-new	N I_4 OO_4 U_4
-nexus	N EE_1 I_1 K E_1 S E_3 S IZ_3
-nexus	N I_1 EA_1 K S E_3 S
-ng	EH EEN_1 N_1 J I_1
-ng	EH EEN_1 N_1 J I_4
-nice	N AA_4 I_4 S IZ_3
-nick	N OO_4 U_4
-night	N AA_4 I_4 T
-nike	N AA_1 I_1 K I_3
-no	N OO_4 U_4
-nobody	N OO_1 U_1 B A_1 U_1 D I_1
-nokia	N OO_1 U_1 K I_1 A_1
-not	N A_4 U_4 T
-not	N A_4 U_4 T E_3
-not	N O_4 T
-note	N OO_4 U_4 T
-note	N OO_4 U_4 T E_1
-nothing	N OO_4 U_4
-now	N A_4 U_4
-o	OH OO_1 U_1
-o	OH O_1
-of	AH A_4 U_4 F
-of	AH A_4 U_4 F U_3
-of	EH E_4 F U_1
-off	AH A_4 U_4 F
-off	AH A_4 U_4 F U_3
-off	OH O_4 F
-offer	AH A_4 U_4 F ER_3
-offer	OH O_1 F ER_3
-office	AH A_1 U_1 F I_3 S IZ_3
-office	OH O_1 F I_3 S IZ_3
-oh	OH OO_1 U_1
-oil	N OO_4 U_4
-ok	OH OO_1 U_1 K EE_1 I_1
-ok	OH OO_1 U_1 K EE_4 I_4
-okay	OH OO_1 U_1 K EE_1 I_1
-okay	OH OO_1 U_1 K EE_4 I_4
-old	N OO_4 U_4
-one	WH U_4 AA_4 N_4
-online	N OO_4 U_4
-only	EH EENG_1 NG_1 L I_3
-open	N OO_4 U_4
-oppo	OH OO_1 U_1 P A_1 U_1
-oppo	OH OO_1 U_1 P A_3 U_3
-oppo	OH OO_1 U_1 P OO_1 U_1
-oppo	OH OO_1 U_1 P OO_3 U_3
-os	OH OO_1 U_1 AH AA_2 I_2 S
-os	OH OO_1 U_1 AH AA_2 I_2 S IZ_1
-os	OH OO_1 U_1 AH AA_4 I_4 S
-os	OH OO_1 U_1 AH AA_4 I_4 S IZ_1
-os	OH OO_1 U_1 EH ER_2 S
-os	OH OO_1 U_1 EH ER_2 S IZ_1
-os	OH OO_1 U_1 EH I_2 EA_2 S
-os	OH OO_1 U_1 EH I_2 EA_2 S IZ_1
-os	OH OO_1 U_1 EH I_4 EA_4 S
-os	OH OO_1 U_1 EH I_4 EA_4 S IZ_1
-out	AH A_4 U_4 T
-out	AH A_4 U_4 T E_3
-over	OH OO_1 U_1 WH ER_3
-p	P I_1
-p	P I_4
-pad	P AA_4 I_4 D
-pad	P AA_4 I_4 D E_3
-pad	P EE_4 I_4 D
-pad	P I_4 EA_4 D
-panda	N OO_4 U_4
-papa	P A_1 P A_3
-papi酱	P A_1 P I_3 J I_4 A_4 NG_4
-paris	P AA_1 I_1 R I_1 S
-part	N OO_4 U_4
-party	P A_1 T I_3
-pass	P A_4 S
-pass	P A_4 S IZ_3
-paul	P A_1 U_1
-paypal	P EE_1 I_1 P A_4 U_4
-pa至宝	P I_4 EH EE_1 I_1 ZH IZH_4 B A_3 U_3
-pc	P I_1 S EE_1 I_1
-pc	P I_4 S EE_4 I_4
-pdf	P I_1 D I_1 AH AA_2 I_2 F
-pdf	P I_4 D I_4 AH AA_2 I_2 F
-perfect	N OO_4 U_4
-peter	P I_1 T E_3 EH ER_3
-phone	F EENG_1 NG_1
-phone	F EENG_4 NG_4
-photo	F OO_1 U_1 T OO_1 U_1
-photoshop	F OO_1 U_1 T OO_1 U_1 SH A_4 U_4 P
-photoshop	F OO_1 U_1 T OO_1 U_1 X I_4 A_4 U_4 P
-php	P I_1 EH EE_2 I_2 CH IZH_1 P I_1
-php	P I_4 EH EE_2 I_2 CH IZH_1 P I_4
-php	P I_4 EH EE_2 I_2 CH P I_4
-pic	P I_1 AH AA_1 I_1 S EE_1 I_1
-pic	P I_4 AH AA_1 I_1 S EE_4 I_4
-picc	P I_4 AH AA_4 I_4 S EE_1 I_1 S EE_1 I_1
-pig	P I_4 G
-pig	P I_4 G E_3
-pin	P I_1 N_1
-ping	N OO_4 U_4
-pink	N OO_4 U_4
-pizza	P I_1 S A_3
-pizza	P I_1 Z A_3
-pk	P I_1 K EE_1 I_1
-pk	P I_4 K EE_4 I_4
-plan	N OO_4 U_4
-play	P E_1 L EE_4 I_4
-please	N OO_4 U_4
-plus	P E_1 L A_4 S
-plus	P E_1 L A_4 S IZ_1
-plus	P E_1 L A_4 S IZ_3
-plus	P U_1 L A_4 S
-plus	P U_1 L A_4 S IZ_1
-plus	P U_1 L A_4 S IZ_3
-polo	P OO_1 U_1 L OO_1 U_1
-pop	P O_4 P
-pos	P OO_4 U_4 S IZ_3
-pose	P OO_1 U_1 S IZ_1
-pose	P O_4 Z
-post	N OO_4 U_4
-power	P A_1 U_1 EH ER_1
-power	P A_1 U_1 WH U_1 EH ER_1
-pp	P I_1 P I_1
-pp	P I_4 P I_4
-pps	P I_1 P I_1 AH AA_2 I_2 S
-pps	P I_4 P I_4 AH AA_2 I_2 S
-ppt	P I_1 P I_1 T I_4
-ppt	P I_4 P I_4 T I_4
-pptv	P I_1 P I_1 T I_1 WH U_1 EE_1 I_1
-pptv	P I_4 P I_4 T I_4 WH U_1 EE_1 I_1
-prada	N OO_4 U_4
-pro	P R EH ER_4
-pro	P R OO_4 U_4
-prohect	N OO_4 U_4
-ps	P I_1 AH AA_2 I_2 S
-ps	P I_4 AH AA_2 I_2 S
-psp	P I_1 AH AA_2 I_2 S P I_1
-psp	P I_4 AH AA_2 I_2 S P I_4
-puma	P I_1 OO_1 U_1 M A_1
-px项目	P I_1 AH AA_2 I_2 K S X I_4 A_4 NG_4 M U_4
-python	P AA_1 I_1 S EEN_1 N_1
-q	K I_1 OO_1 U_1
-q	K I_4 OO_4 U_4
-qq	K I_1 OO_1 U_1 K I_1 OO_1 U_1
-qq	K I_4 OO_4 U_4 K I_4 OO_4 U_4
-qq桶饭	K I_1 OO_1 U_1 K I_1 OO_1 U_1 T U_2 NG_2 F AA_4 N_4
-queen	N OO_4 U_4
-qvod	K I_1 OO_1 U_1 WH U_1 EE_1 I_1 OH OO_1 U_1 D I_1
-qvod	K I_4 OO_4 U_4 WH U_1 EE_1 I_1 OH OO_1 U_1 D I_4
-qzone	K I_1 OO_1 U_1 ZH U_4 NG_4
-r	AH A_1
-r	AH A_1 EH ER_1
-r	AH A_2
-r	AH A_2 EH ER_1
-r	AH A_4
-r	AH A_4 EH ER_1
-r  EH ER_2
-r  EH ER_4
-radio	R EE_1 I_1 D I_1 OO_1 U_1
-rain	N OO_4 U_4
-rainbow	R V_1 N_1 B OO_1 U_1
-ram	AH A_1 EH EE_1 I_1 AH AA_2 I_2 M
-ram	R AA_1 I_1 M
-ram	R I_4 EA_4 M
-rap	R AA_4 I_4 P
-rap	R EE_4 I_4 P
-rap	R I_4 EA_4 P
-rar	AH A_2 EH EE_1 I_1 AH A_2
-ready	R EE_1 I_1 D I_3
-ready	R I_1 EA_1 D I_3
-real	R EE_4 I_4 OH OO_3 U_3
-really	N OO_4 U_4
-red	N OO_4 U_4
-right	N OO_4 U_4
-rio	R U_4 EE_4 I_4 OH OO_3 U_3
-rmvb	AH A_2 AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1 B I_1
-rmvb	AH A_2 AH AA_2 I_2 M U_1 WH U_1 EE_1 I_1 B I_4
-roll	N OO_4 U_4
-rom	N OO_4 U_4
-roommate	N OO_4 U_4
-root	R U_4 T
-root	R U_4 T E_1
-rose	R OO_4 U_4 S IZ_3
-rt	AH A_2 T I_4
-run	N OO_4 U_4
-running	R U_1 AA_1 N_1 N I_3 NG_3
-rush	N OO_4 U_4
-s	AH AA_2 I_2 S
-s	AH AA_2 I_2 S IZ_1
-s	EH I_2 EA_2 S
-s	EH I_2 EA_2 S IZ_1
-s４直播	AH AA_2 I_2 S S IZ_4 ZH IZH_2 B O_1
-s５三星	AH AA_2 I_2 S WH U_3 S AA_1 N_1 X I_1 NG_1
-saber	S EE_1 I_1 B E_3
-sad	S EE_4 I_4 D
-sad	S I_4 EA_4 D
-safari	S I_1 F A_1 R I_1
-sala	N OO_4 U_4
-sale	S EE_4 I_4 EH ER_1
-sam	S AA_4 I_4 M
-sam	S AA_4 I_4 M U_3
-sam	S I_4 EA_4 M
-samsung	N OO_4 U_4
-sasa	S A_1 S A_1
-sat	AH AA_2 I_2 S IZ_1 EH EE_1 I_1 T I_4
-say	S EE_4 I_4
-sb	AH AA_2 I_2 S IZ_1 B I_1
-sb	AH AA_2 I_2 S IZ_1 B I_4
-sd	AH AA_2 I_2 S IZ_1 D I_1
-sd	AH AA_2 I_2 S IZ_1 D I_4
-see	S I_1
-see	S I_4
-see	X I_4
-seed	N OO_4 U_4
-selina	S E_1 L I_1 N_1 N E_3
-send	S I_4 EA_4 N_4 D
-seo	N OO_4 U_4
-set	N OO_4 U_4
-seven	N OO_4 U_4
-sex	S EE_4 I_4 K E_3 S IZ_4
-sex	S EE_4 I_4 K S
-sex	S I_4 EA_4 K S
-sexy	S EE_1 I_1 K E_3 S I_3
-sexy	S EE_1 I_1 K S I_3
-sexy	S I_1 EA_1 K S I_3
-share	SH AA_1 I_1 EH ER_1
-she	AH AA_2 I_2 S IZ_1 EH EE_2 I_2 CH IZH_1 YH I_1
-she	AH AA_2 I_2 S IZ_1 EH EE_2 I_2 CH IZH_1 YH I_4
-shell	SH AA_4 I_4 AH A_3 U_3
-shell	SH EE_4 I_4 AH A_3 U_3
-shell	SH I_4 EA_4 AH A_3 U_3
-shell加油站	SH AA_4 I_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
-shell加油站	SH EE_4 I_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
-shell加油站	SH I_4 EA_4 AH A_3 U_3 J I_1 A_1 YH I_2 OO_2 U_2 ZH AA_4 N_4
-shift	SH I_4 F U_1 T
-shift	SH I_4 F U_1 T E_1
-shit	SH I_4 T
-shit	SH I_4 T E_3
-shop	SH A_4 U_4 P
-shop	SH O_4 P
-shopping	SH A_1 U_1 P I_1 NG_1
-show	SH OO_4 U_4
-showgirl	SH OO_1 U_1 G OO_4 U_4
-shuffle	SH A_1 F OO_1 U_1
-shut	SH A_4 T
-shut	SH A_4 T E_1
-sigh	N OO_4 U_4
-sim	AH AA_2 I_2 S IZ_1 AH AA_1 I_1 AH AA_2 I_2 M
-sim	AH AA_2 I_2 S IZ_1 AH AA_4 I_4 AH AA_2 I_2 M U_1
-sim	S I_4 M
-sim	S I_4 M U_3
-sina	N OO_4 U_4
-sing	N OO_4 U_4
-sir	S ER_3
-sir	S E_3
-sir	S E_4
-siri	S I_1 R I_1
-siri	S I_1 R I_3
-sister	N OO_4 U_4
-size	S AA_4 I_4 S IZ_3
-sky	S IZ_3 G AA_4 I_4
-skype	S IZ_3 G AA_4 I_4 P
-sleep	N OO_4 U_4
-sm	AH AA_2 I_2 S IZ_1 AH AA_2 I_2 M
-smart	N OO_4 U_4
-smile	S IZ_3 M AA_4 I_4 AH A_3 U_3
-so	S OO_1 U_1
-so	S OO_4 U_4
-sogo	S OO_1 U_1 G OO_1 U_1
-sogo	S OO_1 U_1 G OO_3 U_3
-soho	S OO_1 U_1 H OO_3 U_3
-soho	S OO_1 U_1 H OO_4 U_4
-sohu	N OO_4 U_4
-solo	S OO_1 U_1 L OO_3 U_3
-someone	S A_1 M U_1 WH U_4 AA_4 N_4
-someone	S A_1 M WH U_4 AA_4 N_4
-sometimes	S A_1 M T AA_4 I_4 M U_1 S IZ_1
-sometimes	S A_1 M U_1 T AA_4 I_4 M S
-son	N OO_4 U_4
-song	N OO_4 U_4
-sony	S O_1 N I_3
-sorry	S A_1 U_1 R I_1
-sorry	S A_1 U_1 R I_3
-sorry	S A_1 U_1 R U_3 EE_3 I_3
-sorry	S O_1 R I_3
-soso	N OO_4 U_4
-spa	S IZ_1 B A_4
-speak	S B I_4 K
-speak	S IZ_1 B I_4 K E_1
-sport	S IZ_1 B A_1 U_1 T
-sport	S IZ_1 B A_1 U_1 T E_1
-sport	S IZ_1 B A_4 U_4 T
-sport	S IZ_1 B A_4 U_4 T E_1
-sports	S IZ_1 B A_1 U_1 C IZ_1
-sports	S IZ_1 B A_4 U_4 C IZ_1
-spy	S IZ_1 B AA_4 I_4
-star	S IZ_1 D A_4
-star	S IZ_3 D A_4
-starbucks	S IZ_1 D A_4 B A_4 K E_1 S IZ_1
-steam	N OO_4 U_4
-stop	S IZ_1 D A_4 U_4 P
-stop	S IZ_1 D A_4 U_4 P U_1
-strong	S IZ_3 ZH U_4 A_4 NG_4
-strong	S IZ_3 ZH U_4 NG_4
-style	S IZ_1 D AA_4 I_4 AH A_1 U_1
-style	S IZ_3 D AA_4 I_4 AH A_3 U_3
-subway	S A_1 B U_1 WH U_4 EE_4 I_4
-subway	S A_1 B WH U_4 EE_4 I_4
-summer	S A_1 M ER_3
-summer	S A_1 M E_3
-sun	S AA_4 N_4
-sunny	S AA_4 N_4 N I_3
-sunshine	N OO_4 U_4
-super	S I_1 OO_1 U_1 P ER_1
-super	S I_1 OO_1 U_1 P ER_3
-superman	N OO_4 U_4
-sure	N OO_4 U_4
-surprise	N OO_4 U_4
-suv	AH AA_2 I_2 S IZ_1 YH I_1 OO_1 U_1 WH U_1 EE_1 I_1
-swatch	S I_1 WH EE_4 I_4 Q U_1
-sweet	N OO_4 U_4
-t	T I_1
-t	T I_4
-t１	T I_1 YH I_1
-t１	T I_4 YH I_1
-t２	T I_1 EH ER_4
-t２	T I_4 EH ER_4
-t３	T I_1 S AA_1 N_1
-t３	T I_4 S AA_1 N_1
-tab	T AA_4 I_4 B
-tab	T AA_4 I_4 B U_1
-tag	N OO_4 U_4
-take	N OO_4 U_4
-taobao	N OO_4 U_4
-tara	N OO_4 U_4
-tata	T A_1 T A_1
-taxi	T AA_1 I_1 K E_1 S I_1
-taxi	T AA_1 I_1 K S I_1
-taylor	T AA_1 I_1 L E_1
-taylor	T EE_1 I_1 L ER_3
-taylor	T EE_1 I_1 L E_1
-tcl	T I_1 S EE_1 I_1 AH AA_2 I_2 AH A_3 U_3
-tcl	T I_4 S EE_1 I_1 AH AA_2 I_2 AH A_3 U_3
-tcl	T I_4 S EE_4 I_4 AH AA_2 I_2 AH A_3 U_3
-td	T I_1 D I_1
-td	T I_4 D I_4
-tea	T I_4
-team	N OO_4 U_4
-ted	N OO_4 U_4
-tell	N OO_4 U_4
-tfboys	N OO_4 U_4
-thank	S AA_4 N_4 K
-thank	S AA_4 N_4 K E_1
-thanks	S AA_4 N_4 K E_1 K S
-thanks	S AA_4 N_4 K E_1 S IZ_1
-that	N OO_4 U_4
-the	D E_1
-then	N OO_4 U_4
-thinkpad	S I_1 N_1 K E_1 P AA_4 I_4 D E_3
-thinkpad	S I_1 N_1 K P AA_4 I_4 D
-this	N OO_4 U_4
-tiffany	N OO_4 U_4
-tiger	N OO_4 U_4
-tim	N OO_4 U_4
-time	T AA_4 I_4 M
-time	T AA_4 I_4 M U_1
-time	T AA_4 I_4 M U_3
-tina	N OO_4 U_4
-tokyo	T OO_1 U_1 K I_1 OO_1 U_1
-tom	T A_4 U_4 M
-tom	T A_4 U_4 M U_3
-tomorrow	N OO_4 U_4
-tony	N OO_4 U_4
-too	T U_4
-top	T A_4 U_4 P
-top	T O_4 P
-touch	T A_4 CH IZH_3
-touch	T A_4 Q V_3
-try	N OO_4 U_4
-turn	N OO_4 U_4
-tv	T I_1 WH U_1 EE_1 I_1
-tv	T I_4 WH U_1 EE_1 I_1
-tvb	T I_1 WH U_1 EE_1 I_1 B I_1
-tvb	T I_1 WH U_1 EE_1 I_1 B I_4
-tvb	T I_4 WH U_1 EE_1 I_1 B I_1
-tvb	T I_4 WH U_1 EE_1 I_1 B I_4
-twins	T U_4 YH I_4 N_4 S
-twins	T U_4 YH I_4 N_4 S IZ_1
-two	T U_4
-txt	T I_4 AH AA_2 I_2 K S T I_4
-u	YH I_1 OO_1 U_1
-uber	WH U_1 B ER_3
-uber	YH I_1 OO_1 U_1 B ER_3
-ubuntu	WH U_1 B AA_1 N_1 T U_2
-uc	YH I_1 OO_1 U_1 S EE_1 I_1
-uc	YH I_1 OO_1 U_1 S EE_4 I_4
-ucweb	YH I_1 OO_1 U_1 S EE_1 I_1 WH I_4 EA_4 B
-ucweb	YH I_1 OO_1 U_1 S EE_1 I_1 WH U_4 AA_4 I_4 B
-ucweb	YH I_1 OO_1 U_1 S EE_1 I_1 WH U_4 EE_4 I_4 B
-ufo	YH I_1 OO_1 U_1 AH AA_2 I_2 F U_1 OH OO_1 U_1
-ume	YH I_1 OO_1 U_1 AH AA_2 I_2 M U_1 YH I_4
-ume	YH I_1 OO_1 U_1 AH AA_2 I_2 M U_3 YH I_4
-uncle	N OO_4 U_4
-unix	YH I_1 OO_1 U_1 N I_1 K E_1 S IZ_1
-unix	YH I_1 OO_1 U_1 N I_1 K S
-uno	N OO_4 U_4
-up	AH A_4 P
-up	AH A_4 P U_1
-update	AH A_1 P D EE_4 I_4 T
-update	AH A_1 P U_1 D EE_4 I_4 T E_1
-us	YH I_1 OO_1 U_1 AH AA_2 I_2 S
-usb	YH I_1 OO_1 U_1 AH AA_2 I_2 S B I_1
-usb	YH I_1 OO_1 U_1 AH AA_2 I_2 S B I_4
-v	WH U_1 EE_1 I_1
-vans	WH U_4 AA_4 N_4 S IZ_3
-vc	WH U_1 EE_1 I_1 S EE_1 I_1
-vc	WH U_1 EE_1 I_1 S EE_4 I_4
-very	WH EE_1 I_1 R I_1
-very	WH EE_1 I_1 R I_3
-very	WH I_1 EA_1 R I_1
-very	WH I_1 EA_1 R I_3
-very	WH U_1 EE_1 I_1 R I_1
-video	N OO_4 U_4
-village	WH U_1 EE_1 I_1 L EE_3 I_3 ZH IZH_1
-village	WH U_1 EE_1 I_1 L I_3 ZH IZH_1
-vip	WH U_1 EE_1 I_1 AH AA_4 I_4 P I_1
-vip	WH U_1 EE_1 I_1 AH AA_4 I_4 P I_4
-visa	WH U_1 EE_1 I_1 S A_3
-vista	WH U_1 EE_1 I_1 S IZ_1 T A_1
-vista	WH U_1 EE_1 I_1 S T A_1
-viva	WH U_1 EE_1 I_1 WH U_1 A_1
-vivi	WH U_1 EE_1 I_1 WH U_1 EE_1 I_1
-vivian	WH U_1 EE_1 I_1 WH U_1 EE_1 I_1 AH AA_1 N_1
-vivo	WH U_1 EE_1 I_1 WH OO_3 U_3
-volvo	N OO_4 U_4
-vpn	WH U_1 EE_1 I_1 P I_1 EH EEN_1 N_1
-vpn	WH U_1 EE_1 I_1 P I_4 EH EEN_1 N_1
-vs	WH U_1 EE_1 I_1 AH AA_2 I_2 S IZ_1
-w	D AH A_2 B L I_1 OO_1 U_1
-w	D A_1 B L I_3 OO_3 U_3
-w	D A_2 B L I_1 OO_1 U_1
-wait	N OO_4 U_4
-wap	D A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_1
-wap	D A_2 B L I_1 OO_1 U_1 EH EE_1 I_1 P I_4
-wap	WH I_4 EA_4 P
-wap	WH U_4 AA_4 I_4 P
-war	WH A_4 U_4
-way	N OO_4 U_4
-wc	D A_2 B L I_1 OO_1 U_1 S EE_1 I_1
-wc	D A_2 B L I_1 OO_1 U_1 S EE_4 I_4
-web	WH I_4 EA_4 B
-web	WH U_4 EE_4 I_4 B
-wechat	WH U_1 EE_1 I_1 Q I_4 EA_4 T
-weibo	N OO_4 U_4
-welcome	WH I_1 EA_1 EH ER_3 K E_3 M
-welcome	WH U_1 EE_1 I_1 AH A_1 U_1 K A_4 M
-welcome	WH U_1 EE_1 I_1 AH A_1 U_1 K A_4 M U_1
-well	N OO_4 U_4
-wendy	N OO_4 U_4
-what	WH U_4 O_4 T
-what	WH U_4 O_4 T E_3
-when	WH U_4 EEN_4 N_4
-where	WH I_1 EA_1 EH ER_3
-which	WH EE_4 I_4 Q I_1
-who	H U_4
-why	WH U_4 AA_4 I_4
-wife	WH U_4 AA_4 I_4 F
-wifi	N OO_4 U_4
-wifi	WH U_1 AA_1 I_1 F AA_1 I_1
-wifi	WH U_1 AA_1 I_1 F AA_4 I_4
-wii	D AH A_2 B L I_1 OO_1 U_1 AH AA_1 I_1 AH AA_1 I_1
-wii	D AH A_2 B L I_1 OO_1 U_1 AH AA_4 I_4 AH AA_4 I_4
-will	N OO_4 U_4
-win	WH EEN_4 N_4
-window	N OO_4 U_4
-windows	WH U_1 EEN_1 N_1 D OO_3 U_3 S
-windows	WH U_1 EEN_1 N_1 D OO_3 U_3 S IZ_1
-wing	N OO_4 U_4
-winner	N OO_4 U_4
-wipe	WH U_4 AA_4 I_4 P
-wlan	D A_2 B L I_1 OO_1 U_1 L AA_4 I_4
-wlan	D A_2 B L I_1 OO_1 U_1 L AA_4 N_4
-word	WH U_4 O_4 D
-word	WH U_4 O_4 D E_1
-work	WH U_4 O_4 K
-work	WH U_4 O_4 K E_1
-wow	WH U_4 A_4 WH U_4
-wwdc	D AH A_2 B L I_1 OO_1 U_1 D AH A_2 B L I_1 OO_1 U_1 D I_4 S EE_4 I_4
-x	AH AA_2 I_2 K E_1 S
-x	AH AA_2 I_2 K E_1 S IZ_1
-x	AH AA_2 I_2 K S
-x	AH AA_2 I_2 K S IZ_1
-x	AH I_2 EA_2 K E_1 S
-x	AH I_2 EA_2 K E_1 S IZ_1
-x	AH I_2 EA_2 K S IZ_1
-x	EH I_2 EA_2 K S
-xbox	AH AA_2 I_2 K S B A_4 U_4 K E_1 S IZ_1
-xbox	AH AA_2 I_2 K S B A_4 U_4 K S
-xp	AH AA_2 I_2 K S P I_1
-xp	AH AA_2 I_2 K S P I_4
-xp	CH A_1 P I_4
-x战警	AH AA_2 I_2 K S ZH AA_4 N_4 J I_3 NG_3
-y	WH U_1 AA_1 I_1
-y	WH U_4 AA_4 I_4
-yahoo	YH I_1 A_1 H U_4
-yahoo	YH I_2 A_2 H U_4
-yahoo	YH I_3 A_3 H U_4
-yeah	YH I_4 EA_4
-year	YH ER_4
-year	YH I_1 EA_1
-year	YH I_4 EA_4
-year	YH I_4 EH ER_1
-year	YH I_4 EH ER_3
-yellow	N OO_4 U_4
-yep	N OO_4 U_4
-yes	YH I_4 EA_4 S
-yes	YH I_4 EA_4 S IZ_3
-yet	N OO_4 U_4
-you	YH I_1 OO_1 U_1
-you	YH I_4 OO_4 U_4
-youku	N OO_4 U_4
-young	YH I_4 A_4 NG_4
-your	N OO_4 U_4
-youtube	YH I_1 OO_1 U_1 T I_1 OO_1 U_1 B
-youtube	YH I_1 OO_1 U_1 T U_1 B
-yoyo	YH OO_1 U_1 YH OO_3 U_3
-yy	WH U_4 AA_4 I_4 WH U_4 AA_4 I_4
-z	Z EE_1 I_1
-z	Z EE_4 I_4
-z	Z I_1
-z	Z I_4
-zara	Z A_1 R A_3
-zara	Z A_1 R E_3
-zara	ZH A_1 R A_3
-zero	N OO_4 U_4
-zip	Z I_4 P
-zippo	Z I_1 P OO_1 U_1
-zsll	Z EE_4 I_4 AH AA_2 I_2 S AH AA_2 I_2 L AH AA_2 I_2 L
-丹棱街soho	D AA_1 N_1 L I_2 NG_2 J I_1 EA_1 S OO_1 U_1 H OO_1 U_1
-丹棱街soho	D AA_1 N_1 L I_2 NG_2 J I_1 EA_1 S OO_1 U_1 H OO_3 U_3
-华为３c	H U_2 A_2 WH U_2 EE_2 I_2 S AA_1 N_1 S EE_1 I_1
-凯德mall	K AA_3 I_3 D E_2 M A_4 U_4
-三里屯village	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2 WH U_1 EE_1 I_1 L EE_3 I_3 ZH IZH_1
-三里屯village	S AA_1 N_1 L I_3 T U_2 EEN_2 N_2 WH U_1 EE_1 I_1 L I_3 ZH IZH_1
-世界boss	SH IZH_4 J I_4 EA_4 B I_4 OH OO_1 U_1 AH AA_2 I_2 S AH AA_2 I_2 S
-唐宁one	T A_1 NG_1 N I_1 NG_1 WH U_4 AA_4 N_4
-唐宁one	T A_2 NG_2 N I_2 NG_2 WH U_4 AA_4 N_4
-天龙sf	T I_1 EA_1 N_1 L U_2 NG_2 AH AA_2 I_2 S AH AA_2 I_2 F
-中关村soho	ZH U_1 NG_1 G U_1 AA_1 N_1 C U_1 EEN_1 N_1 S OO_1 U_1 H OO_1 U_1
-中关村soho	ZH U_1 NG_1 G U_1 AA_1 N_1 C U_1 EEN_1 N_1 S OO_1 U_1 H OO_3 U_3

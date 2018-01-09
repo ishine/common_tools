@@ -78,7 +78,7 @@ Q
 R
 S
 SH
-sil
+SIL
 T
 U_1
 U_2

@@ -32,29 +32,41 @@ def GetSet(shengmu_file):
         shengmu_set.add(shengmu)
     return shengmu_set
 
-def ConvertToWord(lexicon_in, lexicon_out, shengmu_set, mdict):
-    f_out = open(lexicon_out, 'w')
+def ConvertToWord(lexicon_in, shengmu_set, mdict):
+    lexicon_out = []
+    lexicon_nomap = []
     for line in open(lexicon_in, 'r'):
         word_pron = []
         lex_list = line.rstrip().split()
         word_str = lex_list[0]
+        match = True
         for py in lex_list[1:]:
             if py in shengmu_set:
                 if len(word_pron) != 0:
                     pron = MapMuchToOne(mdict, word_pron)
                     if pron == None:
-                        print(line,py)
-                        sys.exit(1)
+                        lexicon_nomap.append(line)
+                        match = False
+                        break
                     word_str += ' ' + pron
                     word_pron = []
             word_pron.append(py)
+        if match == False:
+            continue
         pron = MapMuchToOne(mdict, word_pron)
         if pron == None:
-            print(line)
-            sys.exit(1)
+            lexicon_nomap.append(line)
+            continue
         word_str += ' ' + pron
         word_str += '\n'
-        f_out.write(word_str)
+        lexicon_out.append(word_str)
+    return lexicon_out, lexicon_nomap
+
+def WriteList(lex_list, file_out):
+    fp_out = open(file_out,'w')
+    for lex in lex_list:
+        fp_out.write(lex)
+
 
 if __name__ == '__main__':
     if len(sys.argv) != 5:
@@ -66,6 +78,8 @@ if __name__ == '__main__':
     lexicon_out = sys.argv[4]
     shengmu_set = GetSet(shengmu_file)
     mdict = MapDict(map_file)
-    ConvertToWord(lexicon_in, lexicon_out, shengmu_set, mdict)
+    lexicon_list, lexicon_nomap = ConvertToWord(lexicon_in, shengmu_set, mdict)
 
+    WriteList(lexicon_list, lexicon_out)
+    WriteList(lexicon_nomap, lexicon_out+'nomap')
 

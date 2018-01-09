@@ -25,4 +25,4 @@ zh ZH
 ch CH
 sh SH
 r R
-sil sil
+sil SIL

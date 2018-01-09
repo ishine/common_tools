@@ -49,6 +49,7 @@ for line in open(lexicon_file,'r'):
     yunmu=[]
     yunmu_str=""
     yunmu_diao=0
+    match = True
     for ph in lex_line_list[1:]:
         if ph in shengmu_set:
             if len(yunmu) != 0:
@@ -56,17 +57,25 @@ for line in open(lexicon_file,'r'):
                 yunmu=[]
                 if yunmu_str == None:
                     nomap_lexicon_file.write(line)
+                    match = False
                     break
                 if yunmu_str in ph_map_dict.keys():
                     map_lex+=" "+ ph_map_dict[yunmu_str]+"_"+str(yunmu_diao)
                 else:
                     nomap_lexicon_file.write(line)
+                    match = False
                     break
             map_lex+=" "+ph
         else:
             yunmu.append(ph)
+    if match == False:
+        continue
     if len(yunmu) > 0:
-        yunmu_str,yunmu_diao=exchange_yunmu(yunmu)
+        try:
+            yunmu_str,yunmu_diao=exchange_yunmu(yunmu)
+        except ValueError:
+            print(line)
+            sys.exit(1)
         if yunmu_str == None:
             nomap_lexicon_file.write(line)
             continue
