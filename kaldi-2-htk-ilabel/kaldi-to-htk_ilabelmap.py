@@ -51,7 +51,7 @@ for line in open(sys.argv[1]):
     hmm_line = line.rstrip().split(' ')
     num = len(hmm_line)
     #    if num==2:
-    if int(hmm_line[1]) <= 0:
+    if int(hmm_line[1]) <= 0 and num <= 2:
         if hmm_line[0] in kaldi_disambig_ilabels_set:
             ilabel_map_file.write(hmm_line[0]+' '+str(disambig_id)+'\n')
             disambig_ilabels_file.write(str(disambig_id)+'\n')

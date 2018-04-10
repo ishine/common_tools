@@ -23,7 +23,7 @@ for triphone in fin:
     ctx2pdfid[triphone] = id
 fin.close()
 
-cmd = "grep -A 8 ~h %s | grep -E \'~h|~s\' > tiedlist.tmp" % HMMDEFS
+cmd = "grep -A 12 ~h %s | grep -E \'~h|~s\' > tiedlist.tmp" % HMMDEFS
 os.system(cmd)
 tiedphone = {}
 state = []

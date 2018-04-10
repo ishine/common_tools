@@ -257,45 +257,44 @@ def convert(fmdl, fphones, ftree, foutname, ftiedname, vecSize=39, silphones="",
         print >> fw, "<VECSIZE> %d<NULLD><USER><DIAGC>" % vecSize
 
         # Write transitions
-#        trans_mat = np.zeros((2+2, 2+2))
-#        trans_mat[0, 1] = 1.0
+        trans_mat = np.zeros((2+2, 2+2))
+        trans_mat[0, 1] = 1.0
 #        trans_mat[1, 1] = 1.0
-#        trans_mat[1, 2] = 0.5
-#        trans_mat[2, 2] = 0.5
-#        trans_mat[2, 3] = 0.0
+        trans_mat[1, 2] = 0.5
+        trans_mat[2, 2] = 0.5
+        trans_mat[2, 3] = 0.0
         states = []
         for hmm in hmms.keys():
             trans_name = "_".join([str(x) for x in hmm])
 
-            trans_mat = np.zeros((len(hmm)+2, len(hmm)+2))
-            trans_mat[0, 1] = 1.0
+#            trans_mat = np.zeros((len(hmm)+2, len(hmm)+2))
+#            trans_mat[0, 1] = 1.
             for i, state in enumerate(hmm):
                 states.append(state)
-                for b in range(0, 2):
-                    if len(hmms[hmm][0]) == 3:
-                        ph = phones2int[hmms[hmm][0][1]]
-                    elif len(hmms[hmm][0]) == 2:
-                        ph = phones2int[hmms[hmm][0][1]]
-                    elif len(hmms[hmm][0]) == 1:
-                        ph = phones2int[hmms[hmm][0][0]]
-                    else:
-                        print(hmms[hmm][0])
-                        raise ValueError("Only mohophone/biphone/triphone models allowed.")
-                    try:
-                        # p = trans[state, ph, i, b]
-                        p = trans[state, i, b]
-                    except KeyError:
-                        if "#" in int2phones[ph]:
-                            print "INFO: Not found transition for pdf %d with phone %d at %d %d" % (state, ph, i, b)
-                        else:
-                            print "ERROR: Not found transition for pdf %d with phone %d at %d %d" % (state, ph, i, b)
-                            print "This could be bad error, probably some mistake in conversion?"
-                    trans_mat[i + 1, b + i + 1] = p
-
+#                for b in range(0, 2):
+#                    if len(hmms[hmm][0]) == 3:
+#                        ph = phones2int[hmms[hmm][0][1]]
+#                    if len(hmms[hmm][0]) == 2:
+#                        ph = phones2int[hmms[hmm][0][1]]
+#                    elif len(hmms[hmm][0]) == 1:
+#                        ph = phones2int[hmms[hmm][0][0]]
+#                    else:
+#                        raise ValueError("Only mohophone/biphone/triphone models allowed.")
+#                    try:
+#                        # p = trans[state, ph, i, b]
+#                        p = trans[state, i, b]
+#                    except KeyError:
+#                        if "#" in int2phones[ph]:
+#                            print "INFO: Not found transition for pdf %d with phone %d at %d %d" % (state, ph, i, b)
+#                        else:
+#                            print "ERROR: Not found transition for pdf %d with phone %d at %d %d" % (state, ph, i, b)
+#                            print "This could be bad error, probably some mistake in conversion?"
+#                    trans_mat[i + 1, b + i + 1] = p
 
             # Print out transitions for this HMM
             print >> fw, '~t "T_%s"' % trans_name
-            print >> fw, "<TRANSP> %d" % (len(hmm) + 2)
+#            print >> fw, "<TRANSP> %d" % (len(hmm) + 2)
+            print >> fw, "<TRANSP> %d" % (2 + 2)
             print >> fw, mat2str(trans_mat)
 
         if GMM:
