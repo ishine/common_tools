@@ -1,9 +1,20 @@
 #!/bin/bash -x 
 
 sourcedir=sheng-yun-mu
-outdir=outdir-shengyunmu
-outdir_words=outdir-words
+outdir=outdir-shengyunmu-asr-modefy
+outdir_words=outdir-words-asr-modefy
 
+function GetKaldiDictSource()
+{
+	phones=$1
+	outdir=$2
+	sil=$3
+	grep $sil $phones > $outdir/silence_phones.txt
+	grep -v $sil $phones > $outdir/nonsilence_phones.txt
+	cp $outdir/silence_phones.txt $outdir/optional_silence.txt
+	touch $outdir/extra_questions.txt
+	return 0
+}
 
 mkdir -p $outdir $outdir_words
 
@@ -33,6 +44,8 @@ awk '{for(i=2;i<=NF;++i)print $i}' $outdir/map_chinese.txt |sort -u > $outdir/ch
 awk '{for(i=2;i<=NF;++i)print $i}' $outdir/map_english.txt |sort -u> $outdir/english.phones.txt || exit 1
 
 cat $outdir/chinese.phones.txt $outdir/english.phones.txt |sort -u > $outdir/phones.txt || exit 1
+
+GetKaldiDictSource $outdir/phones.txt $outdir "SIL" 
 
 cat $outdir/map_english.txt $outdir/map_chinese.txt |\
 	sed 'y/abcdefghihklmnopqrstuvwxyz/£á£â£ã£ä£å£æ£ç£è£é£ê£ë£ì£í£î£ï£ð£ñ£ò£ó£ô£õ£ö£÷£ø£ù£ú/' > $outdir/lexicon.txt
@@ -64,3 +77,6 @@ echo englist map OK.
 cat $outdir_words/map_chinese.txt $outdir_words/map_english.txt  > $outdir_words/lexicon.txt || exit 1
 
 awk '{print $1}' $outdir_words/allmap_word2shengyunmu.txt > $outdir_words/phones.txt
+
+GetKaldiDictSource $outdir_words/phones.txt $outdir_words "SIL" 
+

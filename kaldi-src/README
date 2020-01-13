@@ -1,0 +1,2 @@
+download kaldi and checkout 8b500766fa97edcd34259a105926658019b03ecb
+Make kaldi and set Makefile KALDI directory.

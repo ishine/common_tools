@@ -19,7 +19,7 @@ def LoadPhones(ph_file):
     for line in open(ph_file,'r'):
         ph = line.rstrip().split()
         assert int(ph[1]) == num
-        phones_list.append(ph[0])
+        phones_list.append(ph[0].upper())
         num += 1
     return phones_list
 
@@ -102,7 +102,7 @@ def ConvertShengyun2Word(words_list):
         word_words = []
         for ph in word[0] + word[1]:
             word_words.append(word_str)
-        new_words_list.append(word_str)
+        new_words_list.append(word_words)
     return new_words_list
 
 def Phones2ShengyunAli(old_ali, new_ali, shengmu_dict, yunmu_dict, phones_list):
@@ -129,6 +129,8 @@ def Phones2ShengyunAli(old_ali, new_ali, shengmu_dict, yunmu_dict, phones_list):
                 for i in word[1]:
                     yunmu_list.append(yunmu)
                 new_word.append(yunmu_list)
+            else:
+                new_word.append([])
             newword_list.append(new_word)
             new_word = []
         if mapflag == False:
@@ -152,8 +154,11 @@ def Phones2ShengyunAli(old_ali, new_ali, shengmu_dict, yunmu_dict, phones_list):
         str_newali = PrintList(new_ph_ali)
         new_fp.write(str_newali)
 
+        #print(len(new_word_ali))
+        #print(len(ali_line))
+        assert len(new_word_ali) == len(ali_line)
         str_newwordali = PrintList(new_word_ali)
-        new_word_fp.write()
+        new_word_fp.write(str_newwordali)
     new_fp.close()
     new_word_fp.close()
     return True
