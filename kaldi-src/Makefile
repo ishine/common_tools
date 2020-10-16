@@ -1,5 +1,5 @@
 
-KALDI = /search/speech/hubo/git/old-kaldi/kaldi/src
+KALDI = /home/hubo/git/github-online/github/kaldi/src
 
 
 all:
@@ -10,8 +10,8 @@ include ${KALDI}/kaldi.mk
 
 BINFILES =  context-to-pdf print-transitions \
 			gmm-copy cdphone-to-pdf \
-			make-ilabel-transducer-sort
-			# make-pdf-to-tid-transducer this is kaldi command
+			make-ilabel-transducer-sort \
+			make-pdf-to-tid-transducer #this is kaldi command
 			# gmm-copy : is in $kaldipath/src/gmmbin
 			# make-ilabel-transducer-sort : modefy from make-ilabel-transducer
 

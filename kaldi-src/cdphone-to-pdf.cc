@@ -146,12 +146,15 @@ int main(int argc, char *argv[]) {
 		// write cd phone hmm fst
 		HmmCacheType cache;
 		std::vector<int32> disambig_syms_in;
-		fst::VectorFst<fst::StdArc> *fst = GetHmmAsFst(phone_window,
+		fst::VectorFst<fst::StdArc> *fst = GetHmmAsFsa(phone_window,
 				ctx_dep, trans_model, hcfg, &cache);
+		
+		bool check_no_self_loops = true;
 		AddSelfLoops(trans_model,
 				disambig_syms_in,
 				self_loop_scale,
 				reorder,
+				check_no_self_loops,
 				fst);
 		fst->Write(fst_out_filename + std::to_string(j) + ".fst");
 		delete fst;

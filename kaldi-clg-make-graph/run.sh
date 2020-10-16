@@ -1,10 +1,11 @@
 #!/bin/bash 
 
-export PATH=../kaldi-src/:$PATH
+export PATH=./src/:$PATH
 if [ -z $KALDI_ROOT ]
 then
-	export KALDI_ROOT=/search/speech/hubo/git/kaldi
+	export KALDI_ROOT=/home/hubo/git/github-online/github/kaldi
 fi
+#echo $KALDI_ROOT
 . path.sh
 
 stage=1
@@ -21,6 +22,10 @@ fi
 am=$1
 clg=$2
 output_dir=$3
+if [ ${output_dir:0:1} != "/" ]
+then
+	output_dir=$PWD/$output_dir
+fi
 #treeinfo=3_1
 #self_loop_scale=0.1
 treeinfo=2_1
@@ -62,15 +67,18 @@ done
 
 # generate hmm.list
 hmm_num=`ls $output_dir/H.fst*.fst.pdf|wc -l`
-rm -f $output_dir/hmm.list
+rm -f $output_dir/hmm.pdf.list
+rm -f $output_dir/hmm.tid.list
 for i in `seq $hmm_num`
 do
-	onehmm=$output_dir/H.fst${i}.fst.pdf
+	tidhmm=$output_dir/H.fst${i}.fst
+	pdfhmm=$output_dir/H.fst${i}.fst.pdf
 	if [ -f $onehmm ]
 	then
-		echo $onehmm >> $output_dir/hmm.list
+		echo $tidhmm >> $output_dir/hmm.tid.list
+		echo $pdfhmm >> $output_dir/hmm.pdf.list
 	else
-		echo "no $onehmm, it shouldn't happen"
+		echo "no $pdfhmm, it shouldn't happen"
 		exit -1
 	fi
 done
